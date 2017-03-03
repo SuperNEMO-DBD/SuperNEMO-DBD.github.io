@@ -51,6 +51,6 @@ $ ./snjekyll help
     in `/usr/local`
 
 # TODO
-More documentation...
+More documentation... more documentation by all.
 
 
