@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting ready for source foils"
-date:   2018-09-19 20:00:00 +0000
+date:   2018-09-12 20:00:00 +0000
 thumbnail: "assets/post_images/tracker_thumb.jpeg"
 categories: supernemo se82 detector
 ---
