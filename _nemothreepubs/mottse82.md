@@ -1,6 +1,6 @@
 ---
 title: "Final results on $^{82}$Se double beta decay to the ground state of $^{82}$Kr from the NEMO-3 experiment"
-journal: "Phys. Rev. Lett. 119, 041801"
+journal: "Accepted by European Journal of Physics"
 date: 28-09-2018
 doi: Not yet allocated/Coming soon
 image_url: "assets/pub_imgs/se82_paper.png"
