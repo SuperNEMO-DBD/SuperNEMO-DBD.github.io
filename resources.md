@@ -67,6 +67,10 @@ For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). Contact
         <h1 class="post-title text-center">Software and computing</h1>
     </header>
 <div markdown="1">
+
+Working with the SuperNEMO software
+--------------------------------------------------
+
 All software is available under {% include icon-github.html username=site.github_username %}
     
 The main software package for offline work is [Falaise](https://github.com/SuperNEMO-DBD/Falaise).
@@ -81,12 +85,7 @@ use the [homebrew-cadfael Issue Tracker](https://github.com/SuperNEMO-DBD/homebr
 For all issues relating to using Falaise, or installing/developing it locally, [raise an issue on the
 Falaise tracker](https://github.com/SuperNEMO-DBD/Falaise/issues)
 </div>
-</div>
 
-            <div id="ops" style="display:none">
-                <header class="post-header">
-                    <h1 class="post-title text-center">Operations</h1>
-                </header>
                 
 <div markdown="1">
 Getting an account on the CCLyon computing cluster
@@ -102,7 +101,57 @@ If you already have one, make sure you can access it (and contact <a href="mailt
                 
 You should receive your account information in a few days.
 </div>
-            </div>
+
+</div>
+
+<div id="ops" style="display:none">
+<header class="post-header">
+<h1 class="post-title text-center">Operations</h1>
+</header>
+<div markdown="1">
+Working at LSM
+-------------
+
+![The view from LSM]({{"assets/modane.jpg"| relative_url }})
+
+As we enter the final stages of construction and commissioning, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). Here are some hints to ensure your trip is drama-free.
+
+### Register on the calendar
+There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account.
+Make sure Yves or <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground, so that they can arrange for a driver.
+
+### Training
+Before you go underground for the first time, you will need to do some basic safety training, in case there is an emergency in the tunnel. Jean-Lou of LSM leads this training, and you will be able to do it very quickly in the morning before you go underground. You will also need to receive some security paperwork. To get all of this set up, let <a href="mailto:magali.eyraud@lsm.fr">Magali Eyraud</a> know that you will be going underground for the first time.
+
+### Staying in Modane
+You have a few options for accommodation in Modane. The cheapest option is to stay in the LSM dorms. There are 4 rooms in the basement of the surface lab. Each one has its own shower and toilet, and there is a shared kitchen which is stocked with basic cooking equipment. The dorm rooms cost EUR19 per night. To find out about availability and book a room, contact <a href="mailto:magali.eyraud@lsm.fr">Magali Eyraud</a> at LSM. Alternatively, people choose to stay in Modane itself (walking distance to the lab) or in the nearby ski resort of Aussois, a 10-15 minute drive from the lab. Some hotels we have tried:
+- [Hotel Le Commerce](http://www.hotel-le-commerce.net) in Modane
+- [Les Voyageurs](https://www.booking.com/hotel/fr/les-voyageurs-modane.en-gb.html) in Modane
+- [Les Mottets](http://www.hotel-lesmottets.com) in Aussois
+- [Hotel du Soleil](https://www.hotel-du-soleil.com/en) in Aussois
+
+Modane and Aussois both have restaurants, although some of them will be closed in the non-tourist season. Modane's gastronomic district (such as it is) is the street by the railway station. A few we like:
+- [Il Peppuccio](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d2002414-Reviews-Il_Peppuccio-Modane_Savoie_Auvergne_Rhone_Alpes.html) Pizzeria in Modane. No trip to LSM is complete without a Peppuccio pizza. Veggie options available. Gluten-free possible but limited.
+- [L'Echappee](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d3681609-Reviews-L_Echappee-Modane_Savoie_Auvergne_Rhone_Alpes.html) A little more expensive, with French food including Alpine specialities. Go there when you want to celebrate.
+- [Pulcinella](http://www.pizzeriapulcinella.fr) A pizzeria that is not Peppuccio. Sometimes open when Peppuccio is closed.
+- [Le Perce Neige](http://www.hotel-leperceneige.com) Traditional food of the Savoie region. Lots of cheese. Feels like somebody's living room.
+- [L'international](http://www.savoie-mont-blanc.com/en/offre/fiche/restaurant-international/4840124) Turkish food. Exotic by Modane standards!
+- [Hotel de la Gare](https://www.hoteldelagare-modane.com) Sells crepes and galettes, among other things.
+
+### Getting to Modane
+The easiest way to get to Modane is probably to fly to Geneva and rent a car. It's around a 2.5-hour drive to the lab, mostly on motorways, from Geneva airport, although this can vary significantly with traffic. Lyon is slightly further, but is a domestic flight if you are coming from France. There is parking at the lab and street parking near the hotels, though finding spaces in downtown Modane can be annoying.
+
+The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from Lyon airport - again, infrequent - if you don't want to drive. Getting to Geneva by public transport is harder, but possible.
+
+### Things to consider
+It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground. Also a very nice espresso machine and a microwave.) If you will be coming frequently, consider investing in your own pair of cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size.
+
+When you are underground but not in the cleanroom, you must be wearing closed-toed shoes. No sandals!
+
+There is no wi-fi underground, but you can connect to the internet using an ethernet cable (in the break room). You should turn off your phone or put it in airplane mode when you are underground, to protect other experiments in the lab.
+
+</div>
+</div>
             
             <div id="analysis" style="display:none">
                 <header class="post-header">
@@ -203,20 +252,6 @@ print('Hello World')
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div>
