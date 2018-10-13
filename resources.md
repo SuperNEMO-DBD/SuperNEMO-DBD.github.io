@@ -118,7 +118,10 @@ As we enter the final stages of construction and commissioning, everyone is welc
 
 ### Register on the calendar
 There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account.
-Make sure Yves or <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground, so that they can arrange for a driver.
+Make sure Yves or <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground, so that they can arrange for a driver - and tell them whether you want to stay for lunch.
+
+### Going underground
+The vans leave at 8:30am each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring some lunch - there's a microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). If you're staying late, you'll need to get permission from the lab management - your driver should be able to help you.
 
 ### Training
 Before you go underground for the first time, you will need to do some basic safety training, in case there is an emergency in the tunnel. Jean-Lou of LSM leads this training, and you will be able to do it very quickly in the morning before you go underground. You will also need to receive some security paperwork. To get all of this set up, let <a href="mailto:magali.eyraud@lsm.fr">Magali Eyraud</a> know that you will be going underground for the first time.

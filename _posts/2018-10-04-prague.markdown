@@ -8,7 +8,7 @@ categories: supernemo meeting collaboration
 
 It's SuperNEMO collaboration meeting once again, and this time, we are in beautiful Prague!
 
-![The collaboration in Prague]({{"assets/post_images/SN_group_photo_Prague2018.png"| relative_url }}){:style="float: left;margin-right: 20px;"}
+![The collaboration in Prague]({{"assets/post_images/SN_group_photo_Prague2018.jpg"| relative_url }}){:style="block: left;margin-right: 20px;"}
 
 It was an intense meeting, as the SuperNEMO detector will soon be built. Collaboration members discussed the last few steps needed to get the Demonstrator module ready to start taking data. The rest of the year will be busy, with everyone pitching in to help with cabling, commissioning, and ensuring that our electronics and software are ready for the big day: SuperNEMO Run 0!
 
