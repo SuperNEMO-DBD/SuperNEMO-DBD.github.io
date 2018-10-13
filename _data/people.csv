@@ -37,7 +37,7 @@ GILBERT,Genevieve,gilbert@LAL.IN2P3.FR,Gilbert,Genevieve,LAL,,,,,
 GUILLON,Benoit,guillon@LPCCAEN.IN2P3.FR,Guillon,Benoit,LPCCAEN,,,,,
 GUZOWSKI,Pawel,pawel.guzowski@manchester.ac.uk,Guzowski,Pawel,Manchester,Research Associate,,,,y
 Garrido,Xavier,garrido@LAL.IN2P3.FR,Garrido,Xavier,LAL,,,,y,
-HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,,Calorimeter,y,y
+HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people/hodak.jpg,Calorimeter,y,y
 HOLY,Karol,holy@fmph.uniba.sk,Holy,Karol,Uniba,,,,y,y
 HOMMET,Jean,hommet@LPCCAEN.IN2P3.FR,Hommet,Jean,LPCCAEN,,,,,
 HORKLEY,Jared,Jared.Horkley@INL.GOV,Horkley,Jared,INL,,,,,y
@@ -81,7 +81,7 @@ POVINEC,Pavel,Pavel.Povinec@fmph.uniba.sk,Povinec,Pavel,Uniba,,,,y,y
 PROGA,Marek,proga@PHYSICS.UTEXAS.EDU,Proga,Marek,UTAustin,,,,y,y
 RAMACHERS,Yorck,y.a.ramachers@warwick.ac.uk,Ramachers,Yorck,Warwick,Faculty,assets/people/YorckRamachers.jpg,Physics coordinator (to 2018),y,y
 RIDDLE,Catherine,Catherine.Riddle@INL.GOV,Riddle,Catherine,INL,,,,,y
-RUKHADZE,Ekaterina,Ekaterina.Rukhadze@utef.cvut.cz,Rukhadze,Ekaterina,CVUT,,,Background and source foils,y,y
+RUKHADZE,Ekaterina,Ekaterina.Rukhadze@utef.cvut.cz,Rukhadze,Ekaterina,CVUT,,assets/people/rukhadze.png,Background and source foils,y,y
 SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Ruben_Saakyan_2016_w.jpg,Joint spokesperson,y,y
 SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,PhD student  (Joint with University of Bordeaux),,,y,y
 SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,,,,y,y
@@ -90,7 +90,7 @@ SIMARD,Laurent,simard@LAL.IN2P3.FR,Simard,Laurent,LAL,,,,y,
 SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,,y
 SMIRNOVA,Irina,irozova@jinr.ru,Smirnova,Irina,JINR,,,,,y
 SOLDNER-REMBOLD,Stefan,stefan.soldner-rembold@manchester.ac.uk,Soldner-Rembold,Stefan,Manchester,Faculty,,,y,y
-STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,,,,y
+STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,,,y
 SUHONEN,Jouni,jouni.suhonen@phys.jyu.fi,Suhonen,Jouni,JYU,Professor of theoretical physics,assets/people/suhonen.jpg,"Theoretical work on nuclear structure, on rare weak decay processes like double beta decays, on neutrino-nucleus scattering, on dark matter direct detection",y,y
 SUZUKI,Koutaku,ksuzuki@werc.or.jp,Suzuki,Kohtaku,WERC,Researcher,,Data acquisition,y,y
 THEOBALD,Craig,c.theobald@ucl.ac.uk,Theobald,Craig,UCL,,,,y,y
@@ -120,8 +120,8 @@ Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,Uniba,PhD student (Joint wi
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,Uniba,PhD student (joint with University of Bordeaux),,,y,y
 Mitra,Ankush,A.Mitra.2@warwick.ac.uk,Mitra,Ankush,Warwick,,,,y,y
 Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,assets/people/BenMorgan.jpg,Software development coordinator,y,y
-Smetana,Adam,adam.smetana@utef.cvut.cz,Smetana,Adam,CVUT,,,Theory,y,y
-Smolek,Karel,karel.smolek@utef.cvut.cz,Smolek,Karel,CVUT,,,"Theory, radon, simulations",y,y
+Smetana,Adam,adam.smetana@utef.cvut.cz,Smetana,Adam,CVUT,,assets/people/smetana.jpg,Theory,y,y
+Smolek,Karel,karel.smolek@utef.cvut.cz,Smolek,Karel,CVUT,,assets/people/smolek.png,"Theory, radon, simulations",y,y
 Jollet,Cecile,jollet@cenbg.in2p3.fr,Jollet,Cecile,CENBG,Permanent position,,,y,y
 Meregaglia,Anselmo,anselmo.meregaglia@cern.ch,Meregaglia,Anselmo,CENBG,Permanent position,,,y,y
 Pravikoff,Michel,pravikof@cenbg.in2p3.fr,Pravikoff,Michel,CENBG,,,Radiopurity,y,y
