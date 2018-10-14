@@ -121,7 +121,11 @@ There will always be something for you to do! Let us know when you are available
 Make sure Yves, <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a> and <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground **at least 1 week in advance**, so that they can add you to the LSM calendar and arrange for a driver. If you would like to eat lunch underground, let them know - but it can't be guaranteed, as it depends on driver schedules.
 
 ### Going underground
-The cars going to the underground lab leave at **8:30am** each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring your own lunch - there's a fridge, microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). If you're staying late, you'll need to get permission from the lab management - your driver should be able to help you. The LSM drivers normally leave the underground lab at around 4:30 or 5pm, but if you have a SuperNEMO driver, you might be able to stay later.
+The cars going to the underground lab leave at **8:30am** each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring your own lunch - there's a fridge, microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). 
+
+If you are not eating lunch underground, you will leave for lunch on the surface by 11:30am. If returning to the tunnel for the afternoon, departure will be **1:30pm** from the surface lab.
+
+If you're staying late, you'll need to get permission from the lab management - your driver should be able to help you. The LSM drivers normally leave the underground lab for the evening at around 4:30 or 5pm, but if you have a SuperNEMO driver, you might be able to stay later.
 
 ### Training
 Before you go underground for the first time, you will need to do some basic safety training, in case there is an emergency in the tunnel. Jean-Lou of LSM leads this training, and you will be able to do it very quickly in the morning before you go underground. You will also need to receive some security paperwork. To get all of this set up, let <a href="mailto:magali.eyraud@lsm.fr">Magali Eyraud</a> know that you will be going underground for the first time.
@@ -147,7 +151,7 @@ The easiest way to get to Modane is probably to fly to either Geneva or Lyon St-
 The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from the Lyon airport - again, infrequent - if you don't want to drive. Getting to and from Geneva or Turin airports by public transport is harder, but possible.
 
 ### Things to consider
-It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground.) If you will be coming frequently, consider investing in your own pair of cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size. The other items of clothing (cleanroom suit, plus disposable hair net, mask, and gloves) are already at the LSM, with a selection of suit and glove sizes available.
+It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground.) If you will be coming frequently, consider investing in your own pair of steel-toed cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size. The other items of clothing (cleanroom suit, plus disposable hair net, mask, and gloves) are already at the LSM, with a selection of suit and glove sizes available.
 
 When you are underground but not in the cleanroom, you must wear closed-toed shoes. No sandals!
 
