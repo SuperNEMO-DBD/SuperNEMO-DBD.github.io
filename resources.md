@@ -117,7 +117,7 @@ Working at LSM
 As we enter the final stages of construction and commissioning, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). Here are some hints to ensure your trip is drama-free. If you have questions about the integration and running management, contact <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> and <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a>.
 
 ### Register on the calendar
-There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account.
+There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account. Instructions for the calendar are on [docDB 4555](http://nile.hep.utexas.edu/DocDB/ut-nemo/docs/0045/004555/001/howto.pdf). 
 Make sure Yves, <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a> and <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground **at least 1 week in advance**, so that they can add you to the LSM calendar and arrange for a driver. If you would like to eat lunch underground, let them know - but it can't be guaranteed, as it depends on driver schedules.
 
 ### Going underground
