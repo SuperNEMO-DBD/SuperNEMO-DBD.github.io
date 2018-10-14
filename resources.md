@@ -114,14 +114,14 @@ Working at LSM
 
 ![The view from LSM]({{"assets/modane.jpg"| relative_url }})
 
-As we enter the final stages of construction and commissioning, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). Here are some hints to ensure your trip is drama-free.
+As we enter the final stages of construction and commissioning, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). Here are some hints to ensure your trip is drama-free. If you have questions about the integration and running management, contact <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> and <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a>.
 
 ### Register on the calendar
 There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account.
-Make sure Yves or <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground, so that they can arrange for a driver - and tell them whether you want to stay for lunch.
+Make sure Yves, <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a> and <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground **at least 1 week in advance**, so that they can add you to the LSM calendar and arrange for a driver. If you would like to eat lunch underground, let them know - but it can't be guaranteed, as it depends on driver schedules.
 
 ### Going underground
-The vans leave at 8:30am each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring some lunch - there's a microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). If you're staying late, you'll need to get permission from the lab management - your driver should be able to help you.
+The cars going to the underground lab leave at **8:30am** each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring your own lunch - there's a fridge, microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). If you're staying late, you'll need to get permission from the lab management - your driver should be able to help you. The LSM drivers normally leave the underground lab at around 4:30 or 5pm, but if you have a SuperNEMO driver, you might be able to stay later.
 
 ### Training
 Before you go underground for the first time, you will need to do some basic safety training, in case there is an emergency in the tunnel. Jean-Lou of LSM leads this training, and you will be able to do it very quickly in the morning before you go underground. You will also need to receive some security paperwork. To get all of this set up, let <a href="mailto:magali.eyraud@lsm.fr">Magali Eyraud</a> know that you will be going underground for the first time.
@@ -142,9 +142,9 @@ Modane and Aussois both have restaurants, although some of them will be closed i
 - [Hotel de la Gare](https://www.hoteldelagare-modane.com) Sells crepes and galettes, among other things.
 
 ### Getting to Modane
-The easiest way to get to Modane is probably to fly to Geneva and rent a car. It's around a 2.5-hour drive to the lab, mostly on motorways, from Geneva airport, although this can vary significantly with traffic. Lyon is slightly further, but is a domestic flight if you are coming from France. There is parking at the lab and street parking near the hotels, though finding spaces in downtown Modane can be annoying.
+The easiest way to get to Modane is probably to fly to either Geneva or Lyon St-Exupery, and rent a car. It's around a 2.5-hour drive to the lab from either of these, mostly on motorways, although the travel time can vary significantly with traffic. There is parking at the lab and street parking near the hotels, though finding spaces in downtown Modane can be annoying.
 
-The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from Lyon airport - again, infrequent - if you don't want to drive. Getting to Geneva by public transport is harder, but possible.
+The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from the Lyon airport - again, infrequent - if you don't want to drive. Getting to and from Geneva or Turin airports by public transport is harder, but possible.
 
 ### Things to consider
 It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground.) If you will be coming frequently, consider investing in your own pair of cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size. The other items of clothing (cleanroom suit, plus disposable hair net, mask, and gloves) are already at the LSM, with a selection of suit and glove sizes available.
