@@ -147,9 +147,9 @@ The easiest way to get to Modane is probably to fly to Geneva and rent a car. It
 The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from Lyon airport - again, infrequent - if you don't want to drive. Getting to Geneva by public transport is harder, but possible.
 
 ### Things to consider
-It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground. Also a very nice espresso machine and a microwave.) If you will be coming frequently, consider investing in your own pair of cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size.
+It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground.) If you will be coming frequently, consider investing in your own pair of cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size. The other items of clothing (cleanroom suit, plus disposable hair net, mask, and gloves) are already at the LSM, with a selection of suit and glove sizes available.
 
-When you are underground but not in the cleanroom, you must be wearing closed-toed shoes. No sandals!
+When you are underground but not in the cleanroom, you must wear closed-toed shoes. No sandals!
 
 There is no wi-fi underground, but you can connect to the internet using an ethernet cable (in the break room). You should turn off your phone or put it in airplane mode when you are underground, to protect other experiments in the lab.
 
