@@ -2,7 +2,7 @@
 layout: post
 title:  "New NEMO-3 paper probes nuclear physics"
 date:   2018-10-16 15:00:00 +0000
-thumbnail: ""
+thumbnail: "assets/post_images/se82_thumb.png"
 categories: papers nemo3 se82
 ---
 
