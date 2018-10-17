@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "New NEMO-3 paper probes nuclear physics"
+date:   2018-10-16 15:00:00 +0000
+thumbnail: "assets/post_images/se82_thumb.png"
+categories: papers nemo3 se82
+---
+
+Another NEMO-3 paper has been published! The study, titled [Final results on $^{82}$Se double beta decay to the ground state of $^{82}$Kr from the NEMO-3 experiment](http://dx.doi.org/10.1140/epjc/s10052-018-6295-x), was led by Dr James Mott of University College London (now a Research Assistant Professor at Boston University, USA).
+
+The analysis looks at the double beta decay ($2\nu\beta\beta$) of $^{82}$Se. Thanks to the unique tracker-calorimeter design of the NEMO experiments, we were able to go beyond measuring a half-life and probe the underlying mechanism of the decay, looking at the intermediate states that the nucleus passes through when decaying from $^{82}$Se to the ground state of $^{82}$Kr. While it was expected that decays would occur through many different excited states of the intermediate isotope  $^{82}$Br, it was instead found that the data favoured a single-state dominated decay. Using this hypothesis, we were able to set measure the half-life for the $2\nu\beta\beta$) decay of $^{82}$Se at $T_{1/2}^{2\nu} (9.39 \pm 0.17\,\left(\mbox{stat}\right) \pm 0.58\,\left(\mbox{syst}\right)) \times 10^{19}$y, as well as setting a limit on the neutrinoless double-beta decay half-life for several different decay mechanisms.
+
+Congratulations to James and the team on this important result.
