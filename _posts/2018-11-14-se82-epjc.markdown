@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NEMO-3 makes the cover of EPJ C"
+date:   2018-11-14 15:00:00 +0000
+thumbnail: "assets/post_images/epjc_thumb.png"
+categories: papers nemo3 se82
+---
+
+Hold the front page! A figure from NEMO-3's latest paper is featured on the cover of the latest edition of the European Physical Journal C: Particles and Fields.
+
+The figure, from NEMO-3's analysis [Final results on $^{82}$Se double beta decay to the ground state of $^{82}$Kr from the NEMO-3 experiment](http://dx.doi.org/10.1140/epjc/s10052-018-6295-x), graces the cover of [The European Physical Journal C Volume 78  No 10 October 2018](https://epjc.epj.org/articles/epjc/abs/2018/10/contents/contents.html) . It shows the distribution of the summed electron energies in the $\beta\beta$ channel and the ratio between the observed and Monte Carlo predicted data. The background and  $2\nu\beta\beta$ predicted contributions are shown, along with the necessary excess that would be needed to measure a $0\nu\beta\beta$ signal. This analysis allowed NEMO-3 to set a limit on the neutrinoless double-beta decay half life for light neutrino exchange in $^{82}$Se of $T_{1/2}^{0\nu\beta\beta} \gt 2.5\times10^{23}$ years at 90% confidence level.
+
+![The EPJ C cover]({{"assets/post_images/epjc.png"| relative_url }}){:style="float: left;margin-right: 20px;"}
