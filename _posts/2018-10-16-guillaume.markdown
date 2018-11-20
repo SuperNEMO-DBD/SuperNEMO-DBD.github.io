@@ -8,7 +8,7 @@ categories: graduation phd
 
 Congratulations are in order for Dr Guillaume Oliviero, who has defended his PhD. Guillaume was supervised by François Mauger, at LPC Caen in France.
 
-![Guillaume with his defence jury]({{"assets/post_images/guillaume.png"| relative_url }}){:style="float: right;margin-left: 7px;width:500px;""}
+![Guillaume with his defence jury]({{"assets/post_images/guillaume.jpeg"| relative_url }}){:style="float: right;margin-left: 7px;width:500px;""}
 
 The newly-minted doctor is shown here celebrating his successful defence with his jury - Marco Zito, Yves Lemière, Jules Gascon, François Mauger, Dave Waters, Anatael Cabrera and jury president Alessandra Tonazzo.
 
