@@ -90,7 +90,7 @@ Falaise tracker](https://github.com/SuperNEMO-DBD/Falaise/issues)
 <div markdown="1">
 Getting an account on the CCLyon computing cluster
 --------------------------------------------------
-If you want to take part in the Monte Carlo Challenge 1 you will need an account on the CCLyon cluster to produce and access the data.
+The CCLyon computing cluster has a lot of simulation available from the MCC2 Monte Carlo challenge. To use it, you'll first need to get an account.
                 
 If you already have one, make sure you can access it (and contact <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> if you can't). If need an account follow this procedure:
                 
@@ -100,6 +100,13 @@ If you already have one, make sure you can access it (and contact <a href="mailt
 - In Step 3 download the form, sign in and send it to <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a>
                 
 You should receive your account information in a few days.
+</div>
+
+<div markdown="1">
+Using CCLyon
+--------------------------------------------------
+[Here](https://doc.cc.in2p3.fr/en:utiliser_le_systeme_batch_ge_depuis_le_centre_de_calcul) are some instructions for logging onto CCLyon and getting started with the batch system that enables you to submit large jobs to the distributed computing cluster.
+
 </div>
 
 </div>
