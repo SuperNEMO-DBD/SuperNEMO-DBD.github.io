@@ -6,7 +6,7 @@ thumbnail: "assets/post_images/medals_thumb.jpg"
 categories: supernemo
 ---
 
-Two members of the SuperNEMO collaboration have been honoured by the Institute of Physics for their outstanding contributions to experimental particle physics.
+Two members of the SuperNEMO collaboration have been honoured by the Institute of Physics for their outstanding contributions to experimental particle physics. The photo, from the IoP, shows them displaying their medals.
 
 ![Stefan and Jennifer display their medals]({{"assets/post_images/medals.jpg"| relative_url }}){:style="float: left;margin-right: 20px; width: 500px;"}
 
