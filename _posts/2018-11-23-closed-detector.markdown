@@ -8,7 +8,9 @@ categories: supernemo detector
 
 SuperNEMO has reached an extremely important milestone today, as the Demonstrator Module detector has finally been closed. This is a great achievement by the team, and a huge step towards starting to collect data.
 
-![The SuperNEMO detector, closed and ready for cabling]({{"assets/post_images/closed_detector.jpg"| relative_url }}){:style="float: left;margin-right: 20px; width: 500px;"}
+![Closing the detector]({{"assets/post_images/closing.jpg"| relative_url }}){:style="float: left;margin-right: 20px; width: 450px;"}
+![The SuperNEMO detector, closed and ready for cabling]({{"assets/post_images/closed_detector.jpg"| relative_url }}){:style="float: right;margin-left: 20px; width: 400px;"}
+
 
 This week, a calorimeter wall, consisting of 260 optical modules that will measure particles' energy, was pushed up against the rest of the detector. Already in place were another calorimeter wall, and the double beta-decaying source foils, sandwiched between the two tracker modules. The heavy wall, which is over 3 metres long and 4 metres wide, had to be moved using a combination of hydraulic jacks and a special crane.
 
