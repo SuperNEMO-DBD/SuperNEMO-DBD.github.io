@@ -4,7 +4,10 @@ date: 23-11-2018
 text: |
   ### Integration Milestones
   A *huge* thanks to everyone involved in the following major milestones:
-  - The detector is closed! (see photograph below). 
+
+  ![The SuperNEMO detector, closed and ready for cabling](assets/newsletter_images/closed_detector.jpg ){:style="float: left;margin-right: 20px; width: 350px;"}
+  
+  - The detector is closed! (see photograph). 
   - Before closing, work was performed to repair tracker harnesses, optical modules and the replacement of the Nylon film in front of the calorimeter.
   - A final check of the source deployment system confirmed that everything is still aligned following the attachment of the Italian tracker.
   - All source foils were installed in September, and this week a 3D camera survey of the source foil has been performed: now there’s a big job for our software experts to describe the geometry in our simulation package!
@@ -13,7 +16,8 @@ text: |
   ### Next weeks @ LSM
   - Week 48: mainly tracker electronics work and further calorimeter work.
   - Week 49: another busy week at LSM, with calorimeter electronics tests including initial data-taking with the French main wall, in parallel with preparations for gas leak-checking.
-   
+     ![Calorimeter cables](assets/newsletter_images/cables_201811.jpg){:style="float: right;margin-left: 20px; width: 300px;"}
+     
   ### Next steps for the Experiment
   - Gas-tightness: this is one of the biggest challenges we now face. We have started to discuss the strategy, but we will need help from many people.
   - Cabling: a big task remains, especially the external cabling from the patch panels to the electronics racks for the tracker.
