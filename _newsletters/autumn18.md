@@ -3,15 +3,14 @@ title: "Autumn 2018"
 date: 23-11-2018
 text: |
   ### Integration Milestones
-  A *huge* thanks to everyone involved in the following major milestones:
-
-  ![The SuperNEMO detector, closed and ready for cabling](assets/newsletter_images/closed_detector.jpg ){:style="float: left;margin-right: 20px; width: 350px;"}
   
-  - The detector is closed! (see photograph). 
+  ![The SuperNEMO detector, closed and ready for cabling](assets/newsletter_images/closed_detector.jpg ){:style="float: left;margin-right: 20px; width: 330px;"}
+  A *huge* thanks to everyone involved in the following major milestones:
+  - The detector is closed! (see photograph to the left). 
   - Before closing, work was performed to repair tracker harnesses, optical modules and the replacement of the Nylon film in front of the calorimeter.
   - A final check of the source deployment system confirmed that everything is still aligned following the attachment of the Italian tracker.
   - All source foils were installed in September, and this week a 3D camera survey of the source foil has been performed: now there’s a big job for our software experts to describe the geometry in our simulation package!
-  - Almost half of the detector is now cabled (see photograph).
+  - Almost half of the detector is now cabled (see photograph below).
 
   ### Next weeks @ LSM
   - Week 48: mainly tracker electronics work and further calorimeter work.
@@ -39,8 +38,8 @@ text: |
    - For planning purposes, please remember to inform the DOG group (Alessandro & Yves) of your plans, 1 month in advance.
    
   ### Congratulations!
-   -  Jenny Thomas & Stefan Soldner-Rembold for winning prestigious UK Institute of Physics prizes (the Faraday and Chadwick prizes, respectively).
-   -  Delphine Boursette and Guillaume Oliviero for passing their PhD vivas. Many thanks for all their contributions and we wish them all the best for the future!
+   -  Jenny Thomas & Stefan Soldner-Rembold for [winning prestigious UK Institute of Physics prizes](supernemo/2018/11/21/medals.html) (the Faraday and Chadwick prizes, respectively).
+   -  Delphine Boursette and [Guillaume Oliviero](graduation/phd/2018/10/16/guillaume.html) for passing their PhD vivas. Many thanks for all their contributions and we wish them all the best for the future!
    
   ### Save the date !
   -  The next collaboration meeting will be Week 13 (beginning 25 March 2019) or Week 16 (beginning 15 April 2019). Exact dates and location TBC (soon).
