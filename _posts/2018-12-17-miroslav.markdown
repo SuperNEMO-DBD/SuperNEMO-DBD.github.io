@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Congratulations! It's Dr Miroslav Macko"
+date:   2018-12-17 18:00:00 +0000
+thumbnail: "assets/post_images/MiroThumb.jpg"
+categories: graduation phd
+---
+
+SuperNEMO is celebrating again, as Miroslav Macko has successfully defended his PhD thesis. The dissertation was written under supervision of Ivan Štekl and Fabrice Piquemal as a joint degree between Comenius University in Bratislava (Slovakia) and Université de Bordeaux (France). Hard-working Miroslav was also employed by IEAP CTU in Prague, Czech Republic.
+
+![Miroslav defends his thesis]({{"assets/post_images/Miroslav.jpeg"| relative_url }}){:style="float: right;margin-left: 7px;width:500px;""}
+
+Miroslav defended his thesis _SuperNEMO Experiment: Study of Systematic Uncertainties of Track Reconstruction and Energy Calibration. Evaluation of Sensitivity to 0νββ with Emission of Majoron for Se-82)_ (for which he had to produce two versions: _Expérience SuperNEMO: Études des incertitudes systématiques sur la reconstruction de traces et sur l’étalonnage en énergie. Evaluation de la sensibilité de la 0νββ avec émission de Majoron pour le Se-82._ in French, and _SuperNEMO experiment: Štúdia systematických neistôt rekonštrukcie dráh a energetickej kalibrácie. Odhad citlivosti detektora na 0νββ s emisiou Majorónu pre Se-82._ in Slovak) at CENBG in Bordeaux on December 17th, 2018. The committee included members from both France and Slovakia, meaning that Dr Macko received his PhD diploma in both countries.
+
+Miroslav has been a great member of the SuperNEMO team, and has recently spent a lot of time on site in Modane, working in particular on the radioactive sources that will be used to calibrate the Demonstrator Module. The good news for us is that we don't have to miss him for too long - after a few months working in Bordeaux on another project, Miroslav will be returning to SuperNEMO in July as a postdoctoral researcher based in Prague. Big congratulations, Miroslav, and we look forward to seeing you again in the summer!
+
+
+
+
