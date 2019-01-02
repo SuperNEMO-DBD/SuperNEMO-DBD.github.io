@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Happy New Year!"
+date:   2019-01-02 17:00:00 +0000
+thumbnail: "assets/post_images/newyear2019.png"
+categories: news
+---
+Another year is over, and 2018 has been a busy one for SuperNEMO. Here's a review of some of the exciting things that have happened.
+
+![The SuperNEMO detector, closed and ready for cabling]({{"assets/post_images/closed_detector.jpg"| relative_url }}){:style="float: right;margin-left: 20px; width: 300px;"}
+
+The Demonstrator Module
+-----
+This year has seen fantastic progress on the SuperNEMO Demonstrator Module. Thanks to a lot of hard work from engineers and physicists across the collaboration, the module is now fully assembled! Already, we have taken our first calorimeter commissioning data - a huge milestone, and a forerunner of the excitement to come in 2019 when we look forward to plenty of data, as we carry out the final steps to get the detector fully live. It's going to be another great year!
+
+Caps, gowns and medals
+--
+2018 has been a year of well-deserved successes for SuperNEMO collaborators, and we are all very proud of them. Students Delphine Boursette (LAL), Guillaume Oliviero (LPC Caen), and Miroslav Macko (University of Bordeaux/Comenius University in Bratislava) all earned their PhDs this year, while Stefan Söldner-Rembold (University of Manchester) and Jennifer Thomas (UCL) were honoured with medals from the Institute of Physics. Within the collaboration, we have welcomed new joint spokespeople - Christine Marquet (CENBG) and Dave Waters (UCL). Congratulations to everyone.
+
+![The EPJ C cover]({{"assets/post_images/epjc.png"| relative_url }}){:style="float: left;margin-right: 20px;margin-bottom: 20px;width: 300px;"}
+
+
+Spreading the word
+--
+Last year, we spread the SuperNEMO message around the world, with presentations and posters at conferences in Europe, Asia and the Americas. Check out our presentations from [DBD-18in Hawaii](http://www.rcnp.osaka-u.ac.jp/dbd18/Data/Prog/S0303_Patrick.pdf), [ICHEP 2018 in Seoul](https://indico.cern.ch/event/686555/contributions/2977612/attachments/1682290/2703123/Saakyan_ICHEP18.pdf),  and our posters from Neutrino 2018 in Heidelberg, which covered a range of interesting topics: [energy reconstruction](https://indico.desy.de/indico/event/18342/session/34/contribution/399/material/poster/0.pdf), the [calibration system](https://indico.desy.de/indico/event/18342/session/34/contribution/253/material/poster/0.pdf) and [sources](https://indico.desy.de/indico/event/18342/session/34/contribution/196/material/0/0.pdf), [radon background mitigation](https://indico.desy.de/indico/event/18342/session/34/contribution/354/material/0/0.pdf), [$0\nu\beta\beta$ sensitivity](https://indico.desy.de/indico/event/18342/session/34/contribution/219/material/slides/1.pdf), and the [latest NEMO-3 results](https://indico.desy.de/indico/event/18342/session/34/contribution/525/material/slides/0.pdf).
+
+On the subject of NEMO-3 results: 2018 also saw the publication of our studies on the [double-beta decay of $^{82}Se$](http://dx.doi.org/10.1140/epjc/s10052-018-6295-x), which excited the community so much that it made [the cover of the EPJ C journal](https://epjc.epj.org/articles/epjc/abs/2018/10/contents/contents.html).
+
+Onwards to 2019!
+--
+The coming year promises to be an exciting one for SuperNEMO, as we complete the final stages of the detector and analyse our first data. There will be lots to do, but we are ready for the challenge.  Happy New Year to everyone, and let's hope it is a good one.
+
+![The collaboration in Prague]({{"assets/post_images/SN_group_photo_Prague2018.jpg"| relative_url }}){:style="block: left;margin-right: 20px;"}
+
+
+
+
+
+
