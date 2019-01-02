@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy New Year!"
-date:   2019-01-02 17:00:00 +0000
+date:   2019-01-02 15:00:00 +0000
 thumbnail: "assets/post_images/newyear2019.png"
 categories: news
 ---
