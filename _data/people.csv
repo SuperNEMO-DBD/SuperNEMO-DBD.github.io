@@ -50,7 +50,6 @@ JULLIAN,Serge,jullian@LAL.IN2P3.FR,Jullian,Serge,LAL,,,,y,
 Kemp,Martin,m.kemp@ucl.ac.uk,Kemp,Martin,UCL,Engineering contractor,,,y,y
 KOCHETOV,Oleg,kochet@NUSUN.JINR.RU,Kochetov,Oleg,JINR,,,,,y
 KONTUL,Ivan,kontul@fmph.uniba.sk,Kontul,Ivan,Uniba,PhD student,,,y,y
-KOVALENKO,Sergey,sergey.kovalenko@usm.cl,Kovalenko,Sergey,JINR,,,,,y
 LANG,Karol,lang@PHYSICS.UTEXAS.EDU,Lang,Karol,UTAustin,Professor,,Speakers' bureau chair,y,y
 Leflour,Thierry,leflour@lapp.in2p3.fr,Leflour,Thierry,LAPP,,,,,
 LEMIERE,Yves,lemiere@LPCCAEN.IN2P3.FR,Lemiere,Yves,LPCCAEN,,,Detector operations coordinator,y,
@@ -67,7 +66,7 @@ MIGAYRON,Alexandre,migayron@LAL.IN2P3.FR,Migayron,Alexandre,LAL,,,,,
 MILLER,Graham,Graham.Miller@manchester.ac.uk,Miller,Graham,Manchester,Electronics Engineer,,,y,y
 MOTT,James,jmott@HEP.UCL.AC.UK,Mott,James,UCL,PhD student (now graduated),,,y,y
 Macolino,Carla,macolino@LAL.IN2P3.FR,Macolino,Carla,LAL,,,Reconstruction and calibration coordinator,y,
-NEMCHONOK,Igor,nemch@NUSUN.JINR.RU,Nemchonok,Igor,JINR,,,,,y
+NEMCHENOK,Igor,nemch@NUSUN.JINR.RU,Nemchenok,Igor,JINR,,,,,y
 NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,,,,y,y
 OLIVIERO,Guillaume,goliviero@LPCCAEN.IN2P3.FR,Oliviero,Guillaume,LPCCAEN,PhD student (now graduated),,Former deputy software development coordinator,y,
 Panazol,Jean-Luc,jean-luc.panazol@lapp.in2p3.fr,Panazol,Jean-Luc,LAPP,,,,,
@@ -82,13 +81,11 @@ PROGA,Marek,proga@PHYSICS.UTEXAS.EDU,Proga,Marek,UTAustin,,,,y,y
 RAMACHERS,Yorck,y.a.ramachers@warwick.ac.uk,Ramachers,Yorck,Warwick,Faculty,assets/people/YorckRamachers.jpg,Physics coordinator (to 2018),y,y
 RIDDLE,Catherine,Catherine.Riddle@INL.GOV,Riddle,Catherine,INL,,,,,y
 RUKHADZE,Ekaterina,Ekaterina.Rukhadze@utef.cvut.cz,Rukhadze,Ekaterina,CVUT,,assets/people/rukhadze.png,Background and source foils,y,y
-SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Ruben_Saakyan_2016_w.jpg,Joint spokesperson,y,y
+SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Ruben_Saakyan_2016_w.jpg,Former spokesperson,y,y
 SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,PhD student  (Joint with University of Bordeaux),,,y,y
 SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,Faculty,,,y,y
-SEMIKH,Sergej,semikh@JINR.RU,Semikh,Sergej,JINR,,,,,y
 SIMARD,Laurent,simard@LAL.IN2P3.FR,Simard,Laurent,LAL,,,,y,
 SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,,y
-SMIRNOVA,Irina,irozova@jinr.ru,Smirnova,Irina,JINR,,,,,y
 SOLDNER-REMBOLD,Stefan,stefan.soldner-rembold@manchester.ac.uk,Soldner-Rembold,Stefan,Manchester,Faculty,,,y,y
 STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,,,y
 SUHONEN,Jouni,jouni.suhonen@phys.jyu.fi,Suhonen,Jouni,JYU,Professor of theoretical physics,assets/people/suhonen.jpg,"Theoretical work on nuclear structure, on rare weak decay processes like double beta decays, on neutrino-nucleus scattering, on dark matter direct detection",y,y
@@ -142,3 +139,9 @@ Favre,Valerie,valerie.favre@lsm.fr,Favre,Valerie,LSM,,,,y,
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,PhD student,assets/people/will.jpeg,,y,y
 Franchini,Paolo,p.franchini@imperial.ac.uk,Franchini,Paolo,Imperial,Postdoc,assets/people/Paolo.jpg,,y,y
+Filosofov,D.V.,,Filosofov,D.V.,JINR,,,,y,n
+Smolnikov,A.A.,,Smolnikov,A.A.,JINR,,,,y,n
+Rukhadze,N.I.,,Rukhadze,N.I.,JINR,,,,y,n
+Klimenko,A.A.,,Klimenko,A.A.,JINR,,,,y,n
+Rahimov,A.V.,,Rahimov,A.V.,JINR,,,,y,n
+Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
