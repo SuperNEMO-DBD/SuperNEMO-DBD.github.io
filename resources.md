@@ -58,7 +58,7 @@ _(added on {{letter.date | date_to_long_string }})_
         <h1 class="post-title text-center">Internal documentation</h1>
     </header>
 <div markdown="1">
-For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). Contact the ? to set up an account.
+For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). Contact <a href="mailto:docdb@mail.hep.utexas.edu">the administrator</a> to set up an account.
 </div>
 </div>
 
