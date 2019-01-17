@@ -58,7 +58,21 @@ _(added on {{letter.date | date_to_long_string }})_
         <h1 class="post-title text-center">Internal documentation</h1>
     </header>
 <div markdown="1">
-For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). Contact <a href="mailto:docdb@mail.hep.utexas.edu">the administrator</a> to set up an account.
+== DocDB ==
+For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). To set up an account:
+
+- To sign up, click [here](http://nile.hep.utexas.edu/cgi-bin/DocDB/ut-nemo/public/signup)
+- Go to the [main database link](http://nile.hep.utexas.edu/DocDB/)
+- Select link _private NEMO documents_
+- Use your name and password (created in step 1) to log in
+- Add yourself as an author
+
+Next time you log in you can upload documents! Just follow the active options. For security reasons, in about a week, we will certify all new user requests ~24 hrs to be able to upload docs. If you have problems, send an email message to [the administrator](mailto:docdb@hep.utexas.edu).
+
+== SuperNEMO wiki ==
+
+The [SuperNEMO wiki](https://nemo.lpc-caen.in2p3.fr/wiki) is hosted at LPC Caen and holds up-to-date information about the status of integration, committees, and analyses. You can get a login from [Yves](lemiere@lpccaen.in2p3.fr) or [Francois](mauger@lpccaen.in2p3.fr).
+
 </div>
 </div>
 
