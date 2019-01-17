@@ -58,7 +58,9 @@ _(added on {{letter.date | date_to_long_string }})_
         <h1 class="post-title text-center">Internal documentation</h1>
     </header>
 <div markdown="1">
-== DocDB ==
+
+## DocDB
+
 For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). To set up an account:
 
 - To sign up, click [here](http://nile.hep.utexas.edu/cgi-bin/DocDB/ut-nemo/public/signup)
@@ -69,7 +71,7 @@ For technical notes etc, see [DocDB](http://nile.hep.utexas.edu/DocDB/). To set 
 
 Next time you log in you can upload documents! Just follow the active options. For security reasons, in about a week, we will certify all new user requests ~24 hrs to be able to upload docs. If you have problems, send an email message to [the administrator](mailto:docdb@hep.utexas.edu).
 
-== SuperNEMO wiki ==
+## SuperNEMO wiki
 
 The [SuperNEMO wiki](https://nemo.lpc-caen.in2p3.fr/wiki) is hosted at LPC Caen and holds up-to-date information about the status of integration, committees, and analyses. You can get a login from [Yves](lemiere@lpccaen.in2p3.fr) or [Francois](mauger@lpccaen.in2p3.fr).
 
@@ -189,6 +191,11 @@ There is no wi-fi underground, but you can connect to the internet using an ethe
 Analysis code
 -------------
 A work-in-progress collection of SuperNEMO and NEMO-3 analysis code is available in the [AllAnalyses](https://github.com/SuperNEMO-DBD/AllAnalyses) repository under {% include icon-github.html username=site.github_username %}.
+
+## SuperNEMO Analysis wiki
+
+The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/SuperNEMO/Analysis) is hosted at LPC Caen and holds up-to-date information about the status of analyses, as well as links to helpful tools and documents to get you started analysing SuperNEMO data.  It also has links to the minutes of all our internal analysis meetings. You can get a login from [Yves](lemiere@lpccaen.in2p3.fr) or [Francois](mauger@lpccaen.in2p3.fr).
+
 </div>
             </div>
 
