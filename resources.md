@@ -91,13 +91,13 @@ All software is available under {% include icon-github.html username=site.github
     
 The main software package for offline work is [Falaise](https://github.com/SuperNEMO-DBD/Falaise).
 A guide to installing Falaise on Linux and macOS platforms is available through the dedicated
-[Homebrew package manager and repo](https://github.com/SuperNEMO-DBD/homebrew-cadfael)
+[Homebrew package manager and repo](https://github.com/SuperNEMO-DBD/brew)
 A starter guide to the core simulation, reconstruction and analysis tools available in Falaise
 [can be found here](Falaise).
     
 Please note that the documentation is always under development, so feature requests
 or contributions are welcome. For installation related issues when using `brew`,
-use the [homebrew-cadfael Issue Tracker](https://github.com/SuperNEMO-DBD/homebrew-cadfael/issues).
+use the [SuperNEMO Brew Issue Tracker](https://github.com/SuperNEMO-DBD/brew/issues).
 For all issues relating to using Falaise, or installing/developing it locally, [raise an issue on the
 Falaise tracker](https://github.com/SuperNEMO-DBD/Falaise/issues)
 </div>
