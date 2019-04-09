@@ -99,9 +99,9 @@ title: Publications and Media
 
 {% assign n3pubs_by_date = site.nemothreepubs  | sort:"date" | reverse %}
 {% for pub in n3pubs_by_date %}
-<p><a href="http://dx.doi.org/{{ pub.doi }}" target="_blank"> <strong>{{ pub.title }}</strong></a><br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
-<a role="button" data-toggle="collapse" href="#{{pub.doi| slugify}}" aria-expanded="false" aria-controls="{{pub.doi| slugify}}">Abstract</a></p>
-<div  class="collapse" id="{{pub.doi| slugify}}">
+<p>{% if pub.doi %}<a href="http://dx.doi.org/{{ pub.doi }}" target="_blank">{% endif %} <strong>{{ pub.title }}</strong>{% if pub.doi %}</a>{% endif %}<br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
+<a role="button" data-toggle="collapse" {% if pub.doi %}href="#{{pub.doi| slugify}}"{% else %}href="#arxiv"{% endif %} aria-expanded="false" aria-controls="{{pub.doi| slugify}}">Abstract</a></p>
+<div  class="collapse" {% if pub.doi %}id="{{pub.doi| slugify}}"{% else %}id="arxiv"{% endif %}>
 <div class="well" style="overflow:auto">
 {% if pub.image_url %}
 <img src="{{pub.image_url}}" style="float:right; height:20em" alt="Image from {{pub.title}}">
