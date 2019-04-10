@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Xin wins prize for SuperNEMO thesis"
+date:   2019-04-09 21:00:00 +0000
+thumbnail: "assets/post_images/XinPrizeThumb.png"
+categories: thesis ucl supernemo
+---
+
+Xin Ran Liu has won the Astroparticle Physics group thesis prize at the Insititute of Physics Annual High-Energy Particle and Astroparticle physics conference in the UK. Xin did his PhD at UCL on low background techniques for SuperNEMO, and is now a postdoc at Edinburgh on LZ.  
+
+![Xin with Ruben and Cham]({{"assets/post_images/XinThesisPrize.jpeg"| relative_url }}){:style="float: left;margin-right: 20px;width:600px;"}
+
+Here he celebrates with his PhD supervisor, Ruben Saakyan, and Chamkaur Ghag of LZ. Congratulations, Xin, on a well-deserved win!
