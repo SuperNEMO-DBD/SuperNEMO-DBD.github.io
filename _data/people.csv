@@ -1,5 +1,5 @@
 WrongCaseLast,WrongCaseFirst,Email,LastName,FirstName,Institution,Job,Photo,Interests,Current,ShowEmail
-Patrick,Cheryl,c.patrick@ucl.ac.uk,Patrick,Cheryl,UCL,Postdoctoral research associate,assets/people/Cheryl_Patrick_2016_w.jpg,Analysis coordinator (from 2019),y,y
+Patrick,Cheryl,c.patrick@ucl.ac.uk,Patrick,Cheryl,UCL,Postdoctoral research associate,assets/people/Cheryl_Patrick_2016_w.jpg,Analysis coordinator,y,y
 DAWSON,Lauren,lauren.dawson.10@ucl.ac.uk,Dawson,Lauren,UCL,PhD student,assets/people/LaurenDawson_2016_250x350_w.jpg,,y,y
 ATTREE,Derek,d.attree@ucl.ac.uk,Attree,Derek,UCL,Senior Technical Support Officer (Mechanical Engineering),assets/people/Derek_Attree_w.jpg,,y,y
 BARABASH,Alexander,barabash@ITEP.RU,Barabash,Alexander,ITEP,,,,y,y
@@ -95,7 +95,6 @@ THOMAS,Jenny,jennifer.thomas@UCL.AC.UK,Thomas,Jenny,UCL,Professor,assets/people/
 TIMKIN,Victor,timkin@NUSUN.JINR.RU,Timkin,Victor,JINR,,,,,y
 TRETYAK,Victor,tretyak@JINR.RU,Tretyak,Victor,JINR,,,,y,y
 TRETYAK,Vladimir,tretyak@kinr.kiev.ua,Tretyak,Vladimir,KINR,"Leading Scientific Researcher, Associate Professor",assets/people/vit-2017-04.jpg,Event generation,y,y
-VALKO,Pavol,VALKO@stuba.sk,Valko,Pavol,Stuba,Associate professor,assets/people/pavol_valko.jpg,"Weak interactions, cryogenic detectors and technology",y,y
 VILELA,Cristovao,cvilela@HEP.UCL.AC.UK,Vilela,Cristovao,UCL,PhD student (now graduated),,,,y
 VIRTUE,Clarence,cjv@snolab.ca,Virtue,Clarence,Snolab,,,,,y
 VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
@@ -108,7 +107,7 @@ ZUKAUSKAS,Aivaras,aivaras.zukauskas@mff.cuni.cz,Zukauskas,Aivaras,CUNI,PhD stude
 Zampaolo,Michel,michel.zampaolo@lsm.in2p3.fr,Zampaolo,Michel,LSM,,,,y,
 Zampieri,Thierry,thierry.zampieri@lsm.fr,Zampieri,Thierry,LSM,,,,y,
 Dastgheibi-Fard,Ali,ali.dastgheibi-fard@lsm.fr,Dastgheibi-Fard,Ali,LSM,,,,y,
-CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,"Physics coordinator (from 2019), analysis coordinator (to 2018)",,"Calorimeter, simulation, analysis",y,y
+CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Physics coordinator,,"Calorimeter, simulation, analysis",y,y
 CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,PhD student,assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
 Corazzi,Mathieu,mathieu.corazzi@lsm.fr,Corazzi,Mathieu,LSM,,,,,
 Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,y,y
@@ -124,10 +123,10 @@ Meregaglia,Anselmo,anselmo.meregaglia@cern.ch,Meregaglia,Anselmo,CENBG,Permanent
 Pravikoff,Michel,pravikof@cenbg.in2p3.fr,Pravikoff,Michel,CENBG,,,Radiopurity,y,y
 Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CENBG,PhD student: now graduated (Joint with Comenius University),,,,
 Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student,,,y,
-Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,Deputy detector operations coordinator,,y,
+Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,Deputy detector operations coordinator,y,
 Margueron,Jean-Louis,jean-louis.margueron@lsm.fr,Margueron,Jean-Louis,LSM,,,,y,
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,LSM,"Former spokesperson (2005-2017), LSM director",,,y,y
-Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Ed,Manchester,PhD student,,,y,y
+Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
 EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,LAL,Former PhD student (joint with UCL),assets/people/eurin.jpg,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
