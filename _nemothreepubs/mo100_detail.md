@@ -1,8 +1,8 @@
 ---
 title: "Detailed studies of $^{100}$Mo two-neutrino double beta decay in NEMO-3"
-journal: "Submitted to European Physical Journal C"
-date: 10-03-2019
-doi: 
+journal: "Eur. Phys. J. C (2019) 79: 440"
+date: 24-05-2019
+doi: 10.1140/epjc/s10052-019-6948-4
 image_url: "assets/pub_imgs/mo100.png"
 arxiv:   1903.08084
 abstract:
