@@ -21,6 +21,14 @@ text: |
   - October/November: tracker commissioning with HV.
   - Final Gas leak checking: we still need a lot of help with this critical task. Please volunteer for this! Even with no prior experience, it will be extremely helpful to offer your time for this task. 
   
+  ### Next weeks @ LSM (Need help !)
+  - Week 40: final XV & VETO optical module testing.
+  - October:  insertion of an endoscope through the calibration windows to visualise the inside of the detector after the sagging discovery.
+  - October/November: tracker HV installation & final cable plugging operations.
+  - October/November: tracker commissioning with HV.
+  - Final Gas leak checking: we still need a lot of help with this critical task. Please volunteer for this! Even with no prior experience, it will be extremely helpful to offer your time for this task. 
+
+  
   ### Shielding, coil, Anti-Rn tent
   - Iron shielding: A quotation has been received from China. While less expensive than previous offers, half of the budget is missing. Several options are being investigated with Dubna and Prague to fix the issue with extra funding and/or machining outside China. 
   - Neutron shielding: 150 plates of pure polyethylene (validated with HPGe measurements performed this summer) have been produced in the Czech Republic and will be delivered to LSM in the next weeks.
