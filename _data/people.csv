@@ -28,7 +28,7 @@ Duchesneau,Dominique,duchesneau@LAPP.IN2P3.FR,Duchesneau,Dominique,LAPP,,,,y,
 DURAND,Dominique,durand@LPCCAEN.IN2P3.FR,Durand,Dominique,LPCCAEN,,,,,
 DVORNICKY,Rastislav,dvornicky@teller.dnp.fmph.uniba.sk,Dvornicky,Rastislav,Uniba,,,,y,y
 EGOROV,Slava,egorov@NUSUN.JINR.RU,Egorov,Slava,JINR,,,,,y
-EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,UCL,Former PhD student (joint with LAL),assets/people/eurin.jpg,,y,y
+EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,UCL,Former PhD student (UCL/LAL),assets/people/eurin.jpg,,y,y
 EVANS,Justin,justin.evans@manchester.ac.uk,Evans,Justin,Manchester,Faculty,,,y,y
 FLACK,Robert,r.flack@UCL.AC.UK,Flack,Robert,UCL,,,,,y
 FREESTONE,Julian,Julian.Freestone@manchester.ac.uk,Freestone,Julian,Manchester,Mechanical Engineer,,,y,y
@@ -59,13 +59,13 @@ LIPTAK,Zachary,LIPTAK@PHYSICS.UTEXAS.EDU,Liptak,Zachary,UTAustin,,,,,y
 LIU,Xin Ran,x.r.liu@UCL.AC.UK,Liu,Xin Ran,UCL,PhD student (now graduated),assets/people/Xin_Ran_Liu_25x35w.jpg,,,y
 LOAIZA,Pia,loaiza@LAL.IN2P3.FR,Loaiza,Pia,LAL,,,,y,
 MAALMI,Jihane,maalmi@lal.in2p3.fr,Maalmi,Jihane,LAL,,,,y,
-MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
+Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CVUT,Postdoc,,,y,y
 MARQUET,Christine,marquet@CENBG.IN2P3.FR,Marquet,Christine,CENBG,Joint spokesperson,,Calorimeter,y,y
 MAUGER,Francois,mauger@LPCCAEN.IN2P3.FR,Mauger,Francois,LPCCAEN,,,"Electronics, software",y,
 MIGAYRON,Alexandre,migayron@LAL.IN2P3.FR,Migayron,Alexandre,LAL,,,,,
 MILLER,Graham,Graham.Miller@manchester.ac.uk,Miller,Graham,Manchester,Electronics Engineer,,,y,y
 MOTT,James,jmott@HEP.UCL.AC.UK,Mott,James,UCL,PhD student (now graduated),,,y,y
-Macolino,Carla,macolino@LAL.IN2P3.FR,Macolino,Carla,LAL,,,Reconstruction and calibration coordinator,y,
+Macolino,Carla,macolino@LAL.IN2P3.FR,Macolino,Carla,LAL,,,,y,
 NEMCHENOK,Igor,nemch@NUSUN.JINR.RU,Nemchenok,Igor,JINR,,,,,y
 NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,,,,y,y
 OLIVIERO,Guillaume,goliviero@LPCCAEN.IN2P3.FR,Oliviero,Guillaume,LPCCAEN,PhD student (now graduated),,Former deputy software development coordinator,y,
@@ -108,11 +108,11 @@ Zampaolo,Michel,michel.zampaolo@lsm.in2p3.fr,Zampaolo,Michel,LSM,,,,y,
 Zampieri,Thierry,thierry.zampieri@lsm.fr,Zampieri,Thierry,LSM,,,,y,
 Dastgheibi-Fard,Ali,ali.dastgheibi-fard@lsm.fr,Dastgheibi-Fard,Ali,LSM,,,,y,
 CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Physics coordinator,,"Calorimeter, simulation, analysis",y,y
-CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,PhD student,assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
+CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,PhD student (now graduated),assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
 Corazzi,Mathieu,mathieu.corazzi@lsm.fr,Corazzi,Mathieu,LSM,,,,,
 Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,y,y
 Konovalov,Sergey,konovalov@itep.ru,Konovalov,Sergey,ITEP,,,Source production,y,y
-Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,Uniba,PhD student: now graduated (Joint with CENBG),,,y,y
+Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,Uniba,Former PhD student: now at CTU,,,y,y
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,Uniba,PhD student (joint with University of Bordeaux),,,y,y
 Mitra,Ankush,A.Mitra.2@warwick.ac.uk,Mitra,Ankush,Warwick,,,,y,y
 Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,assets/people/BenMorgan.jpg,Software development coordinator,y,y
@@ -121,26 +121,27 @@ Smolek,Karel,karel.smolek@utef.cvut.cz,Smolek,Karel,CVUT,,assets/people/smolek.p
 Jollet,Cecile,jollet@cenbg.in2p3.fr,Jollet,Cecile,CENBG,Permanent position,,,y,y
 Meregaglia,Anselmo,anselmo.meregaglia@cern.ch,Meregaglia,Anselmo,CENBG,Permanent position,,,y,y
 Pravikoff,Michel,pravikof@cenbg.in2p3.fr,Pravikoff,Michel,CENBG,,,Radiopurity,y,y
-Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CENBG,PhD student: now graduated (Joint with Comenius University),,,,
+Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CENBG,Former PhD student: now at CTU,,,,
 Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student,,,y,
 Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,Deputy detector operations coordinator,y,
 Margueron,Jean-Louis,jean-louis.margueron@lsm.fr,Margueron,Jean-Louis,LSM,,,,y,
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,LSM,"Former spokesperson (2005-2017), LSM director",,,y,y
 Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
-EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,LAL,Former PhD student (joint with UCL),assets/people/eurin.jpg,,y,y
+EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,LAL,Former PhD student (UCL/LAL),assets/people/eurin.jpg,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,CENBG,PhD student (joint with Comenius University) ,,,y,y
 SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,CENBG,PhD student (joint with University of Texas at Austin),,,y,y
-Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CVUT,Former employee,,,y,y
 Hussain,Hamzah,mohammed.hussain.17@ucl.ac.uk,Hussain,Hamzah,UCL,PhD student,assets/people/Hamzah.jpg,,y,y
 Favre,Valerie,valerie.favre@lsm.fr,Favre,Valerie,LSM,,,,y,
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,PhD student,assets/people/will.jpeg,,y,y
-Franchini,Paolo,p.franchini@imperial.ac.uk,Franchini,Paolo,Imperial,Postdoc,assets/people/Paolo.jpg,,y,y
+Franchini,Paolo,p.franchini@imperial.ac.uk,Franchini,Paolo,Imperial,Postdoc,assets/people/Paolo.jpg,Calibration and reconstruction coordinator,y,y
 Filosofov,D.V.,,Filosofov,D.V.,JINR,,,,y,n
 Smolnikov,A.A.,,Smolnikov,A.A.,JINR,,,,y,n
 Rukhadze,N.I.,,Rukhadze,N.I.,JINR,,,,y,n
 Klimenko,A.A.,,Klimenko,A.A.,JINR,,,,y,n
 Rahimov,A.V.,,Rahimov,A.V.,JINR,,,,y,n
 Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
+Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
+MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
