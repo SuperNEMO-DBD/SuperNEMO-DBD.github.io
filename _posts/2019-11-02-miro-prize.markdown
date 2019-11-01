@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Miroslav's thesis scoops Dean's Award"
-date:   2019-11-01 15:00:00 +0000
+date:   2019-11-01 09:00:00 +0000
 thumbnail: "assets/post_images/MiroPrizeThumb.png"
 categories: thesis comenius supernemo
 ---
