@@ -284,9 +284,9 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 </div>
             </div>
 
-<div id="web" style="display:none">
+<div id="mtg" style="display:none">
     <header class="post-header">
-        <h1 class="post-title text-center">Website development</h1>
+        <h1 class="post-title text-center">Future meetings</h1>
     </header>
 
 
@@ -346,11 +346,11 @@ Data and analysis
 </div>
 </div>
 
-<div class="square" style="background-color:var(--sixth-color);" id="web_btn">
+<div class="square" style="background-color:var(--sixth-color);" id="mtg_btn">
 <div class="content">
 <div class="table">
 <div class="table-cell">
-Website development
+Future meetings
 </div>
 </div>
 </div>
