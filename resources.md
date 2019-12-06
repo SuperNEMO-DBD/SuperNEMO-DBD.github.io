@@ -291,15 +291,19 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 
 
 <p>All the information you need about the upcoming collaboration meetings</p>
-{% assign meetings_by_date = site.meetings | sort:"startdate" %}
+{% assign meetings_by_date = site.meetings | sort:"startdate" |  reverse %}
 <div class="container-fluid">
   {% for meeting in meetings_by_date %}
   <div class="row">
-    <div class='col-xs-4'>
-      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{ meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.meetinginfo }} "></a>
+    <div class='col-xs-5'>
+      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} "></a>
         </div>
-    <div class='col-xs-8'>
-    <p><a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.meetinginfo }}</h2></a>  {{ meeting.startdate | date_to_long_string }} to {{ meeting.enddate | date_to_long_string }}<br/>
+    <div class='col-xs-7'>
+    <p><a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a>  
+    {% if meeting.enddate %}{{ meeting.startdate | date: "%A %-d %B " }} to  {{ meeting.enddate | date: "%A %-d %B, %Y" }} 
+    {% else %}Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
+     (Week {{ meeting.startdate | date: "%U" }})
+    <br/>
       <i>{{meeting.abstract}}</i>
       </p>
     </div>
