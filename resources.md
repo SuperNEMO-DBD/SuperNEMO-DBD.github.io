@@ -295,11 +295,9 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 <div class="container-fluid">
   {% for meeting in meetings_by_date %}
   <div class="row">
-    <div class='col-xs-5'>
-      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} "></a>
-        </div>
     <div class='col-xs-7'>
-    <p><a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a>  
+ <a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a> 
+   <p> 
     {% if meeting.enddate %}{{ meeting.startdate | date: "%A %-d %B " }} to  {{ meeting.enddate | date: "%A %-d %B, %Y" }} 
     {% else %}Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
      (Week {{ meeting.startdate | date: "%U" }})
@@ -307,6 +305,9 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
       <i>{{meeting.abstract}}</i>
       </p>
     </div>
+    <div class='col-xs-5'>
+      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} "></a>
+        </div>
   </div>
   {% endfor %} 
 </div>
