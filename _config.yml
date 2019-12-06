@@ -29,6 +29,7 @@ github_username: SuperNEMO-DBD
 
 # Collections:
 collections:
+  meetings:
   publications:
   nemothreepubs:
   carousel_images:
