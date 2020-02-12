@@ -13,7 +13,6 @@ BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,,,Radon,y,y
 CAFFREY,Gus,Gus.Caffrey@INL.GOV,Caffrey,Gus,INL,,,,y,y
 CARTER,Mary,mary.carter@UCL.AC.UK,Carter,Mary,UCL,,,,y,y
 CASCELLA,Michele,m.cascella@ucl.ac.uk,Cascella,Michele,UCL,Detector physicist,assets/people/Michele_Cascella_w.jpg,,,y
-CASSOL,Franca,cassol@CPPM.IN2P3.FR,Cassol,Franca,CPPM,,,Radon,y,y
 Cerna,Cedric,cerna@CENBG.IN2P3.FR,Cerna,Cedric,CENBG,Former technical coordinator (2012-2017),,"Calorimeter, radiopurity",y,y
 CESAR,John,JPCESAR23@PHYSICS.UTEXAS.EDU,Cesar,John,UTAustin,,,,,y
 Chabanne,Eric,eric.chabanne@lapp.in2p3.fr,Chabanne,Eric,LAPP,,,,,
@@ -38,7 +37,6 @@ HOMMET,Jean,hommet@LPCCAEN.IN2P3.FR,Hommet,Jean,LPCCAEN,,,,,
 HORKLEY,Jared,Jared.Horkley@INL.GOV,Horkley,Jared,INL,,,,,y
 HUBER,Arnaud,huber@cenbg.in2p3.fr,Huber,Arnaud,CENBG,PhD student,,,y,y
 HUBERT,Philippe,hubertp@CENBG.IN2P3.FR,Hubert,Philippe,CENBG,,,NEMO-3,y,y
-HUGON,Christophe,hugon@cppm.in2p3.fr,Hugon,Christophe,CPPM,,,"Radon, general analysis",,y
 HUNT,Tom,t.hunt@UCL.AC.UK,Hunt,Tom,UCL,,,,y,y
 Jeremie,Andrea,andrea@lapp.in2p3.fr,Jeremie,Andrea,LAPP,,,Integration manager,y,
 JULLIAN,Serge,jullian@LAL.IN2P3.FR,Jullian,Serge,LAL,,,,y,
@@ -101,7 +99,6 @@ Zampieri,Thierry,thierry.zampieri@lsm.fr,Zampieri,Thierry,LSM,,,,y,
 Dastgheibi-Fard,Ali,ali.dastgheibi-fard@lsm.fr,Dastgheibi-Fard,Ali,LSM,,,,y,
 CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Physics coordinator,,"Calorimeter, simulation, analysis",y,y
 CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,PhD student (now graduated),assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
-Corazzi,Mathieu,mathieu.corazzi@lsm.fr,Corazzi,Mathieu,LSM,,,,,
 Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,y,y
 Konovalov,Sergey,konovalov@itep.ru,Konovalov,Sergey,ITEP,,,Source production,y,y
 Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,Uniba,Former PhD student: now at CTU,,,y,y
@@ -137,3 +134,6 @@ Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
 Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
 MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
 Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
+Garcon,Evelyne,evelyne.garcon@lsm.fr,Garcon,Evelyne,LSM,,,,y,n
+Rojas,Aurelien,aurelien.rojas@lsm.fr,Rojas,Aurelien,LSM,,,,y,n
+Ranieri,Christian,,Ranieri,Christian,LSM,,,,y,n
