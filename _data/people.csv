@@ -5,15 +5,12 @@ ATTREE,Derek,d.attree@ucl.ac.uk,Attree,Derek,UCL,Senior Technical Support Office
 BARABASH,Alexander,barabash@ITEP.RU,Barabash,Alexander,ITEP,,,,y,y
 BONGRAND,Mathieu,bongrand@LAL.IN2P3.FR,Bongrand,Mathieu,LAL,,,,y,y
 BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,,,
-BOURSETTE,Delphine,delphine.boursette@lal.in2p3.fr,Boursette,Delphine,LAL,PhD student (now graduated),,,,y
 BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Data quality coordinator,y,y
 BRETON,Dominique,BRETON@LAL.IN2P3.FR,Breton,Dominique,LAL,,,,,
 BRIERE,Matthieu,briere@LAL.IN2P3.FR,Briere,Matthieu,LAL,,,,,
 BRUDANIN,Victor,brudanin@NUSUN.JINR.RU,Brudanin,Victor,JINR,,,,,y
 BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,,,Radon,y,y
-CACERES,Thierry,CACERES@LAL.IN2P3.FR,Caceres,Thierry,LAL,,,,,
 CAFFREY,Gus,Gus.Caffrey@INL.GOV,Caffrey,Gus,INL,,,,y,y
-CALVEZ,Steven,calvez@LAL.IN2P3.FR,Calvez,Steven,LAL,PhD student (now graduated),,,,
 CARTER,Mary,mary.carter@UCL.AC.UK,Carter,Mary,UCL,,,,y,y
 CASCELLA,Michele,m.cascella@ucl.ac.uk,Cascella,Michele,UCL,Detector physicist,assets/people/Michele_Cascella_w.jpg,,,y
 CASSOL,Franca,cassol@CPPM.IN2P3.FR,Cassol,Franca,CPPM,,,Radon,y,y
@@ -33,7 +30,6 @@ EVANS,Justin,justin.evans@manchester.ac.uk,Evans,Justin,Manchester,Faculty,,,y,y
 FLACK,Robert,r.flack@UCL.AC.UK,Flack,Robert,UCL,,,,,y
 FREESTONE,Julian,Julian.Freestone@manchester.ac.uk,Freestone,Julian,Manchester,Mechanical Engineer,,,y,y
 BASHARINA-FRESHVILLE,Anastasia,anastasia.freshville@UCL.AC.UK,Basharina-Freshville,Anastasia,UCL,Detector physicist,assets/people/Anastasia_Freshville_2016_250x350_w.jpg,,y,y
-GILBERT,Genevieve,gilbert@LAL.IN2P3.FR,Gilbert,Genevieve,LAL,,,,,
 GUILLON,Benoit,guillon@LPCCAEN.IN2P3.FR,Guillon,Benoit,LPCCAEN,,,,,
 GUZOWSKI,Pawel,pawel.guzowski@manchester.ac.uk,Guzowski,Pawel,Manchester,Research Associate,,,,y
 Garrido,Xavier,garrido@LAL.IN2P3.FR,Garrido,Xavier,LAL,,,,y,
@@ -62,10 +58,8 @@ MAALMI,Jihane,maalmi@lal.in2p3.fr,Maalmi,Jihane,LAL,,,,y,
 Macko,Miroslav,miroslav.macko@utef.cvut.cz,Macko,Miroslav,CVUT,Permanent position,,,y,y
 MARQUET,Christine,marquet@CENBG.IN2P3.FR,Marquet,Christine,CENBG,Joint spokesperson,,Calorimeter,y,y
 MAUGER,Francois,mauger@LPCCAEN.IN2P3.FR,Mauger,Francois,LPCCAEN,,,"Electronics, software",y,
-MIGAYRON,Alexandre,migayron@LAL.IN2P3.FR,Migayron,Alexandre,LAL,,,,,
 MILLER,Graham,Graham.Miller@manchester.ac.uk,Miller,Graham,Manchester,Electronics Engineer,,,y,y
 MOTT,James,jmott@HEP.UCL.AC.UK,Mott,James,UCL,PhD student (now graduated),,,y,y
-Macolino,Carla,macolino@LAL.IN2P3.FR,Macolino,Carla,LAL,,,,y,
 NEMCHENOK,Igor,nemch@NUSUN.JINR.RU,Nemchenok,Igor,JINR,,,,,y
 NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,,,,y,y
 OLIVIERO,Guillaume,goliviero@LPCCAEN.IN2P3.FR,Oliviero,Guillaume,LPCCAEN,PhD student (now graduated),,Former deputy software development coordinator,y,
@@ -127,7 +121,6 @@ Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Post
 Margueron,Jean-Louis,jean-louis.margueron@lsm.fr,Margueron,Jean-Louis,LSM,,,,y,
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,LSM,"Former spokesperson (2005-2017), LSM director",,,y,y
 Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
-EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,LAL,Former PhD student (UCL/LAL),assets/people/eurin.jpg,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,CENBG,PhD student (joint CENBG / Comenius University) ,,,y,y
@@ -145,3 +138,4 @@ Rahimov,A.V.,,Rahimov,A.V.,JINR,,,,y,n
 Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
 Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
 MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
+Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
