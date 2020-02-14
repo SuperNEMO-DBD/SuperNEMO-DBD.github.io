@@ -24,9 +24,9 @@
   homepage: 'http://www.hep.man.ac.uk/SuperNemo/'
 - shortname: LAL
   domain: lal.in2p3.fr
-  name: 'Laboratoire de l''Accélérateur Linéaire'
+  name: 'Irene Joliot-Curie Laboratory of Physics of 2 Infinities'
   city: 'Orsay, France'
-  logo: assets/institution_logos/lal_logo.jpg
+  logo: assets/institution_logos/logo_IJCLab.jpg
   homepage: 'https://www.lal.in2p3.fr/'
 - shortname: Uniba
   domain: fmph.uniba.sk
