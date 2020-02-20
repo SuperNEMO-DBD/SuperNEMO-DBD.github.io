@@ -35,8 +35,6 @@ HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people
 HOLY,Karol,holy@fmph.uniba.sk,Holy,Karol,Uniba,,,,y,y
 HOMMET,Jean,hommet@LPCCAEN.IN2P3.FR,Hommet,Jean,LPCCAEN,,,,,
 HORKLEY,Jared,Jared.Horkley@INL.GOV,Horkley,Jared,INL,,,,,y
-HUBER,Arnaud,huber@cenbg.in2p3.fr,Huber,Arnaud,CENBG,PhD student,,,y,y
-HUBERT,Philippe,hubertp@CENBG.IN2P3.FR,Hubert,Philippe,CENBG,,,NEMO-3,y,y
 HUNT,Tom,t.hunt@UCL.AC.UK,Hunt,Tom,UCL,,,,y,y
 Jeremie,Andrea,andrea@lapp.in2p3.fr,Jeremie,Andrea,LAPP,,,Integration manager,y,
 JULLIAN,Serge,jullian@LAL.IN2P3.FR,Jullian,Serge,LAL,,,,y,
@@ -88,15 +86,11 @@ TRETYAK,Vladimir,tretyak@kinr.kiev.ua,Tretyak,Vladimir,KINR,"Leading Scientific 
 VILELA,Cristovao,cvilela@HEP.UCL.AC.UK,Vilela,Cristovao,UCL,PhD student (now graduated),,,,y
 VIRTUE,Clarence,cjv@snolab.ca,Virtue,Clarence,Snolab,,,,,y
 VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
-Warot,Guillaume,gwarot@lsm.in2p3.fr,Warot,Guillaume,LSM,,,,,
 WATERS,David,d.waters@UCL.AC.UK,Waters,David,UCL,Professor,assets/people/David_Waters_2013_w.jpg,Joint spokesperson,y,y
 WINTER,Berend,b.winter@UCL.AC.UK,Winter,Berend,UCL,,,,y,y
 XIE,Fang,fang.xie.15@UCL.AC.UK,Xie,Fang,UCL,PhD student,assets/people/FangXie_2015_250x350_w.jpg,,y,y
 YUMATOV,Vladimir,yumatov@ITEP.RU,Yumatov,Vladimir,ITEP,,,,y,y
 ZUKAUSKAS,Aivaras,aivaras.zukauskas@mff.cuni.cz,Zukauskas,Aivaras,CUNI,PhD student (now graduated),assets/people/aivaras_zukauskas.jpg,Calorimeter,y,y
-Zampaolo,Michel,michel.zampaolo@lsm.in2p3.fr,Zampaolo,Michel,LSM,,,,y,
-Zampieri,Thierry,thierry.zampieri@lsm.fr,Zampieri,Thierry,LSM,,,,y,
-Dastgheibi-Fard,Ali,ali.dastgheibi-fard@lsm.fr,Dastgheibi-Fard,Ali,LSM,,,,y,
 CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Physics coordinator,,"Calorimeter, simulation, analysis",y,y
 CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,PhD student (now graduated),assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
 Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,y,y
@@ -107,21 +101,15 @@ Mitra,Ankush,A.Mitra.2@warwick.ac.uk,Mitra,Ankush,Warwick,,,,y,y
 Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,assets/people/BenMorgan.jpg,Software development coordinator,y,y
 Smetana,Adam,adam.smetana@utef.cvut.cz,Smetana,Adam,CVUT,,assets/people/smetana.jpg,Theory,y,y
 Smolek,Karel,karel.smolek@utef.cvut.cz,Smolek,Karel,CVUT,,assets/people/smolek.png,"Theory, radon, simulations",y,y
-Jollet,Cecile,jollet@cenbg.in2p3.fr,Jollet,Cecile,CENBG,Permanent position,,,y,y
-Meregaglia,Anselmo,anselmo.meregaglia@cern.ch,Meregaglia,Anselmo,CENBG,Permanent position,,,y,y
 Pravikoff,Michel,pravikof@cenbg.in2p3.fr,Pravikoff,Michel,CENBG,,,Radiopurity,y,y
 Macko,Miroslav,miroslav.macko@cvut.cz,Macko,Miroslav,CENBG,Former PhD student: now at CTU,,,,
 Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student,,,y,
 Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,Deputy detector operations coordinator,y,
-Margueron,Jean-Louis,jean-louis.margueron@lsm.fr,Margueron,Jean-Louis,LSM,,,,y,
-PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,LSM,"Former spokesperson (2005-2017), LSM director",,,y,y
 Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,CENBG,PhD student (joint CENBG / Comenius University) ,,,y,y
-SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,CENBG,PhD student (joint CENBG / University of Texas at Austin),,,y,y
 Hussain,Hamzah,mohammed.hussain.17@ucl.ac.uk,Hussain,Hamzah,UCL,PhD student,assets/people/Hamzah.jpg,,y,y
-Favre,Valerie,valerie.favre@lsm.fr,Favre,Valerie,LSM,,,,y,
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,PhD student,assets/people/will.jpeg,,y,y
 Franchini,Paolo,p.franchini@imperial.ac.uk,Franchini,Paolo,Imperial,Postdoc,assets/people/Paolo.jpg,Calibration and reconstruction coordinator,y,y
@@ -134,6 +122,3 @@ Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
 Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
 MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
 Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
-Garcon,Evelyne,evelyne.garcon@lsm.fr,Garcon,Evelyne,LSM,,,,y,n
-Rojas,Aurelien,aurelien.rojas@lsm.fr,Rojas,Aurelien,LSM,,,,y,n
-Ranieri,Christian,,Ranieri,Christian,LSM,,,,y,n
