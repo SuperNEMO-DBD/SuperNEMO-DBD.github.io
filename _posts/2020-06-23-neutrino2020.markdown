@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "A virtual conference - Neutrino2020"
+date:   2020-06-23 09:00:00 +0000
+thumbnail: "assets/post_images/2020Neutrino-BLU_thumb.png"
+categories: conference supernemo
+---
+
+This year's [Neutrino2020](https://conferences.fnal.gov/nu2020/) conference is being held virtually, and while we're disappointed not to be able to visiting beautiful Chicago, we won't let it get us down! 
+
+![Axel and Cloe present the commissioning poster]({{"assets/post_images/Neutrino2020_2.png"| relative_url }}){:style="float: left;margin-right: 20px;margin-bottom:20px;margin-top:20px;width:450px;"}
+
+
+As well as listening to fantastic talks, we've been presenting our latest progress in a virtual reality poster session - complete with computerised bison and a Fermilab high-rise building. It's almost like being there in person, and a great chance to catch up with old friends and show off SuperNEMO. 
+
+Cloé Girard-Carillo, Axel Pin, Manu Chauveau and Christine Marquet's avatars could be seen presenting their [poster on the SuperNEMO Demonstrator commissioning](https://nusoft.fnal.gov/nova/nu2020postersession/pdf/posterPDF-457.pdf), which they produced with collaborators Ramón Salazar, Hichem Tedjditi, Will Quinn and Yves Lemière. The poster explained the exciting work the collaboration has been doing with real data - equalizing calorimeter gains, characterising the timing response, analysing PMT waveforms and measuring the light response.
+
+Meanwhile, Cheryl Patrick [introduced the SuperNEMO demonstrator](https://nusoft.fnal.gov/nova/nu2020postersession/pdf/posterPDF-310.pdf) and presented latest results from NEMO-3 data.
+![Cheryl with her poster and a virtual bison]({{"assets/post_images/Neutrino2020_1.png"| relative_url }}){:style="float: right;margin-left: 20px;margin-bottom:20px;margin-top:20px;width:450px;"}
+
+If you're at the Neutrino conference, come and find us in the upcoming poster sessions and social rooms - we'd love to chat!
