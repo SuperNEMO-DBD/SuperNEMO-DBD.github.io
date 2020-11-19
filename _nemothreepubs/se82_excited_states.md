@@ -1,5 +1,5 @@
 ---
-title: "Search for the double-beta decay of 82Se to the excited states of 82Kr with NEMO-3"
+title: "Search for the double-beta decay of $^{82}Se$ to the excited states of $^{82}$Kr with NEMO-3"
 journal: "Nucl. Phys. A 996, 121701"
 date: 01-04-2020
 arxiv:   2001.06388
