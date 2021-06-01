@@ -1,7 +1,7 @@
 ---
 title: "Measurement of the distribution of $^{207}$Bi depositions on calibration sources for SuperNEMO"
-date: 29-03-2020
-journal: Submitted to JINST
+date: 01-06-2021
+journal: Accepted by JINST
 image_url: "assets/pub_imgs/Align.png"
 arxiv: 2103.14429
 abstract:
