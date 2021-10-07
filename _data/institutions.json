@@ -1,4 +1,11 @@
 {
+  "Edinburgh": {
+    "domain":"ed.ac.uk",
+    "name": "University of Edinburgh",
+    "city": "Edinburgh, UK",
+    "logo": "assets/institution_logos/logo_Edinburgh.png",
+    "homepage": "https://www.ph.ed.ac.uk/particle-physics-experiment"
+  },
   "UCL": {
     "domain":"ucl.ac.uk",
     "name": "University College London",
