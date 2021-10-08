@@ -4,7 +4,7 @@ DAWSON,Lauren,lauren.dawson.10@ucl.ac.uk,Dawson,Lauren,UCL,PhD student,assets/pe
 ATTREE,Derek,d.attree@ucl.ac.uk,Attree,Derek,UCL,Senior Technical Support Officer (Mechanical Engineering),assets/people/Derek_Attree_w.jpg,,y,y
 BARABASH,Alexander,barabash@ITEP.RU,Barabash,Alexander,ITEP,,,,y,y
 BONGRAND,Mathieu,bongrand@LAL.IN2P3.FR,Bongrand,Mathieu,LAL,,,,y,y
-BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,,,
+BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,,y,
 BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Data quality coordinator,y,y
 BRETON,Dominique,BRETON@LAL.IN2P3.FR,Breton,Dominique,LAL,,,,,
 BRIERE,Matthieu,briere@LAL.IN2P3.FR,Briere,Matthieu,LAL,,,,,
@@ -61,7 +61,7 @@ Panazol,Jean-Luc,jean-luc.panazol@lapp.in2p3.fr,Panazol,Jean-Luc,LAPP,,,,,
 PATER,Joleen,joleen.pater@manchester.ac.uk,Pater,Joleen,Manchester,Applied Physicist,,,y,y
 PERROT,Frederic,fperrot@CENBG.IN2P3.FR,Perrot,Frederic,CENBG,,,"Radiopurity, calorimeter",y,y
 PERRY,Michael,michael.perry@manchester.ac.uk,Perry,Michael,Manchester,Electronics Engineer,,,y,y
-PIN,Axel,pin@cenbg.in2p3.fr,Pin,Axel,CENBG,PhD student,,"Calorimeter, simulation, analysis",y,y
+PIN,Axel,pin@cenbg.in2p3.fr,Pin,Axel,CENBG,PhD student (now graduated),,"Calorimeter, simulation, analysis",y,y
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,CENBG,"Former spokesperson (2005-2017), LSM director",,,y,y
 POINCHEVAL,Jerome,poincheval@LPCCAEN.IN2P3.FR,Poincheval,Jerome,LPCCAEN,,,,,
 POVINEC,Pavel,Pavel.Povinec@fmph.uniba.sk,Povinec,Pavel,Uniba,,,,y,y
@@ -70,12 +70,12 @@ RAMACHERS,Yorck,y.a.ramachers@warwick.ac.uk,Ramachers,Yorck,Warwick,Faculty,asse
 RIDDLE,Catherine,Catherine.Riddle@INL.GOV,Riddle,Catherine,INL,,,,,y
 RUKHADZE,Ekaterina,Ekaterina.Rukhadze@utef.cvut.cz,Rukhadze,Ekaterina,CVUT,,assets/people/rukhadze.png,Background and source foils,y,y
 SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Ruben_Saakyan_2016_w.jpg,Former spokesperson,y,y
-SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,PhD student  (Joint with University of Bordeaux),,,y,y
+SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,PhD student  (Joint with University of Bordeaux) - now graduated,,,y,y
 SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,Faculty,,,y,y
 SIMARD,Laurent,simard@LAL.IN2P3.FR,Simard,Laurent,LAL,,,,y,
-SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,,y
+SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,y,y
 SOLDNER-REMBOLD,Stefan,stefan.soldner-rembold@manchester.ac.uk,Soldner-Rembold,Stefan,Manchester,Faculty,,,y,y
-STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,,,y
+STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,IB chair,y,y
 SUHONEN,Jouni,jouni.suhonen@phys.jyu.fi,Suhonen,Jouni,JYU,Professor of theoretical physics,assets/people/suhonen.jpg,"Theoretical work on nuclear structure, on rare weak decay processes like double beta decays, on neutrino-nucleus scattering, on dark matter direct detection",y,y
 SUZUKI,Koutaku,ksuzuki@werc.or.jp,Suzuki,Kohtaku,WERC,Researcher,,Data acquisition,y,y
 THEOBALD,Craig,c.theobald@ucl.ac.uk,Theobald,Craig,UCL,Engineer,,,y,y
@@ -88,7 +88,7 @@ VIRTUE,Clarence,cjv@snolab.ca,Virtue,Clarence,Snolab,,,,,y
 VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
 WATERS,David,d.waters@UCL.AC.UK,Waters,David,UCL,Professor,assets/people/David_Waters_2013_w.jpg,Joint spokesperson,y,y
 WINTER,Berend,b.winter@UCL.AC.UK,Winter,Berend,UCL,,,,y,y
-XIE,Fang,fang.xie.15@UCL.AC.UK,Xie,Fang,UCL,PhD student,assets/people/FangXie_2015_250x350_w.jpg,,y,y
+XIE,Fang,fang.xie.15@UCL.AC.UK,Xie,Fang,UCL,PhD student (now graduated),assets/people/FangXie_2015_250x350_w.jpg,,y,y
 YUMATOV,Vladimir,yumatov@ITEP.RU,Yumatov,Vladimir,ITEP,,,,y,y
 ZUKAUSKAS,Aivaras,aivaras.zukauskas@mff.cuni.cz,Zukauskas,Aivaras,CUNI,PhD student (now graduated),assets/people/aivaras_zukauskas.jpg,Calorimeter,y,y
 CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Physics coordinator,,"Calorimeter, simulation, analysis",y,y
@@ -102,11 +102,11 @@ Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,as
 Smetana,Adam,adam.smetana@utef.cvut.cz,Smetana,Adam,CVUT,,assets/people/smetana.jpg,Theory,y,y
 Smolek,Karel,karel.smolek@utef.cvut.cz,Smolek,Karel,CVUT,,assets/people/smolek.png,"Theory, radon, simulations",y,y
 Pravikoff,Michel,pravikof@cenbg.in2p3.fr,Pravikoff,Michel,CENBG,,,Radiopurity,y,y
-Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student,,,y,
+Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student (now graduated),,,y,
 Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,Deputy detector operations coordinator,y,
 Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
-Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
+Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student (now graduated),assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,CENBG,PhD student (joint CENBG / Comenius University) ,,,y,y
 Hussain,Hamzah,mohammed.hussain.17@ucl.ac.uk,Hussain,Hamzah,UCL,PhD student,assets/people/Hamzah.jpg,,y,y
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
@@ -121,3 +121,9 @@ Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
 Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
 MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
 Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
+Aguerre,Xalbat,aguerre@cenbg.in2p3.fr,Aguerre,Xalbat,CENBG,PhD student,,,y,n
+Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,,y,y
+Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Bachelor student (with FNSPE CTU in Prague),,,y,y
+Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Bachelor student (with FNSPE CTU in Prague),,,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),,,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
