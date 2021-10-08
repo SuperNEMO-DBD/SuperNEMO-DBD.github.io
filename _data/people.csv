@@ -1,10 +1,10 @@
 WrongCaseLast,WrongCaseFirst,Email,LastName,FirstName,Institution,Job,Photo,Interests,Current,ShowEmail
 Patrick,Cheryl,cpatrick@ed.ac.uk,Patrick,Cheryl,Edinburgh,STFC Ernest Rutherford Fellow,assets/people/Cheryl_Patrick_2016_w.jpg,Analysis coordinator,y,y
-DAWSON,Lauren,lauren.dawson.10@ucl.ac.uk,Dawson,Lauren,UCL,PhD student,assets/people/LaurenDawson_2016_250x350_w.jpg,,y,y
+DAWSON,Lauren,lauren.dawson.10@ucl.ac.uk,Dawson,Lauren,UCL,PhD student,assets/people/LaurenDawson_2016_250x350_w.jpg,,,y
 ATTREE,Derek,d.attree@ucl.ac.uk,Attree,Derek,UCL,Senior Technical Support Officer (Mechanical Engineering),assets/people/Derek_Attree_w.jpg,,y,y
 BARABASH,Alexander,barabash@ITEP.RU,Barabash,Alexander,ITEP,,,,y,y
 BONGRAND,Mathieu,bongrand@LAL.IN2P3.FR,Bongrand,Mathieu,LAL,,,,y,y
-BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,,,
+BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,,y,
 BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Data quality coordinator,y,y
 BRETON,Dominique,BRETON@LAL.IN2P3.FR,Breton,Dominique,LAL,,,,,
 BRIERE,Matthieu,briere@LAL.IN2P3.FR,Briere,Matthieu,LAL,,,,,
@@ -73,9 +73,9 @@ SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Rube
 SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,PhD student  (Joint with University of Bordeaux) - now graduated,,,y,y
 SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,Faculty,,,y,y
 SIMARD,Laurent,simard@LAL.IN2P3.FR,Simard,Laurent,LAL,,,,y,
-SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,,y
+SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,,y,y
 SOLDNER-REMBOLD,Stefan,stefan.soldner-rembold@manchester.ac.uk,Soldner-Rembold,Stefan,Manchester,Faculty,,,y,y
-STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,,,y
+STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,IB chair,y,y
 SUHONEN,Jouni,jouni.suhonen@phys.jyu.fi,Suhonen,Jouni,JYU,Professor of theoretical physics,assets/people/suhonen.jpg,"Theoretical work on nuclear structure, on rare weak decay processes like double beta decays, on neutrino-nucleus scattering, on dark matter direct detection",y,y
 SUZUKI,Koutaku,ksuzuki@werc.or.jp,Suzuki,Kohtaku,WERC,Researcher,,Data acquisition,y,y
 THEOBALD,Craig,c.theobald@ucl.ac.uk,Theobald,Craig,UCL,Engineer,,,y,y
@@ -122,3 +122,8 @@ Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
 MAMEDOV,Fadahat,fadahat.mamedov@utef.cvut.cz,Mamedov,Fadahat,CVUT,,,Radon,y,y
 Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
 Aguerre,Xalbat,aguerre@cenbg.in2p3.fr,Aguerre,Xalbat,CENBG,PhD student,,,y,n
+Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,,y,y
+Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Bachelor student (with FNSPE CTU in Prague),,,y,y
+Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Bachelor student (with FNSPE CTU in Prague),,,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),,,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
