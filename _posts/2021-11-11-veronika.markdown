@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Our newest doctor -  Veronika Palušová!"
+date:   2021-11-11 09:00:00 +0000
+thumbnail: "assets/post_images/Veronika_thumb.jpg"
+categories: phd supernemo
+---
+
+SuperNEMO is very proud of our latest PhD recipient - Dr Veronika Palušová! Veronika gained a joint doctorate from Comenius University in Bratislava and the University of Bordeaux when she defended her dissertation studying potential backgrounds to SuperNEMO's double-beta-decay search.
+
+![Dr Veronika Palusova, SuperNEMO's latest PhD and newest postdoc']({{"assets/post_images/Veronika.jpg"| relative_url }}){:style="margin-bottom:20px;margin-top:20px;width:800px;"}
+
+Veronika's analysis, "Monte Carlo Simulations of Detectors Background and Analysis of Background Characteristics of the SuperNEMO Experiment in the Modane Underground Laboratory", was carried out under the supervision of Pavel Povinec in Bratislava, and  Emmanuel Chauveau and Fabrice Piquemal in Bordeaux. On top of her analysis work, Veronika made many trips to work on the SuperNEMO detector in Modane, and has been instrumental in getting our detector up and running.
+
+It would be a sad day for the collaboration if we had to say goodbye to Veronika - but luckily, we don't! We are very pleased that she will be staying with SuperNEMO as she begins a postdoctoral research position at the Czech Technical University in Prague. The CTU group is fast becoming one of our biggest and most active teams, and has made huge contributions to our installation and commissioning effort. We're delighted that Veronika will be joining them and wish her all the best in her new role. See you soon, Veronika, and huge congratulations!
+
