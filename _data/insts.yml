@@ -53,11 +53,11 @@
   logo: assets/institution_logos/logo.png
   homepage: 'http://www.utexas.edu'
 - shortname: CENBG
-  domain: cenbg.in2p3.fr
-  name: 'Centre Etudes Nucléaires de Bordeaux Gradignan'
+  domain: lp2ib.in2p3.fr
+  name: 'LP2I-Bordeaux'
   city: 'Bordeaux, France'
-  logo: assets/institution_logos/cenbg.png
-  homepage: 'http://www.cenbg.in2p3.fr'
+  logo: assets/institution_logos/logo_LP2iBordeaux.jpg
+  homepage: 'https://www.lp2ib.in2p3.fr'
 - shortname: LPCCAEN
   domain: lpccaen.in2p3.fr
   name: 'Laboratoire de Physique Corpusculaire de Caen'
