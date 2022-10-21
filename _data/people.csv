@@ -97,7 +97,7 @@ Palusova,Veronika,veronika.palusova@fmph.uniba.sk,Palusova,Veronika,CVUT,Postdoc
 Mitra,Ankush,A.Mitra.2@warwick.ac.uk,Mitra,Ankush,Warwick,,,,y,y
 Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,assets/people/BenMorgan.jpg,Software development coordinator,y,y
 Girard-Carillo ,Cloe,girardcarillo@lal.in2p3.fr,Girard-Carillo ,Cloe,LAL,PhD student (now graduated),,,y,
-Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,Deputy detector operations coordinator,y,
+Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,,y,
 Birdsall,Ed,edward.birdsall@postgrad.manchester.ac.uk,Birdsall,Edward,Manchester,PhD student,,,y,y
 Chapon,Arnaud,,Chapon,Arnaud,LPCCaen,Former PhD student,,,y,
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,PhD student (now graduated),assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
@@ -111,7 +111,7 @@ Rukhadze,N.I.,,Rukhadze,N.I.,JINR,,,,y,n
 Klimenko,A.A.,,Klimenko,A.A.,JINR,,,,y,n
 Rahimov,A.V.,,Rahimov,A.V.,JINR,,,,y,n
 Shitov,Yuri,shitov@jinr.ru,Shitov,Yuri,JINR,,,,y,n
-Hoballah,Malak,,Hoballah,Malak,LAL,PhD student,,,y,n
+Hoballah,Malak,,Hoballah,Malak,LAL,PhD student (now graduated),,,y,n
 Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
 Aguerre,Xalbat,aguerre@cenbg.in2p3.fr,Aguerre,Xalbat,CENBG,PhD student,,,y,n
 Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,,y,y
@@ -120,5 +120,7 @@ Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Bachelor student (wi
 Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),,,y,y
 Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
 Landells,Betsy,B.Landells@sms.ed.ac.uk,Landells,Betsy,Edinburgh,MSc student,,,y,y
-Li,Elvis,s1724346@sms.ed.ac.uk,Li,Elvis,Edinburgh,Summer student,,,y,y
+Li,Elvis,s1724346@sms.ed.ac.uk,Li,Elvis,Edinburgh,MPhys student,,,y,y
 Fisch,Casimir,C.Fisch@sms.ed.ac.uk,Fisch,Casimir,Edinburgh,Summer student,,,y,y
+Pratt,Sam,S.Pratt-4@sms.ed.ac.uk,Pratt,Sam,Edinburgh,PhD student,,,y,y
+Vereshchaka,Yegor,yegor.vereshchaka@ijclab.in2p3.fr,Vereshchaka,Yegor,LAL,PhD student,,,y,y
