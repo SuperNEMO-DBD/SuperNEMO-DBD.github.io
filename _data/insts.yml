@@ -1,3 +1,9 @@
+- shortname: KNU
+  domain: univ.kiev.ua
+  name: 'Taras Shevchenko National University of Kyiv'
+  city: 'Kyiv, Ukraine'
+  logo: assets/institution_logos/KNU.jpeg
+  homepage: 'http://www.univ.kiev.ua/en'
 - shortname: Edinburgh
   domain: ed.ac.uk
   name: 'University of Edinburgh'
