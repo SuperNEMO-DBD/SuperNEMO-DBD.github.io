@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Meeting in Edinburgh"
+date:   2023-07-05 17:00:00 +0000
+thumbnail: "assets/post_images/Edinburgh23_arthursseat.jpg"
+categories: supernemo meetings
+---
+
+SuperNEMO collaborators gathered at the University of Edinburgh’s Pollock Halls this year for the summer collaboration meeting. Over three days, members presented their progress in areas like shielding, analysis, and software, and groups convened to discuss future SuperNEMO work. As a result of the communications discussion group, SuperNEMO now has a presence on Twitter [@SuperNEMO_BB](https://twitter.com/SuperNEMO_BB)! Follow for exciting updates and photos of the collaboration.
+
+![Collaboration members in Pollock Halls.]({{"assets/post_images/Edinburgh23_umbrella.jpg"| relative_url }}){:style="float: left;margin-right:20px;margin-bottom:20px;margin-top:0px;width:200px;"}
+
+![City view from Arthur's Seat.]({{"assets/post_images/Edinburgh23_arthursseat.jpg"| relative_url }}){:style="float: right;margin-left:20px;margin-bottom:20px;margin-top:0px;width:350px;"}
+
+On the second day of the meeting, former SuperNEMO member Xin Ran Liu gave a fascinating talk on how his company, [UNDO](https://un-do.com/), harnesses rock remnants from excavation projects to reduce atmospheric CO<sub>2</sub> levels through weathering. UNDO takes excess crushed basalt from local quarries and spreads it across agricultural fields, enhancing the natural carbon capturing processes of the land and improving soil quality with high efficiency.
+
+With enthusiastic discussions, whisky tastings, and interesting updates throughout, the 2023 summer collaboration meeting concluded to the sound of bagpipes, as a parade for the King’s visit to Edinburgh marched down the Royal Mile.
+
