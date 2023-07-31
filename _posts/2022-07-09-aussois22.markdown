@@ -12,7 +12,7 @@ After more than two challenging years of the Covid-19 pandemic, collaborators re
 
 There was a real mood of celebration as old friends were at last able to meet again, and new members of the collaboration finally met people they'd worked with for years on Zoom. The pandemic has been isolating, especially for students starting new courses during the long period of working from home, and it was a real joy to finally spend time together. And what a time it was! With SuperNEMO now taking data from the tracker and calorimeter, there was a lot to be glad about.
 
-![Enjoying a cocktail]({{"assets/post_images/Aussois22.JPG""| relative_url }}){:style="float: right;margin-left:20px;margin-bottom:20px;margin-top:20px;width:800px;"}
+![Enjoying a cocktail]({{"assets/post_images/Aussois22.JPG"| relative_url }}){:style="float: right;margin-left:20px;margin-bottom:20px;margin-top:20px;width:800px;"}
 
 It was tremendous to watch our students present their analyses, see the data we'd collected from the detector, and discuss plans for the final push twards physics data taking. The joy of being together, and the inspiring work that everyone has been doing really has made us even more motivated for the last few steps of getting SuperNEMO running. We're all so excited!
 
