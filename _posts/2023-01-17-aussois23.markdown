@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "January 2023 Meeting in Aussois"
-date:   2023-07-05 17:00:00 +0000
+date:   2023-01-17 17:00:00 +0000
 thumbnail: "assets/post_images/mountain.jpg"
 categories: supernemo meetings
 ---
