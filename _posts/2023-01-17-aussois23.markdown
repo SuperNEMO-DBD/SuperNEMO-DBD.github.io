@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "January 2023 Meeting in Aussois"
+date:   2023-01-17 17:00:00 +0000
+thumbnail: "assets/post_images/mountain.jpg"
+categories: supernemo meetings
+---
+
+SuperNEMO members convened at the Fleurs et Neige Village in Aussois this January. In between great talks on a variety of experiment topics, collaborators took advantage of the lovely clear winter days to enjoy the ski slopes and mountain views. Such topics included updates on the demonstrator module and shielding plans, changes to the gas system, new ideas on Helium recirculation, and demonstrations of analysis techniques in flsimulate and with UDD format data. 
+
+![Aussois town and mountain.]({{"assets/post_images/Aussois_town.jpg"| relative_url }}){:style="float: left;margin-right:20px;margin-bottom:20px;margin-top:0px;width:200px;"}
+
+![Fondue pot.]({{"assets/post_images/fondue.jpg"| relative_url }}){:style="float: right;margin-left:20px;margin-bottom:20px;margin-top:0px;width:200px;"}
+
+Also featured among the talks was a guest lecture given by Karol Lang. Karol introduced his work on PET (Positron Emission Tomography) at UT Austin. He spoke about how targeted proton therapy has improved cancer treatments, as it is able to deliver the highest radiation levels at the site of tumor cells while minimizing damage to healthy cells. However, one limitation of proton therapy is its need for extensive planning by a large team, which can be time consuming and expensive. The team at UT Austin is tackling some of these issues by developing a prototype for a Time of Flight PET for Proton Therapy (TPPT) which would provide feedback by measuring nuclides activated during proton irradiation. They hope that this prototype, and others of a similar nature, may be the first step in a larger collaborative effort to progress the field of nuclear medical imaging. 
+
+For more information on proton therapy research, visit the MD Anderson research site [here](https://www.mdanderson.org/research.html).
+
+One night brought a delicious fondue dinner and a visit from everyone’s favorite dog, Lascar. The following night, collaborators celebrated the meeting with French, English, Czech, and Chinese karaoke. Throughout the four-day meeting, much fun was had, and progress was made with thorough discussions and new ideas. 
+
+![Lascar on a walk.]({{"assets/post_images/lascar_walk.jpg"| relative_url }}){:style="float: left;margin-left:210px;margin-bottom:20px;margin-top:0px;width:500px;"}
+
+![Collaboration members in Aussois.]({{"assets/post_images/aussois_collaborators.jpg"| relative_url }}){:style="float: left;margin-left:210px;margin-bottom:20px;margin-top:0px;width:500px;"}
+
