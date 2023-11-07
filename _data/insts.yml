@@ -74,7 +74,7 @@
   domain: utef.cvut.cz
   name: 'Czech Technical University in Prague'
   city: 'Prague, Czech Republic'
-  logo: assets/institution_logos/logo_CTU.png
+  logo: assets/institution_logos/logo_IEAP.png
   homepage: 'http://www.utef.cvut.cz/ieap'
 - shortname: CPPM
   domain: cppm.in2p3.fr
@@ -82,18 +82,18 @@
   city: 'Marseille, France'
   logo: assets/institution_logos/arton709.jpg
   homepage: 'https://www.cppm.in2p3.fr/sommaire.php3'
-- shortname: JINR
-  domain: jinr.ru
-  name: 'Joint Institute for Nuclear Research'
-  city: 'Dubna, Russia'
-  logo: assets/institution_logos/jinr_logo_350_ss.jpg
-  homepage: 'http://www.jinr.ru/main-en/'
-- shortname: ITEP
-  domain: itep.ru
-  name: 'Institute for Theoretical and Experimental Physics'
-  city: 'Moscow, Russia'
-  logo: assets/institution_logos/img6089.png
-  homepage: 'http://www.itep.ru'
+#- shortname: JINR
+ # domain: jinr.ru
+  #name: 'Joint Institute for Nuclear Research'
+  #city: 'Dubna, Russia'
+  #logo: assets/institution_logos/jinr_logo_350_ss.jpg
+  #homepage: 'http://www.jinr.ru/main-en/'
+#- shortname: ITEP
+ # domain: itep.ru
+ # name: 'Institute for Theoretical and Experimental Physics'
+ # city: 'Moscow, Russia'
+ # logo: assets/institution_logos/img6089.png
+ # homepage: 'http://www.itep.ru'
 - shortname: INL
   domain: inl.gov
   name: 'Idaho National Laboratory'
@@ -130,4 +130,10 @@
   city: 'Prague, Czech Republic'
   logo: assets/institution_logos/charles.png
   homepage: 'https://www.mff.cuni.cz/to.en/'
+- shortname: SNEMO
+  domain: supernemo.org
+  name: 'Supernemo Collaboration'
+  city: 'Global'
+  logo: assets/supernemo_logo_v1.0.png
+  homepage: 'https://www.supernemo.org'
 
