@@ -45,7 +45,7 @@ TRETYAK,Volodymyr,tretyak@kinr.kiev.ua,Tretyak,Volodymyr,KINR,"Leading Scientifi
 Filonenko,Kyrylo,kiryuha@knu.ua,Filonenko,Kyrylo,KNU,Bachelors student,,,y,y
 Trofimiuk,Khrystyna,khrystyna.trofimiuk@knu.ua,Trofimiuk,Khrystyna,KNU,Bachelors student,,,y,y
 Yankovskyi,Vladyslav,vladislave221b@knu.ua,Yankovskyi,Vladyslav,KNU,Masters Student ,,Tracking,y,y
-BONGRAND,Mathieu,bongrand@LAL.IN2P3.FR,Bongrand,Mathieu,LAL,,,,y,y
+BONGRAND,Mathieu,mathieu.bongrand@in2p3.fr,Bongrand,Mathieu,LAL,,,,y,y
 BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,Mechanical Coordinator,y,
 BRETON,Dominique,BRETON@LAL.IN2P3.FR,Breton,Dominique,LAL,,,,,
 BRIERE,Matthieu,briere@LAL.IN2P3.FR,Briere,Matthieu,LAL,,,,,
@@ -83,29 +83,11 @@ Pape,Emily,emily.pape@student.manchester.ac.uk,Pape,Emily,Manchester,Masters Stu
 Arya,Raphael,raphael.arya@student.manchester.ac.uk,Arya,Raphael,Manchester,Masters Student ,,,y,y
 NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,,,,y,y
 VIRTUE,Clarence,cjv@snolab.ca,Virtue,Clarence,Snolab,,,,,y
-ATTREE,Derek,d.attree@ucl.ac.uk,Attree,Derek,UCL,Senior Technical Support Officer (Mechanical Engineering),assets/people/Derek_Attree_w.jpg,Engineer,y,y
 BASHARINA-FRESHVILLE,Anastasia,anastasia.freshville@UCL.AC.UK,Basharina-Freshville,Anastasia,UCL,Detector physicist,assets/people/Anastasia_Freshville_2016_250x350_w.jpg,Calibration Systems Coordinator,y,y
-CARTER,Mary,mary.carter@UCL.AC.UK,Carter,Mary,UCL,,,,y,y
-CASCELLA,Michele,m.cascella@ucl.ac.uk,Cascella,Michele,UCL,Detector physicist,assets/people/Michele_Cascella_w.jpg,,,y
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
-CHOPRA,Ashwin,ashwin.chopra.14@UCL.AC.UK,Chopra,Ashwin,UCL,Former PhD student  ,assets/people/Ashwin_Chopra_25x35_w.jpg,,y,y
-DAWSON,Lauren,lauren.dawson.10@ucl.ac.uk,Dawson,Lauren,UCL,Former PhD student  ,assets/people/LaurenDawson_2016_250x350_w.jpg,,y,y
-EURIN,Guillaume,guillaume.eurin@mpi-hd.mpg.de,Eurin,Guillaume,UCL,Former PhD student,assets/people/eurin.jpg,,y,y
-FLACK,Robert,r.flack@UCL.AC.UK,Flack,Robert,UCL,,,,,y
 Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,Shielding Coordinator,y,y
-HUNT,Tom,t.hunt@UCL.AC.UK,Hunt,Tom,UCL,,,,y,y
-Hussain,Hamzah,mohammed.hussain.17@ucl.ac.uk,Hussain,Hamzah,UCL,Former PhD student  ,assets/people/Hamzah.jpg,,y,y
-Kemp,Martin,m.kemp@ucl.ac.uk,Kemp,Martin,UCL,Engineering contractor,,,y,y
-LIU,Xin Ran,x.r.liu@UCL.AC.UK,Liu,Xin Ran,UCL,Former PhD student  ,assets/people/Xin_Ran_Liu_25x35w.jpg,,,y
-MOTT,James,jmott@HEP.UCL.AC.UK,Mott,James,UCL,Former PhD student  ,,,y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,Former PhD student  ,assets/people/will.jpeg,,y,y
-SAAKYAN,Ruben,r.saakyan@UCL.AC.UK,Saakyan,Ruben,UCL,Professor,assets/people/Ruben_Saakyan_2016_w.jpg,Former spokesperson,y,y
-THEOBALD,Craig,c.theobald@ucl.ac.uk,Theobald,Craig,UCL,Engineer,,,y,y
-THOMAS,Jenny,jennifer.thomas@UCL.AC.UK,Thomas,Jenny,UCL,Professor,assets/people/Jenny_Thomas_2013_w.jpg,,y,y
-VILELA,Cristovao,cvilela@HEP.UCL.AC.UK,Vilela,Cristovao,UCL,Former PhD student  ,,,,y
 WATERS,David,d.waters@UCL.AC.UK,Waters,David,UCL,Professor,assets/people/David_Waters_2013_w.jpg,Former Spokesperson and Tracker Coordinator,y,y
-WINTER,Berend,b.winter@UCL.AC.UK,Winter,Berend,UCL,,,,y,y
-XIE,Fang,fang.xie.15@UCL.AC.UK,Xie,Fang,UCL,Former PhD student  ,assets/people/FangXie_2015_250x350_w.jpg,,y,y
 BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Data Quality and Control Coordinator,y,y
 DVORNICKY,Rastislav,dvornicky@teller.dnp.fmph.uniba.sk,Dvornicky,Rastislav,Uniba,,,,y,y
 Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
