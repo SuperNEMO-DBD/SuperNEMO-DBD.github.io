@@ -9,11 +9,11 @@ SuperNEMO is an international collaboration comprising physicists and engineers 
 {% for inst in sorted_insts %}
 <hr/>
 <div class="row">
-  <div class="col-xs-3 ">
+  <div class="col-xs-3">
     <a target="_blank" href="{{inst.homepage}}"><img src="{{inst.logo }}"
       alt="{{inst.name }} logo"
-      style="width: 100%">
-      {{inst.name}}, {{inst.city}}</a>
+      style="max-width: 150px; max-height: 100px;">
+       <br>{{inst.name}}, <br>{{inst.city}}</a>
   </div>
   
   {% assign sorted_people = site.data.people | where: "Institution", inst.shortname | sort: 'LastName' %}
