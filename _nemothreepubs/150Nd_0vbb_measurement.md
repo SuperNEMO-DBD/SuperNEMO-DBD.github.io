@@ -1,6 +1,6 @@
 ---
 title: "Measurement of double beta decay of $^{150}$Nd to the $0^{+}_{1}$ excited state of $^{150}$Sm in NEMO-3" 
-journal:"Eur. Phys. J.C. 83 (2023) 12, 1117 "
+journal: "Eur. Phys. J.C. 83 (2023) 12, 1117"
 date: 09-12-2023
 image_url:
 doi:"10.1140/epjc/s10052-023-12227-x"
