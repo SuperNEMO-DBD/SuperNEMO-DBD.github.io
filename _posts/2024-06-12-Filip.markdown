@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Congratulations -  Filip Koňařík!"
+date:   2024-06-12 09:00:00 +0000
+thumbnail: "assets/post_images/Filip_Masters.jpg"
+categories: phd supernemo
+---
+
+With great honour SuperNEMO would like to announce that Filip has defended his thesis at Czech Technical University in Prague. He passed his final Master's level examination with straight As and will obtain a diploma cum laude! 
+
+![Filip Konarik, A new Master in SuperNEMO']({{"assets/post_images/Filip_Masters.jpg"| relative_url }}){:style="margin-bottom:20px;margin-top:20px;width:800px;"}
+
+The name of his thesis is "Development of a script for calibration of individual optical modules in the segmented calorimeter of the SuperNEMO experiment". He studied corrections (energy loss correction and optical correction) to improve energy calibration and reconstruction. He also developed an algorithm to apply these corrections within the calibration process. Lastly, he studied energy resolution of optical modules.

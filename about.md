@@ -11,7 +11,14 @@ title: The Experiment
         <header class="post-header">
           <h1 class="post-title text-center">The SuperNEMO experiment</h1>
           </header>
-              <p>Use the buttons on the right to find out more about the SuperNEMO detector, its physics goals, and the theory behind double-beta decay, the rare process we are investigating, which could provide clues to why our universe is the way it is. </p>
+              <p>Use the buttons on the right to find out more about the SuperNEMO detector, its physics goals, and the theory behind double-beta decay, the rare process we are investigating, which could provide clues to why our universe is the way it is.<br>
+              <br>
+              
+              You can also check out our  <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel for some videos about what we do. 
+            <br>
+            Don't forget to like and <span style="color: red;">subscribe</span>!
+             
+             </p>
               
           </div>
 
@@ -248,10 +255,6 @@ title: The Experiment
      </div>
   </div>
 </div>
-
-
-
-
 
 <!-- Calorimeter Modal -->
 <div id="caloModal" class="modal fade" role="dialog">
