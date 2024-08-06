@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Ukranian students trip to Modane"
+date:   2024-06-07 09:00:00 +0000
+thumbnail: "assets/post_images/KNU_Visit.jpg"
+categories: supernemo
+---
+
+In June, SuperNEMO was delighted to host two members of our newest collaborating institution, Taras Shevchenko University (KNU) in Kyiv, Ukraine, with a trip made possible by the Edinburgh-KNU partnership fund.
+
+Two undergraduate students, Khrystyna Trofimiuk and Viktoriia Lebed, traveled all the way from Kyiv to Modane, with a stop-off in Prague, Czechia where they met SuperNEMO team at CTU and learned about their analysis work. This trip was our first chance to host KNU collaborators, and they got to work at once, helping the on-site team installing SuperNEMO's iron shielding. The installation is progressing excellently, with hands-on work from collaborators round the world: the KNU students joined members from France, the UK and Czechia at LSM; and Slovak colleagues have also contribute to this huge effort. Viktoriia and Khrystyna certainly worked hard, but there was also time to relax with evening walks in the beautiful Alps - and a delicious home-cooked Ukrainian feast! All in all, it was a very successful week, and we are all united in our wish for further scientific cooperation with KNU. Thanks for the hard work, Khrystyna and Viktoriia - you are always welcome at SuperNEMO!
+
+![Fun by the waterfall.]({{"assets/post_images/KNU1.jpg"| relative_url }}){:style="float: left;margin-left:210px;margin-bottom:20px;margin-top:0px;width:500px;"}
+
+![With SuperNEMO.]({{"assets/post_images/KNU2.jpg"| relative_url }}){:style="float: left;margin-left:210px;margin-bottom:20px;margin-top:0px;width:500px;"}
+
+![With NEMO3.]({{"assets/post_images/KNU3.jpg"| relative_url }}){:style="float: left;margin-left:210px;margin-bottom:20px;margin-top:0px;width:500px;"}
+
