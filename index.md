@@ -1,44 +1,7 @@
 ---
 layout: home
 ---
-<script>
-    $(document).ready(function(){
-        $("#myModal").modal('show');
-    });
-</script>
-<div class="modal" id="myModal"  tabindex="-1" role="dialog">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
 
-      <div class="modal-body">
-      
-          <p>
-    We have looked on with horror at the events unfolding in Ukraine. This
-war is a human tragedy and a direct attack on democracy in Europe.
-    </p>
-<p>Our thoughts go to our colleagues in Ukraine, their families and
-everyone else who may be affected by this conflict. We extend to them
-our deepest sympathy and support at this difficult time.
-    </p><p>
-We want also to express our support to our Russian colleagues who defend
-peace courageously and have denounced the military invasion in Ukraine.
-    </p><p>
-We very much value the community of scientists that have come together
-from many nations over many years to collaborate on NEMO and SuperNEMO
-in a spirit of peaceful scientific enquiry.
-    </p>
-<ul>
-<li>Christine Marquet, LP2I-Bordeaux, France, SuperNEMO spokesperson</li>
-<li>Ivan Stekl, CTU, Czech Republic, SuperNEMO IB chair</li>
-<li>David Waters, UCL, United Kingdom, SuperNEMO spokesperson</li>
-</ul>
-           </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="container-fluid" id="top">
   <div class="row">
