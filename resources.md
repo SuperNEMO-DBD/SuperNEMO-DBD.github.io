@@ -250,14 +250,18 @@ Working at LSM
 
 ![The view from LSM]({{"assets/modane.jpg"| relative_url }})
 
-As we enter the final stages of construction and commissioning, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). Here are some hints to ensure your trip is drama-free. If you have questions about the integration and running management, contact <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> and <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a>.
+As we prepare to take data, everyone is welcome and needed at [LSM](http://www.lsm.in2p3.fr). You'll also all need to come here for your first shift! Here are some hints to ensure your trip is drama-free. If you have questions travel to LSM, contact <a href="mailto:chauveau@lp2ib.in2p3.fr">Manu</a> or <a href="mailto:andrea@lapp.in2p3.fr">Andrea</a>.
 
-### Register on the calendar
-There will always be something for you to do! Let us know when you are available to travel to LSM by registering on the [calendar](http://caecalendrier.in2p3.fr/index.php/apps/calendar/). <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> can get you an account. Instructions for the calendar are on [docDB 4555](http://nile.hep.utexas.edu/DocDB/ut-nemo/docs/0045/004555/001/howto.pdf). 
-Make sure Yves, <a href="mailto:alessandro.minotti@lapp.in2p3.fr">Alessandro</a> and <a href="mailto:andrea@LAPP.IN2P3.FR">Andrea</a> know which days you will be able to go underground **at least 1 week in advance**, so that they can add you to the LSM calendar and arrange for a driver. If you would like to eat lunch underground, let them know - but it can't be guaranteed, as it depends on driver schedules.
+### Before you travel
+- Read the LSM user guide in [English](https://nile.hep.utexas.edu/DocDB/ut-nemo/docs/0059/005988/002/LSMUserGuide_v4.pdf) or [French](https://nile.hep.utexas.edu/DocDB/ut-nemo/docs/0059/005988/002/LSM_Guide_Utilisateurs_V4.pdf). This includes details of the documents that any non-CNRS users need to send to <a href="mailto:admin@lpsc.in2p3.fr">LSM admin</a>, including a scan of an ID document and a stamped and signed [employer declaration](https://nile.hep.utexas.edu/cgi-bin/DocDB/ut-nemo/private/ShowDocument?docid=5621).
+- Read, sign and date the [Code of conduct](https://nile.hep.utexas.edu/DocDB/ut-nemo/docs/0059/005988/002/20240715-CodeofConduct_2024_signed.pdf%20-%20Box.pdf) and send it to <a href="mailto:scorza@lpsc.in2p3.fr">Silvia Scorza</a>
+- Make sure <a href="mailto:chauveau@lp2ib.in2p3.fr">Manu</a> and <a href="mailto:andrea@lapp.in2p3.fr">Andrea</a> know when you are coming and which days you will be able to go underground **at least 1 week in advance**, so that they can add you to the LSM calendar and arrange for a driver. If you would like to eat lunch underground, let them know - but it can't be guaranteed, as it depends on driver schedules.
+
+
+
 
 ### Going underground
-The cars going to the underground lab leave at **8:30am** each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring your own lunch - there's a fridge, microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). 
+The cars going to the underground lab leave at **8:30am** each day, so be sure to arrive at the surface lab on time. If you plan to stay all day, bring your own lunch - there's a fridge, microwave, kettle and espresso machine underground, as well as clean drinking water (in bottles). You'll need an approved driver to stay with you, so if no SuperNEMO driver will stay underground, you will need to negotiate with LSM. 
 
 If you are not eating lunch underground, you will leave for lunch on the surface by 11:30am. If returning to the tunnel for the afternoon, departure will be **1:30pm** from the surface lab.
 
@@ -267,11 +271,15 @@ If you're staying late, you'll need to get permission from the lab management - 
 Before you go underground for the first time, you will need to do some basic safety training, in case there is an emergency in the tunnel. Jean-Lou of LSM leads this training, and you will be able to do it very quickly in the morning before you go underground. You will also need to receive some security paperwork. To get all of this set up, let <a href="mailto:valerie.favre@lsm.fr">Valerie Favre</a> know that you will be going underground for the first time.
 
 ### Staying in Modane
-You have a few options for accommodation in Modane. The cheapest option is to stay in the LSM dorms. There are 4 rooms in the basement of the surface lab. Each one has its own shower and toilet, and there is a shared kitchen which is stocked with basic cooking equipment. The dorm rooms cost EUR19 per night. To find out about availability and book a room, contact <a href="mailto:valerie.favre@lsm.fr">Valerie Favre</a> at LSM. Alternatively, people choose to stay in Modane itself (walking distance to the lab) or in the nearby ski resort of Aussois, a 10-15 minute drive from the lab. Some hotels we have tried:
+You have a few options for accommodation in Modane. The cheapest option is to stay in the LSM dorms. There are 4 rooms in the basement of the surface lab. Each one has its own shower and toilet, and there is a shared kitchen which is stocked with basic cooking equipment. The dorm rooms cost EUR19 per night. To find out about availability and book a room, contact <a href="mailto: booking- lsm@lpsc.in2p3.fr">LSM</a>. 
+
+Alternatively, people choose to stay in Modane itself (walking distance to the lab) or in the nearby ski resort of Aussois, a 10-15 minute drive from the lab. Some hotels we have tried:
 - [Hotel Le Commerce](http://www.hotel-le-commerce.net) in Modane
 - [Les Voyageurs](https://www.booking.com/hotel/fr/les-voyageurs-modane.en-gb.html) in Modane
 - [Les Mottets](http://www.hotel-lesmottets.com) in Aussois
 - [Hotel du Soleil](https://www.hotel-du-soleil.com/en) in Aussois
+
+If a few people are travelling together outside peak vacation season, it may be possible to rent a chalet in Aussois - speak to Manu if you are interested.
 
 Modane and Aussois both have restaurants, although some of them will be closed in the non-tourist season. Modane's gastronomic district (such as it is) is the street by the railway station. A few we like:
 - [Il Peppuccio](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d2002414-Reviews-Il_Peppuccio-Modane_Savoie_Auvergne_Rhone_Alpes.html) Pizzeria in Modane. No trip to LSM is complete without a Peppuccio pizza. Veggie options available. Gluten-free possible but limited.
@@ -284,12 +292,12 @@ Modane and Aussois both have restaurants, although some of them will be closed i
 ### Getting to Modane
 The easiest way to get to Modane is probably to fly to either Geneva or Lyon St-Exupery, and rent a car. It's around a 2.5-hour drive to the lab from either of these, mostly on motorways, although the travel time can vary significantly with traffic. There is parking at the lab and street parking near the hotels, though finding spaces in downtown Modane can be annoying.
 
-The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from the Lyon airport - again, infrequent - if you don't want to drive. Getting to and from Geneva or Turin airports by public transport is harder, but possible.
+The TGV from Paris Gare-de-Lyon to Turin stops in Modane, but the trains are not frequent. It's about a 4-hour ride from Paris. For more flexibility in timing, you can consider changing at Chambery and using a local train for the Alpine part of the trip. There is also a TGV from the Lyon airport - again, infrequent - if you don't want to drive. To get to Geneva airport by public transit, take the train to Chambery and then either a Flixbus direct to the airport, or train changing in Geneva central. You can book the trains on the SNCF website or app.
 
 ### Things to consider
-It is warm in the tunnel! Choose comfortable and cool clothing to wear under your cleanroom suit. Be sure to stay hydrated. (There is drinking water available underground.) If you will be coming frequently, consider investing in your own pair of steel-toed cleanroom shoes. I use [Honeywell](https://uk.rs-online.com/web/p/safety-shoes-boots/5166644/) brand. Otherwise, you can borrow someone's shoes, but you might not find a pair in your size. The other items of clothing (cleanroom suit, plus disposable hair net, mask, and gloves) are already at the LSM, with a selection of suit and glove sizes available.
+It is warm in the tunnel! Choose comfortable and cool clothing. Be sure to stay hydrated. (There is drinking water available underground.) 
 
-When you are underground but not in the cleanroom, you must wear closed-toed shoes. No sandals!
+When you are underground, you must wear closed-toed shoes. No sandals!
 
 There is no wi-fi underground, but you can connect to the internet using an ethernet cable (in the break room). You should turn off your phone or put it in airplane mode when you are underground, to protect other experiments in the lab.
 
@@ -324,18 +332,25 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
   {% for meeting in meetings_by_date %}
   <div class="row">
     <div class='col-xs-7'>
- <a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a> 
+     {% if meeting.remoteurl %}<a href="{{ meeting.remoteurl }}" target="_blank">{% endif%}  
+     <h2>{{ meeting.location }}</h2>
+     {% if meeting.remoteurl %}</a> {% endif%} 
    <p> 
+   {% if meeting.startdate %}
     {% if meeting.enddate %}{{ meeting.startdate | date: "%A %-d %B " }} to  {{ meeting.enddate | date: "%A %-d %B, %Y" }} 
-    {% else %}Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
+    {% else %} Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
      (Week {{ meeting.startdate | date: "%U" }})
     <br/>
+
+    {% endif%} 
       <i>{{meeting.abstract}}</i>
       </p>
     </div>
     <div class='col-xs-5'>
-      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} "></a>
-        </div>
+      {% if meeting.remoteurl %}<a href="{{ meeting.remoteurl }}" target="_blank">{% endif%}  
+      <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} ">
+      {% if meeting.remoteurl %}</a> {% endif%} 
+    </div>
   </div>
   {% endfor %} 
 </div>
@@ -345,15 +360,7 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 
 <div class="col-xs-3">
     
-<div class="square" style="background-color:var(--first-color);" id="newsletter_btn">
-<div class="content">
-<div class="table">
-<div class="table-cell" >
-Newsletters
-</div>
-</div>
-</div>
-</div>
+
 
 <div class="square" style="background-color:var(--second-color);" id="docs_btn">
 <div class="content">
