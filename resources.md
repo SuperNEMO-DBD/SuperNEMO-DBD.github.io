@@ -299,7 +299,7 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
  <a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a> 
    <p> 
     {% if meeting.enddate %}{{ meeting.startdate | date: "%A %-d %B " }} to  {{ meeting.enddate | date: "%A %-d %B, %Y" }} 
-    {% else %}Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
+    {% else %} Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
      (Week {{ meeting.startdate | date: "%U" }})
     <br/>
       <i>{{meeting.abstract}}</i>
