@@ -130,18 +130,16 @@ Periodically, you will receive a notification inviting you to confirm the inform
 - verify that the information associated with your account (if necessary, update it) and confirm that you have read the [Charters concerning the use of resources](https://doc.cc.in2p3.fr/en/Daily-usage/access.html#charters).
 
 </div>
-
+<div markdown="1">
 CCLyon support
 --------------
 
-For any support, contact our computing tsar, Yves Lemiere.
+For any support, contact our computing tsar, <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a>.
 
-<div markdown="1">
-For any support, let me know.
 Useful links :
--  (https://doc.cc.in2p3.fr/en-index.html)
-* (https://portail.cc.in2p3.fr)
-* (https://support.cc.in2p3.fr/#login)
+-  <https://doc.cc.in2p3.fr/en-index.html>
+- <https://portail.cc.in2p3.fr>
+- <https://support.cc.in2p3.fr/#login>
 
 </div>
 
