@@ -296,18 +296,25 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
   {% for meeting in meetings_by_date %}
   <div class="row">
     <div class='col-xs-7'>
- <a href="{{ article.remoteurl }}" target="_blank"> <h2>{{ meeting.location }}</h2></a> 
+     {% if meeting.remoteurl %}<a href="{{ meeting.remoteurl }}" target="_blank">{% endif%}  
+     <h2>{{ meeting.location }}</h2>
+     {% if meeting.remoteurl %}</a> {% endif%} 
    <p> 
+   {% if meeting.startdate %}
     {% if meeting.enddate %}{{ meeting.startdate | date: "%A %-d %B " }} to  {{ meeting.enddate | date: "%A %-d %B, %Y" }} 
     {% else %} Week of {{ meeting.startdate | date: "%A %-d %B, %Y" }} {% endif%} 
      (Week {{ meeting.startdate | date: "%U" }})
     <br/>
+
+    {% endif%} 
       <i>{{meeting.abstract}}</i>
       </p>
     </div>
     <div class='col-xs-5'>
-      <a href="{{ meeting.remoteurl }}" target="_blank"> <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} "></a>
-        </div>
+      {% if meeting.remoteurl %}<a href="{{ meeting.remoteurl }}" target="_blank">{% endif%}  
+      <img src="{{meeting.thumbnail}}" class="img-thumbnail" alt="{{ meeting.location}} ">
+      {% if meeting.remoteurl %}</a> {% endif%} 
+    </div>
   </div>
   {% endfor %} 
 </div>
