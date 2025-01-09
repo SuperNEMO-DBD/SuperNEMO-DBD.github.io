@@ -106,19 +106,47 @@ Falaise tracker](https://github.com/SuperNEMO-DBD/Falaise/issues)
 <div markdown="1">
 Getting an account on the CCLyon computing cluster
 --------------------------------------------------
-The CCLyon computing cluster has a lot of simulation available from the MCC2 Monte Carlo challenge. To use it, you'll first need to get an account.
-                
-If you already have one, make sure you can access it (and contact <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a> if you can't). If need an account follow this procedure:
-                
-- Visit [this page](https://cctools.in2p3.fr/cclogon/) and fill the form
-- In Step 1 choose "Foreign collaborators" as Department and laboratory
-- In Step 2 choose "nemo" as group and give a date 3 years from now for the Account's expiration date (leave blank if you have a permanent position)
-- In Step 3 download the form, sign in and send it to <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a>
-                
-You should receive your account information in a few days.
+The CCLyon computing cluster is where our data and large simulation samples are stored. There are installations of the SuperNEMO software available on CCLyon. You'll need to get an account to use it.
+
+To create your CC-IN2P3 user account, please follow the procedure below:
+
+- read the [Charters for the use of resources](https://doc.cc.in2p3.fr/en/Daily-usage/access.html#charters) (the account creation or submission of a creation request implies acceptance of the charters),
+- go to the [Identity Management Portal](https://id.cc.in2p3.fr/) and select the “Sign up” button,
+- fill in the required information (using [eduGAIN](https://doc.cc.in2p3.fr/en/Daily-usage/account.html#identity-federation) will make this task easier) and follow the instructions you’ll receive by e-mail.
+
+Once the account has been created, an access with the same identifier is provisioned on our [Helpdesk](https://doc.cc.in2p3.fr/en/Daily-usage/assistance.html#cc-helpdesk).
+
+
+</div>
+
+<div markdown="1">
+If your CCLyon account is expiring
+----------------------------------
+
+Periodically, you will receive a notification inviting you to confirm the information associated to your profile. To extend your account activity, please follow the steps below:
+
+- click on the link provided on the red banner in your [Identity Management Portal](https://id.cc.in2p3.fr/) profile,
+- follow the procedure to verify your e-mail address and click on the link you will receive by e-mail,
+- verify that the information associated with your account (if necessary, update it) and confirm that you have read the [Charters concerning the use of resources](https://doc.cc.in2p3.fr/en/Daily-usage/access.html#charters).
+
+</div>
+<div markdown="1">
+CCLyon support
+--------------
+
+For any support, contact our computing tsar, <a href="mailto:lemiere@lpccaen.in2p3.fr">Yves</a>.
+
+Useful links :
+-  <https://doc.cc.in2p3.fr/en-index.html>
+- <https://portail.cc.in2p3.fr>
+- <https://support.cc.in2p3.fr/#login>
+
+</div>
+
 <div markdown="1">
 Using CCLyon
---------------------------------------------------
+-------------
+
 [Here](https://doc.cc.in2p3.fr/en:utiliser_le_systeme_batch_ge_depuis_le_centre_de_calcul) are some instructions for logging onto CCLyon and getting started with the batch system that enables you to submit large jobs to the distributed computing cluster.
 
 </div>
@@ -207,7 +235,7 @@ print('Hello World')
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 </div>
 
-</div>
+
 
 
 </div>
