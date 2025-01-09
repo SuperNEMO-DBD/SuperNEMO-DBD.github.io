@@ -324,15 +324,7 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 
 <div class="col-xs-3">
     
-<div class="square" style="background-color:var(--first-color);" id="newsletter_btn">
-<div class="content">
-<div class="table">
-<div class="table-cell" >
-Newsletters
-</div>
-</div>
-</div>
-</div>
+
 
 <div class="square" style="background-color:var(--second-color);" id="docs_btn">
 <div class="content">
