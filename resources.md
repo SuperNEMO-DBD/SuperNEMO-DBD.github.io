@@ -65,7 +65,18 @@ Here are the upcoming conferences:
 {% assign sorted_confs = site.data.conferences | sort:"StartDate"  %}
 {% for conf in sorted_confs %}
 <p>
-<a href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }}{% if conf.StartDate | date:'%m' != conf.EndDate | date:'%m'%} {{conf.StartDate | date:'%B'}}{% endif %} {% if conf.StartDate | date:'%Y' != conf.EndDate | date:'%Y'%} {{conf.StartDate | date:'%Y'}}{% endif %} - {{ conf.EndDate | date_to_long_string }}
+<a href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }} 
+{% assign startmth =conf.StartDate | date:'%m' | integer %}
+{% assign endmth = conf.EndDate  | date:'%m' | integer %} 
+{% if startmth != endmth %} {{conf.StartDate | date:'%B'}}{% endif %}
+{% assign startyr =conf.StartDate | date:'%Y' | integer %}
+{% assign endyr = conf.EndDate  | date:'%Y' | integer %} 
+{% if startyr != endyr %} {{conf.StartDate | date:'%Y'}}{% endif %}
+ - {{ conf.EndDate | date_to_long_string }}<br/>
+ {% if conf.RegDate or conf.AbstractDate %}
+ {% if conf.RegDate %}Conference registration deadline: {{conf.RegDate}}{% endif %}  {% if conf.AbstractDate %}Abstract deadline: {{conf.AbstractDate}}{% endif %} <br/>
+ {% endif %} 
+ {% if conf.InternalDeadline %}<strong>Abstracts to speakers bureau by {{conf.InternalDeadline}}</strong>{% endif %} 
 </p>
 {% endfor %}
 </div>
