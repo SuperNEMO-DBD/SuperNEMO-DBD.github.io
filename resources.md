@@ -53,6 +53,46 @@ _(added on {{letter.date | date_to_long_string }})_
     {% endfor %}
 </div>
 
+
+
+
+<div id="conf" style="display:none">
+    <header class="post-header">
+        <h1 class="post-title text-center">Upcoming conferences</h1>
+    </header>
+<div markdown="1">
+We are proud of SuperNEMO! If you would like to spread the word at a conference, consider one of these.
+
+{% assign sorted_confs = site.data.conferences | sort:"StartDate"  %}
+{% for conf in sorted_confs %}
+<p>
+<a href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }} 
+{% assign startmth =conf.StartDate | date:'%m' | integer %}
+{% assign endmth = conf.EndDate  | date:'%m' | integer %} 
+{% if startmth != endmth %} {{conf.StartDate | date:'%B'}}{% endif %}
+{% assign startyr =conf.StartDate | date:'%Y' | integer %}
+{% assign endyr = conf.EndDate  | date:'%Y' | integer %} 
+{% if startyr != endyr %} {{conf.StartDate | date:'%Y'}}{% endif %}
+ - {{ conf.EndDate | date_to_long_string }}<br/>
+ {% if conf.RegDate or conf.AbstractDate %}
+ {% if conf.RegDate %}Conference registration deadline: {{conf.RegDate| date_to_long_string}}{% endif %}  {% if conf.AbstractDate %}Abstract deadline: {{conf.AbstractDate| date_to_long_string}}{% endif %} <br/>
+ {% endif %} 
+ {% if conf.InternalDeadline %}<strong>Abstracts to speakers bureau by {{conf.InternalDeadline| date_to_long_string}}</strong>{% endif %} 
+  {% if conf.Info %}
+  <a role="button" data-toggle="collapse" href="#{{conf.Conference| slugify}}" aria-expanded="false" aria-controls="{{conf.Conference| slugify}}">Details</a>
+ <div  class="collapse" id="{{conf.Conference| slugify}}">
+<div class="well" style="overflow:auto">
+<p>{{conf.Info}}</p>
+</div>
+</div>
+ {% endif %} 
+</p>
+
+{% endfor %}
+</div>
+</div>
+
+
 <div id="docs" style="display:none">
     <header class="post-header">
         <h1 class="post-title text-center">Internal documentation</h1>
@@ -360,7 +400,15 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 
 <div class="col-xs-3">
     
-
+<div class="square" style="background-color:var(--first-color);" id="conf_btn">
+<div class="content">
+<div class="table">
+<div class="table-cell">
+Upcoming Conferences
+</div>
+</div>
+</div>
+</div>
 
 <div class="square" style="background-color:var(--second-color);" id="docs_btn">
 <div class="content">
