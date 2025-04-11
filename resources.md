@@ -61,7 +61,13 @@ _(added on {{letter.date | date_to_long_string }})_
         <h1 class="post-title text-center">Upcoming conferences</h1>
     </header>
 <div markdown="1">
-Hello
+Here are the upcoming conferences:
+{% assign sorted_confs = site.data.conferences | sort:"StartDate"  %}
+{% for conf in sorted_confs %}
+<p>
+<a href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }}{% if conf.StartDate | date:'%m' != conf.EndDate | date:'%m'%} {{conf.StartDate | date:'%B'}}{% endif %} {% if conf.StartDate | date:'%Y' != conf.EndDate | date:'%Y'%} {{conf.StartDate | date:'%Y'}}{% endif %} - {{ conf.EndDate | date_to_long_string }}
+</p>
+{% endfor %}
 </div>
 </div>
 
