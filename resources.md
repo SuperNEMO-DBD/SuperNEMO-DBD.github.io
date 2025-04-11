@@ -61,7 +61,8 @@ _(added on {{letter.date | date_to_long_string }})_
         <h1 class="post-title text-center">Upcoming conferences</h1>
     </header>
 <div markdown="1">
-Here are the upcoming conferences:
+We are proud of SuperNEMO! If you would like to spread the word at a conference, consider one of these.
+
 {% assign sorted_confs = site.data.conferences | sort:"StartDate"  %}
 {% for conf in sorted_confs %}
 <p>
@@ -77,7 +78,16 @@ Here are the upcoming conferences:
  {% if conf.RegDate %}Conference registration deadline: {{conf.RegDate}}{% endif %}  {% if conf.AbstractDate %}Abstract deadline: {{conf.AbstractDate}}{% endif %} <br/>
  {% endif %} 
  {% if conf.InternalDeadline %}<strong>Abstracts to speakers bureau by {{conf.InternalDeadline}}</strong>{% endif %} 
+  {% if conf.Info %}
+  <a role="button" data-toggle="collapse" href="#{{conf.Conference| slugify}}" aria-expanded="false" aria-controls="{{conf.Conference| slugify}}">Details</a>
+ <div  class="collapse" id="{{conf.Conference| slugify}}">
+<div class="well" style="overflow:auto">
+<p>{{conf.Info}}</p>
+</div>
+</div>
+ {% endif %} 
 </p>
+
 {% endfor %}
 </div>
 </div>
