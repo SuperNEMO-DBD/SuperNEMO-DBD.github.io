@@ -53,6 +53,19 @@ _(added on {{letter.date | date_to_long_string }})_
     {% endfor %}
 </div>
 
+
+
+
+<div id="conf" style="display:none">
+    <header class="post-header">
+        <h1 class="post-title text-center">Upcoming conferences</h1>
+    </header>
+<div markdown="1">
+Hello
+</div>
+</div>
+
+
 <div id="docs" style="display:none">
     <header class="post-header">
         <h1 class="post-title text-center">Internal documentation</h1>
@@ -360,7 +373,15 @@ The [SuperNEMO Analysis wiki page](https://nemo.lpc-caen.in2p3.fr/wiki/NEMO/Supe
 
 <div class="col-xs-3">
     
-
+<div class="square" style="background-color:var(--first-color);" id="conf_btn">
+<div class="content">
+<div class="table">
+<div class="table-cell">
+Upcoming Conferences
+</div>
+</div>
+</div>
+</div>
 
 <div class="square" style="background-color:var(--second-color);" id="docs_btn">
 <div class="content">
