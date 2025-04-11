@@ -75,9 +75,9 @@ We are proud of SuperNEMO! If you would like to spread the word at a conference,
 {% if startyr != endyr %} {{conf.StartDate | date:'%Y'}}{% endif %}
  - {{ conf.EndDate | date_to_long_string }}<br/>
  {% if conf.RegDate or conf.AbstractDate %}
- {% if conf.RegDate %}Conference registration deadline: {{conf.RegDate}}{% endif %}  {% if conf.AbstractDate %}Abstract deadline: {{conf.AbstractDate}}{% endif %} <br/>
+ {% if conf.RegDate %}Conference registration deadline: {{conf.RegDate| date_to_long_string}}{% endif %}  {% if conf.AbstractDate %}Abstract deadline: {{conf.AbstractDate| date_to_long_string}}{% endif %} <br/>
  {% endif %} 
- {% if conf.InternalDeadline %}<strong>Abstracts to speakers bureau by {{conf.InternalDeadline}}</strong>{% endif %} 
+ {% if conf.InternalDeadline %}<strong>Abstracts to speakers bureau by {{conf.InternalDeadline| date_to_long_string}}</strong>{% endif %} 
   {% if conf.Info %}
   <a role="button" data-toggle="collapse" href="#{{conf.Conference| slugify}}" aria-expanded="false" aria-controls="{{conf.Conference| slugify}}">Details</a>
  <div  class="collapse" id="{{conf.Conference| slugify}}">
