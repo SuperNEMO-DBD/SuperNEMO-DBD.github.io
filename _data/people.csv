@@ -10,7 +10,6 @@ BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,,,Radon,y,y
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,Former PhD student  ,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
 HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people/hodak.jpg,Sheilding,y,y
-Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Masters Student (with FNSPE CTU in Prague),,,n,y
 Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Masters Student (with FNSPE CTU in Prague),,,y,y
 Macko,Miroslav,miroslav.macko@utef.cvut.cz,Macko,Miroslav,CVUT,Permanent position,,Deputy Physics Coordinator,y,y
 Mendl,Adam,,Mendl,Adam,CVUT,Bachelor student (with FMP CU),,,y,y
@@ -58,45 +57,37 @@ Duchesneau,Dominique,duchesneau@LAPP.IN2P3.FR,Duchesneau,Dominique,LAPP,,,,y,
 Jeremie,Andrea,andrea@lapp.in2p3.fr,Jeremie,Andrea,LAPP,,,Technical Coordinator,y,
 Leflour,Thierry,leflour@lapp.in2p3.fr,Leflour,Thierry,LAPP,,,,,
 Lieunard,Sophie,sophie.lieunard@lapp.in2p3.fr,Lieunard,Sophie,LAPP,,,,,
-Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,,n,
 Panazol,Jean-Luc,jean-luc.panazol@lapp.in2p3.fr,Panazol,Jean-Luc,LAPP,,,,,
 DEPREAUMONT,Hugues,depreaumont@LPCCAEN.IN2P3.FR,Depreaumont,Hugues,LPCCAEN,,,,,
 DROUET,Sebastien,sdrouet@lpccaen.in2p3.fr,Drouet,Sebastien,LPCCAEN,Electronics and Microelectronics Engineer,assets/people/Drouet_Sebastien_petite.jpg,,y,y
 GUILLON,Benoit,guillon@LPCCAEN.IN2P3.FR,Guillon,Benoit,LPCCAEN,,,,,
 HOMMET,Jean,hommet@LPCCAEN.IN2P3.FR,Hommet,Jean,LPCCAEN,,,,,
-LEMIERE,Yves,lemiere@LPCCAEN.IN2P3.FR,Lemiere,Yves,LPCCAEN,,,Detector operations coordinator,y,
+LEMIERE,Yves,lemiere@LPCCAEN.IN2P3.FR,Lemiere,Yves,LPCCAEN,Academic,,IB chair,y,
 LETERRIER,Laurent,LETERRIER@LPCCAEN.IN2P3.FR,Leterrier,Laurent,LPCCAEN,,,,,
-MAUGER,Francois,mauger@LPCCAEN.IN2P3.FR,Mauger,Francois,LPCCAEN,,,"Electronics, software",y,
-POINCHEVAL,Jerome,poincheval@LPCCAEN.IN2P3.FR,Poincheval,Jerome,LPCCAEN,,,,,
+MAUGER,Francois,mauger@LPCCAEN.IN2P3.FR,Mauger,Francois,LPCCAEN,Academic,,"Electronics, software",y,
+POINCHEVAL,Jerome,poincheval@LPCCAEN.IN2P3.FR,Poincheval,Jerome,LPCCAEN,Engineer,,Computing,,
 DECAPUA,Stefano,stefano.decapua@manchester.ac.uk,De Capua,Stefano,Manchester,Applied Physicist,,Tracker,y,y
 EVANS,Justin,justin.evans@manchester.ac.uk,Evans,Justin,Manchester,Faculty,,,y,y
-GUZOWSKI,Pawel,pawel.guzowski@manchester.ac.uk,Guzowski,Pawel,Manchester,Research Associate,,,,y
 MILLER,Graham,Graham.Miller@manchester.ac.uk,Miller,Graham,Manchester,Electronics Engineer,,,y,y
 PATER,Joleen,joleen.pater@manchester.ac.uk,Pater,Joleen,Manchester,Applied Physicist,,,y,y
 PERRY,Michael,michael.perry@manchester.ac.uk,Perry,Michael,Manchester,Electronics Engineer,,,y,y
-SOLDNER-REMBOLD,Stefan,stefan.soldner-rembold@manchester.ac.uk,Soldner-Rembold,Stefan,Manchester,Faculty,,,y,y
-Pape,Emily,emily.pape@student.manchester.ac.uk,Pape,Emily,Manchester,Masters Student ,,,y,y
-Arya,Raphael,raphael.arya@student.manchester.ac.uk,Arya,Raphael,Manchester,Masters Student ,,,y,y
-NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,,,,y,y
+SOLDNER-REMBOLD,Stefan,s.soldner-rembold@imperial.ac.uk,Soldner-Rembold,Stefan,Imperial,Faculty,,,y,y
+NOMACHI,Masaharu,nomachi@rcnp.osaka-u.ac.jp,Nomachi,Masaharu,Osaka,Retired,,,y,y
 VIRTUE,Clarence,cjv@snolab.ca,Virtue,Clarence,Snolab,,,,,y
-BASHARINA-FRESHVILLE,Anastasia,anastasia.freshville@UCL.AC.UK,Basharina-Freshville,Anastasia,UCL,Detector physicist,assets/people/Anastasia_Freshville_2016_250x350_w.jpg,Calibration Systems Coordinator,y,y
+BASHARINA-FRESHVILLE,Anastasia,anastasia.freshville@UCL.AC.UK,Basharina-Freshville,Anastasia,UCL,Detector physicist,assets/people/Anastasia_Freshville_2016_250x350_w.jpg,Speakers bureau chair,y,y
 Ceschia,Matteo,matteo.ceschia.18@ucl.ac.uk,Ceschia,Matteo,UCL,PhD student,assets/people/Matteo_photo.png,"Clustering, data intensive science",y,y
-Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,Shielding Coordinator,y,y
+Barnett,Harry,h.barnett@ucl.ac.uk,Barnett,Harry,UCL,Engineer,,Shielding,y,y
+Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,Shielding,y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,Former PhD student  ,assets/people/will.jpeg,,y,y
 WATERS,David,d.waters@UCL.AC.UK,Waters,David,UCL,Professor,assets/people/David_Waters_2013_w.jpg,Former Spokesperson and Tracker Coordinator,y,y
-BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Data Quality and Control Coordinator,y,y
+BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Software coordinator,y,y
 DVORNICKY,Rastislav,dvornicky@teller.dnp.fmph.uniba.sk,Dvornicky,Rastislav,Uniba,,,,y,y
 Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
-Kaizer,Jakub,jakub.kaizer@fmph.uniba.sk,Kaizer,Jakub,Uniba,,,,y,y
+Kaizer,Jakub,jakub.kaizer@fmph.uniba.sk,Kaizer,Jakub,Uniba,,,Theorist,y,y
 POVINEC,Pavel,pavel.povinec@fmph.uniba.sk,Povinec,Pavel,Uniba,,,,y,y
 SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,Theorist,y,y
-CESAR,John,JPCESAR23@PHYSICS.UTEXAS.EDU,Cesar,John,UTAustin,,,,,y
-LANG,Karol,lang@PHYSICS.UTEXAS.EDU,Lang,Karol,UTAustin,Professor,,Speakers' Bureau Chair,y,y
-LIPTAK,Zachary,LIPTAK@PHYSICS.UTEXAS.EDU,Liptak,Zachary,UTAustin,,,,,y
-PROGA,Marek,proga@PHYSICS.UTEXAS.EDU,Proga,Marek,UTAustin,,,,y,y
-SALAZAR,Ramon,ramonmsalazar@gmail.com,Salazar,Ramon,UTAustin,Former PhD student  ,,,y,y
-Mitra,Ankush,A.Mitra.2@warwick.ac.uk,Mitra,Ankush,Warwick,,,,y,y
-Morgan,Ben,Ben.Morgan@warwick.ac.uk,Morgan,Ben,Warwick,Senior Research Fellow,assets/people/BenMorgan.jpg,Software development coordinator,y,y
+LANG,Karol,lang@PHYSICS.UTEXAS.EDU,Lang,Karol,UTAustin,Professor,,,y,y
+PROGA,Marek,proga@PHYSICS.UTEXAS.EDU,Proga,Marek,UTAustin,Engineer,,,y,y
 RAMACHERS,Yorck,y.a.ramachers@warwick.ac.uk,Ramachers,Yorck,Warwick,Faculty,assets/people/YorckRamachers.jpg,Physics coordinator (to 2018),y,y
 SUZUKI,Koutaku,ksuzuki@werc.or.jp,Suzuki,Kohtaku,WERC,Researcher,,Data acquisition,y,y
 Nemoshchenkov,Nazar,nemoshchenkovn@knu.ua,Nemoshchenkov,Nazar,KNU,Bachelors student,,,y,y
