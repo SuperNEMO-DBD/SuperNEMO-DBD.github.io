@@ -322,12 +322,14 @@ Alternatively, people choose to stay in Modane itself (walking distance to the l
 If a few people are travelling together outside peak vacation season, it may be possible to rent a chalet in Aussois - speak to Manu if you are interested.
 
 Modane and Aussois both have restaurants, although some of them will be closed in the non-tourist season. Modane's gastronomic district (such as it is) is the street by the railway station. A few we like:
-- [Il Peppuccio](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d2002414-Reviews-Il_Peppuccio-Modane_Savoie_Auvergne_Rhone_Alpes.html) Pizzeria in Modane. No trip to LSM is complete without a Peppuccio pizza. Veggie options available. Gluten-free possible but limited.
+- [Il Peppuccio](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d2002414-Reviews-Il_Peppuccio-Modane_Savoie_Auvergne_Rhone_Alpes.html) Used to be our go-to pizzeria. Now under new management and sells a strange range of cuisine. Veggie options available. Gluten-free possible but limited.
 - [L'Echappee](https://www.tripadvisor.co.uk/Restaurant_Review-g661682-d3681609-Reviews-L_Echappee-Modane_Savoie_Auvergne_Rhone_Alpes.html) A little more expensive, with French food including Alpine specialities. Go there when you want to celebrate.
 - [Pulcinella](http://www.pizzeriapulcinella.fr) A pizzeria that is not Peppuccio. Sometimes open when Peppuccio is closed.
 - [Le Perce Neige](http://www.hotel-leperceneige.com) Traditional food of the Savoie region. Lots of cheese. Feels like somebody's living room.
-- [L'international](http://www.savoie-mont-blanc.com/en/offre/fiche/restaurant-international/4840124) Turkish food. Exotic by Modane standards!
+- [L'international](http://www.savoie-mont-blanc.com/en/offre/fiche/restaurant-international/4840124) and Antalya: Turkish food. Exotic by Modane standards!
 - [Hotel de la Gare](https://www.hoteldelagare-modane.com) Sells crepes and galettes, among other things.
+- [Boulangerie Pagnott] Bakery opposite Modane train station that sells good sandwiches, as well as bread and pastries. Good to buy lunch to take underground.
+- There are also two supermarkets: Auchan in the town centre, and Intermarche in Fourneau, on the way to 
 
 ### Getting to Modane
 The easiest way to get to Modane is probably to fly to either Geneva or Lyon St-Exupery, and rent a car. It's around a 2.5-hour drive to the lab from either of these, mostly on motorways, although the travel time can vary significantly with traffic. There is parking at the lab and street parking near the hotels, though finding spaces in downtown Modane can be annoying.

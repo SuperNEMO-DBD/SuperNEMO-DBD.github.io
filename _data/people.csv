@@ -4,30 +4,32 @@ CHAUVEAU,Emmanuel,chauveau@cenbg.in2p3.fr,Chauveau,Emmanuel,CENBG,Researcher,,"P
 MARQUET,Christine,marquet@CENBG.IN2P3.FR,Marquet,Christine,CENBG,Scientist/ Academic,,Joint Spokesperson,y,y
 PERROT,Frederic,fperrot@CENBG.IN2P3.FR,Perrot,Frederic,CENBG,Researcher,,Low Background and Radon Coordinator,y,y
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,CENBG,Researcher/ Academic,,"Former spokesperson (2005-2017), LSM director",y,y
+Lahaie,Antoine,lahaie@cenbg.in2p3.fr,Lahaie,Antoine,CENBG,PhD student,,Radon,y,y
+Granjon,Mathis,granjon@cenbg.in2p3.fr,Granjon,Mathis,CENBG,PhD student,,Calibration,y,y
 BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,,,Radon,y,y
-Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,y,y
+Curtil,Christian,curtil@CPPM.IN2P3.FR,Curtil,Christian,CPPM,,,Radon,n,y
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,Former PhD student  ,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
 VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
-HODVAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people/hodak.jpg,Sheilding,y,y
-Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Masters Student (with FNSPE CTU in Prague),,,y,y
+HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people/hodak.jpg,Sheilding,y,y
+Konarik,Filip,filip.konarik@utef.cvut.cz,Konarik,Filip,CVUT,Masters Student (with FNSPE CTU in Prague),,,n,y
 Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Masters Student (with FNSPE CTU in Prague),,,y,y
 Macko,Miroslav,miroslav.macko@utef.cvut.cz,Macko,Miroslav,CVUT,Permanent position,,Deputy Physics Coordinator,y,y
 Mendl,Adam,,Mendl,Adam,CVUT,Bachelor student (with FMP CU),,,y,y
-Palusova,Veronika,veronika.palusova@cvut.cz,Palusova,Veronika,CVUT,Postdoc,,Analysis coordinator,y,y
+Palusova,Veronika,veronika.palusova@cvut.cz,Palusova,Veronika,CVUT,Postdoc,,Analysis coordinator,n,y
 Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),,,y,y
 Shitov,Yury,yury.shitov@cvut.cz,Shitov,Yury,CVUT,,,,y,y
 STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,IB chair,y,y
-Albert,Kaela,K.D.C.Albert@sms.ed.ac.uk,Albert,Kaela,Edinburgh,Masters Student ,,,y,y
-Aguerre,Xalbat,xauguerre@ed.ac.uk,Aguerre,Xalbat,Edinburgh,Postdoc,,,y,n
-Elvin,Anya,A.Elvin-1@sms.ed.ac.uk,Elvin,Anya,Edinburgh,Masters Student ,,,y,y
+Albert,Kaela,K.D.C.Albert@sms.ed.ac.uk,Albert,Kaela,Edinburgh,Masters Student ,,,n,y
+Aguerre,Xalbat,xauguerre@ed.ac.uk,Aguerre,Xalbat,Edinburgh,Postdoc,,,y,y
+Elvin,Anya,A.Elvin-1@sms.ed.ac.uk,Elvin,Anya,Edinburgh,Masters Student ,,,n,y
 Li,Elvis,s1724346@sms.ed.ac.uk,Li,Elvis,Edinburgh,PhD student,,,y,y
 Patrick,Cheryl,cpatrick@ed.ac.uk,Patrick,Cheryl,Edinburgh,STFC Ernest Rutherford Fellow,assets/people/Cheryl_Patrick_2016_w.jpg,Co-Spokesperson,y,y
 Pratt,Sam,S.Pratt-4@sms.ed.ac.uk,Pratt,Sam,Edinburgh,PhD student,,,y,y
 Turnbull,Gillian,s2563311@sms.ed.ac.uk,Turnbull,Gillian,Edinburgh,PhD student,,,y,y
-SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,Faculty,,,y,y
-CAFFREY,Gus,Gus.Caffrey@INL.GOV,Caffrey,Gus,INL,"Emeritus Fellow, National & Homeland Security",,,y,y
+SEDGBEER,Julia,j.sedgbeer@IMPERIAL.AC.UK,Sedgbeer,Julia,Imperial,Retired,,,y,y
+CAFFREY,Gus,Gus.Caffrey@INL.GOV,Caffrey,Gus,INL,Retired,,,y,y
 HORKLEY,Jared,Jared.Horkley@INL.GOV,Horkley,Jared,INL,National & Homeland Security,,,y,y
-RIDDLE,Catherine,Catherine.Riddle@INL.GOV,Riddle,Catherine,INL,Nuclear Science and Technology,,,y,y
+RIDDLE,Catherine,Catherine.Riddle@INL.GOV,Riddle,Catherine,INL,Retired,,,y,y
 BARABASH,Alexander,barabash@ITEP.RU,Barabash,Alexander,SNEMO,,,,y,y
 Konovalov,Sergey,konovalov@itep.ru,Konovalov,Sergey,SNEMO,,,Source production,y,y
 YUMATOV,Vladimir,yumatov@ITEP.RU,Yumatov,Vladimir,SNEMO,,,,y,y
@@ -50,11 +52,11 @@ BOURGEOIS,Christian,bourgeoi@LAL.IN2P3.FR,Bourgeois,Christian,LAL,,,Mechanical C
 BRETON,Dominique,BRETON@LAL.IN2P3.FR,Breton,Dominique,LAL,,,,,
 BRIERE,Matthieu,briere@LAL.IN2P3.FR,Briere,Matthieu,LAL,,,,,
 DUARTE,Olivier,DUARTE@LAL.IN2P3.FR,Duarte,Olivier,LAL,,,,,
-Hoballah,Malak,,Hoballah,Malak,LAL,Former PhD student  ,,,y,n
+Hoballah,Malak,,Hoballah,Malak,LAL,Former PhD student  ,,,n,n
 JULLIAN,Serge,jullian@LAL.IN2P3.FR,Jullian,Serge,LAL,,,,y,
 LOAIZA,Pia,loaiza@LAL.IN2P3.FR,Loaiza,Pia,LAL,,,,y,
 MAALMI,Jihane,maalmi@lal.in2p3.fr,Maalmi,Jihane,LAL,,,Electronics Coordinator,y,
-Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,y,n
+Sarazin,Xavier,sarazin@lal.in2p3.fr,Sarazin,Xavier,LAL,,,,n,n
 SIMARD,Laurent,simard@LAL.IN2P3.FR,Simard,Laurent,LAL,,,Analysis Coordinator,y,
 Vereshchaka,Yegor,yegor.vereshchaka@ijclab.in2p3.fr,Vereshchaka,Yegor,LAL,PhD student,,,y,y
 Chabanne,Eric,eric.chabanne@lapp.in2p3.fr,Chabanne,Eric,LAPP,,,,,
@@ -62,7 +64,7 @@ Duchesneau,Dominique,duchesneau@LAPP.IN2P3.FR,Duchesneau,Dominique,LAPP,,,,y,
 Jeremie,Andrea,andrea@lapp.in2p3.fr,Jeremie,Andrea,LAPP,,,Technical Coordinator,y,
 Leflour,Thierry,leflour@lapp.in2p3.fr,Leflour,Thierry,LAPP,,,,,
 Lieunard,Sophie,sophie.lieunard@lapp.in2p3.fr,Lieunard,Sophie,LAPP,,,,,
-Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,,y,
+Minotti,Alessandro,alessandro.minotti@lapp.in2p3.fr,Minotti,Alessandro,LAPP,Postdoc,,,n,
 Panazol,Jean-Luc,jean-luc.panazol@lapp.in2p3.fr,Panazol,Jean-Luc,LAPP,,,,,
 DEPREAUMONT,Hugues,depreaumont@LPCCAEN.IN2P3.FR,Depreaumont,Hugues,LPCCAEN,,,,,
 DROUET,Sebastien,sdrouet@lpccaen.in2p3.fr,Drouet,Sebastien,LPCCAEN,Electronics and Microelectronics Engineer,assets/people/Drouet_Sebastien_petite.jpg,,y,y
