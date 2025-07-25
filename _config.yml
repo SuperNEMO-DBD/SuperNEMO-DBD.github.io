@@ -39,7 +39,7 @@ collections:
     #output: true
 
 # Build settings
-gems:
+plugins:
   - jekyll-feed
   - jekyll-mentions
 sass:
