@@ -113,6 +113,15 @@ title: Publications and Media
 
 </div>
 
+<div id="theses" style="display:none">
+<header class="post-header">
+<h1 class="post-title text-center">Theses</h1>
+</header>
+
+<p>PhD theses on SuperNEMO or NEMO-3.</p>
+
+</div>
+
     </div>
 
     <div class="col-xs-3">
@@ -161,11 +170,11 @@ title: Publications and Media
             </div>
           </div>
         </div>
-        <div class="square" style="background-color:var(--sixth-color);" id="all_btn">
+        <div class="square" style="background-color:var(--sixth-color);" id="thesis_btn">
           <div class="content">
             <div class="table">
               <div class="table-cell">
-                Everything
+                Theses
               </div>
             </div>
           </div>
