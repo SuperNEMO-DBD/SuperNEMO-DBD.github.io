@@ -120,6 +120,14 @@ title: Publications and Media
 
 <p>PhD theses on SuperNEMO or NEMO-3.</p>
 
+{% assign sorted_theses = site.data.theses | sort:"Year" | reverse %}
+
+{% for thesis in sorted_theses %}
+<p>{% if thesis.Link %}<a href="{{ thesis.Link }}" target="_blank">{% endif %}<strong>{{ thesis.Title }}</strong>{% if thesis.Link %}</a>{% endif %}<br/>  {{ thesis.Author }} ({{ thesis.Institution}}, {{ thesis.Year}}{% if thesis.Supervisor %}, supervised by {{ thesis.Supervisor }}{% endif %})
+</p>
+{% endfor %}
+
+
 </div>
 
     </div>
