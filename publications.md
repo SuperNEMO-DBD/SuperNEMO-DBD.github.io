@@ -113,6 +113,22 @@ title: Publications and Media
 
 </div>
 
+<div id="theses" style="display:none">
+<header class="post-header">
+<h1 class="post-title text-center">SuperNEMO and NEMO-3 PhD Theses</h1>
+</header>
+
+{% assign sorted_theses = site.data.theses | sort:"Year" | reverse %}
+
+{% for thesis in sorted_theses %}
+<p>{% if thesis.Link %}<a href="{{ thesis.Link }}" target="_blank">{% endif %}<strong>{{ thesis.Title }}</strong>{% if thesis.Link %}</a>{% endif %}<br/>  Dr {{ thesis.Author }} <br/> 
+    {{ thesis.Institution}}, {{ thesis.Year}}{% if thesis.Supervisor %}, supervised by {{ thesis.Supervisor }}{% endif %}
+</p>
+{% endfor %}
+
+
+</div>
+
     </div>
 
     <div class="col-xs-3">
@@ -161,11 +177,11 @@ title: Publications and Media
             </div>
           </div>
         </div>
-        <div class="square" style="background-color:var(--sixth-color);" id="all_btn">
+        <div class="square" style="background-color:var(--sixth-color);" id="thesis_btn">
           <div class="content">
             <div class="table">
               <div class="table-cell">
-                Everything
+                Theses
               </div>
             </div>
           </div>
