@@ -115,10 +115,8 @@ title: Publications and Media
 
 <div id="theses" style="display:none">
 <header class="post-header">
-<h1 class="post-title text-center">Theses</h1>
+<h1 class="post-title text-center">SuperNEMO and NEMO-3 PhD Theses</h1>
 </header>
-
-<p>PhD theses on SuperNEMO or NEMO-3.</p>
 
 {% assign sorted_theses = site.data.theses | sort:"Year" | reverse %}
 
