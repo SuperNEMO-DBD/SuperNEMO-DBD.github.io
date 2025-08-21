@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Congratulations - Tomáš Křižák!"
+date:   2025-06-12 09:00:00 +0000
+thumbnail: "assets/post_images/Tomas_Masters1.jpg"
+categories: phd supernemo
+---
+
+SuperNEMO is delighted to share that Tomáš successfully defended his thesis at the Czech Technical University in Prague, passed his final master’s examination, and was awarded his diploma cum laude! 
+
+![Tomáš Křižák, A new Master in SuperNEMO']({{"assets/post_images/Tomas_Masters1.jpg"| relative_url }}){:style="margin-bottom:20px;margin-top:20px;width:700px;"}
+
+The name of his thesis is "Algorithm for particle track reconstruction in SuperNEMO detector". This algoritm combines recursive clustering, Legendre transform techniques, and a maximum likelihood procedure to achieve precise and robust trajectory reconstruction, even in complex event topologies. Dedicated methods resolve ambiguities and account for scattering, and the algorithm is implemented as a full data processing module.
+
+![Tomáš Křižák, A new Master in SuperNEMO']({{"assets/post_images/Tomas_Masters2.jpg"| relative_url }}){:style="margin-bottom:20px;margin-top:20px;width:700px;"}
