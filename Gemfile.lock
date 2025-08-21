@@ -309,6 +309,7 @@ GEM
       bigdecimal (~> 3.1)
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
+<<<<<<< Updated upstream
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
@@ -316,6 +317,18 @@ GEM
     webrick (1.9.1)
     yell (2.2.2)
     zeitwerk (2.7.3)
+=======
+    tzinfo (1.2.5)
+      thread_safe (~> 0.1)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.8)
+    unf_ext (0.0.8-x64-mingw32)
+    unicode-display_width (1.4.0)
+    wdm (0.2.0)
+    yell (2.0.7)
+    zeitwerk (2.6.8)
+>>>>>>> Stashed changes
 
 PLATFORMS
   ruby
@@ -324,6 +337,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.7.1
