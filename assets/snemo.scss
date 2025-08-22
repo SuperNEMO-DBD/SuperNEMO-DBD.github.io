@@ -58,14 +58,14 @@ font-size:1.8vmin;
 .maphover{
   position: absolute;
   z-index: 2;
-  background-color: yellow;
+  background-color: var(--sixth-color);
   opacity:0;
 }
 
 .square {
 float:left;
 position: relative;
-font-size:2.2vmin;
+font-size:vmin;
 width: 100%;
 border-radius: 7px;
 padding-bottom : 40%;
@@ -155,21 +155,21 @@ font-size:26x;
 font-size:26px;
 }
 a:link{
-color: var(--fifth-color);
+color: var(--second-color);
 }
 a:visited{
-color: var(--fifth-color);
+color: var(--second-color);
 }
 a:hover{
-color: var(--first-color);
+color: var(--third-color);
 }
 a:active{
 color: var(--first-color);
 }
 
 .site-header {
-border-top: 10px solid var(--first-color);
-border-bottom: 2px solid var(--sixth-color);
+border-top: 10px solid var(--second-color);
+border-bottom: 10px solid var(--second-color);
 }
 .site-header:before {
     content:"";
@@ -180,25 +180,26 @@ border-bottom: 2px solid var(--sixth-color);
     left:0px;
     right:0px;
     bottom:1px;
-    border-top: 2px solid var(--third-color);
-    border-bottom:2px solid var(--fifth-color);
+    background-color: var(--first-color);
+    border-top: 3px solid var(--seventh-color);
+    border-bottom:3px solid var(--seventh-color);
 }
 
 .site-nav a:link{
-color: var(--second-color);
+color: var(--sixth-color)
 }
 .site-nav a:visited{
-color: var(--second-color);
+color:  var(--sixth-color)
 }
 .site-nav a:hover{
-color: var(--first-color);
+color: var(--second-color);
 }
 
 .site-title, .site-title:visited{
-letter-spacing: -0.7px;
-color:var(--first-color);
-font-size: 40px;
-font-weight: 400;
+letter-spacing: -0.8px;
+color:#FFFFFF;
+font-size: 60px;
+font-weight: 500;
 }
 
 h1.post-title {

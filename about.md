@@ -1,6 +1,6 @@
 ---
 layout: experiment
-title: The Experiment
+title: Experiment
 ---
 
 <div class="container-fluid">
