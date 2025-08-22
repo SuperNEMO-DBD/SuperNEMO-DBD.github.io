@@ -58,7 +58,7 @@ layout: home
       <hr/>
       <p>How about a SuperNEMO presentation or poster at your conference?</p>
           <div class="square" style= "background-color:var(--fourth-color)">
-            <a href="mailto:lang@PHYSICS.UTEXAS.EDU?Subject=Request%20for%20SuperNEMO%20speaker" target="_top">
+            <a href="mailto:anastasia.freshville@ucl.ac.uk?Subject=Request%20for%20SuperNEMO%20speaker" target="_top">
             <div class="content">
               <div class="table">
                 <div class="table-cell">
