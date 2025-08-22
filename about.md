@@ -16,7 +16,7 @@ title: Experiment
               
               You can also check out our  <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel for some videos about what we do. 
             <br>
-            Don't forget to like and <span style="color: red;">subscribe</span>!
+            Don't forget to <a class="itemtitle" href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">like and subscribe</a>!
              
              </p>
               
