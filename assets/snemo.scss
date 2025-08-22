@@ -91,6 +91,7 @@ color: #FFFFFF;
 opacity: 0.75;
 }
 
+
 .boxbutton{
 float:left;
 position: relative;
@@ -145,26 +146,33 @@ background-size:cover; /* you change this to "contain" if you don't want the ima
 color:#fff;
 }
 h1{
-color:var(--first-color);
+color:var(--second-color);
 }
 h2{
-color:var(--second-color);
+color:var(--first-color);
 font-size:26x;
 }
 .post-content h2{
 font-size:26px;
 }
 a:link{
-color: var(--second-color);
+color: var(--fifth-color);
 }
 a:visited{
-color: var(--second-color);
+color: var(--fifth-color);
 }
 a:hover{
 color: var(--third-color);
 }
 a:active{
 color: var(--first-color);
+}
+
+a.itemtitle {
+color: var(--second-color);
+}
+a.itemtitle:hover {
+color: var(--third-color);
 }
 
 .site-header {
@@ -196,10 +204,10 @@ color: var(--second-color);
 }
 
 .site-title, .site-title:visited{
-letter-spacing: -0.8px;
+letter-spacing: -0.7px;
 color:#FFFFFF;
-font-size: 60px;
-font-weight: 500;
+font-size: 50px;
+font-weight: 400;
 }
 
 h1.post-title {
