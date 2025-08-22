@@ -19,6 +19,26 @@ title: Experiment
             Don't forget to <a class="itemtitle" href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">like and subscribe</a>!
              
              </p>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/tqgiYncqB4w"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/n1_cp28B8IY"
+  title="SuperNEMO Source Foils"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
               
           </div>
 
