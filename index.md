@@ -44,7 +44,7 @@ layout: home
     </div>
     
     <div class="col-xs-3">
-    <div class="square" style= "background-color:var(--first-color)">
+    <div class="square" style= "background-color:var(--second-color)">
       <a href="https://msprvkff.smugmug.com/SuperNEMO/Media/n-HhKCsL" target="_top">
       <div class="content">
         <div class="table">
@@ -57,8 +57,8 @@ layout: home
       <img src="assets/supernemo_logo_v1.0.png" style=" width:100%;" alt="SuperNEMO"/>
       <hr/>
       <p>How about a SuperNEMO presentation or poster at your conference?</p>
-          <div class="square" style= "background-color:var(--fourth-color)">
-            <a href="mailto:lang@PHYSICS.UTEXAS.EDU?Subject=Request%20for%20SuperNEMO%20speaker" target="_top">
+          <div class="square" style= "background-color:var(--sixth-color)">
+            <a href="mailto:anastasia.freshville@ucl.ac.uk?Subject=Request%20for%20SuperNEMO%20speaker" target="_top">
             <div class="content">
               <div class="table">
                 <div class="table-cell">

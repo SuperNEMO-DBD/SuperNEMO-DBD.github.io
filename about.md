@@ -1,6 +1,6 @@
 ---
 layout: experiment
-title: The Experiment
+title: Experiment
 ---
 
 <div class="container-fluid">
@@ -16,9 +16,29 @@ title: The Experiment
               
               You can also check out our  <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel for some videos about what we do. 
             <br>
-            Don't forget to like and <span style="color: red;">subscribe</span>!
+            Don't forget to <a class="itemtitle" href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">like and subscribe</a>!
              
              </p>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/tqgiYncqB4w"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/n1_cp28B8IY"
+  title="SuperNEMO Source Foils"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
               
           </div>
 

@@ -66,7 +66,7 @@ We are proud of SuperNEMO! If you would like to spread the word at a conference,
 {% assign sorted_confs = site.data.conferences | sort:"StartDate"  %}
 {% for conf in sorted_confs %}
 <p>
-<a href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }} 
+<a class="itemtitle" href="{{ conf.Url }}" target="_blank"> <strong>{{ conf.Conference }}</strong></a>  {% if conf.LongName %}({{conf.LongName}}){% endif %}<br/> {% if conf.City %} {{conf.City}}, {% endif %}{{ conf.StartDate | date: '%e' }} 
 {% assign startmth =conf.StartDate | date:'%m' | integer %}
 {% assign endmth = conf.EndDate  | date:'%m' | integer %} 
 {% if startmth != endmth %} {{conf.StartDate | date:'%B'}}{% endif %}

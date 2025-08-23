@@ -23,7 +23,7 @@ title: Publications and Media
 {% assign sorted_talks = site.data.talks | sort:"Date" | reverse %}
 
 {% for talk in sorted_talks %}
-<p><a href="{{ talk.Pdf }}" target="_blank"> <strong>{{ talk.Title }}</strong></a><br/> presented by {% if talk.Email %}<a href="mailto:{{talk.Email}}?Subject=SuperNEMO%20presentation%20enquiry" target="_top">{% endif %} {{ talk.Author | replace: "'e", "é" }}{% if talk.Email %}</a>{% endif %} {% if talk.Conference %} at <a href="{{talk.ConferenceUrl}}" target="_blank">{{talk.Conference}}</a>{% if talk.City %}, {{talk.City}}{% endif %}{% endif %}, {{ talk.Date | date: "%-d %B %Y" }}
+<p><a href="{{ talk.Pdf }}" target="_blank" class="itemtitle" > <strong>{{ talk.Title }}</strong></a><br/> presented by {% if talk.Email %}<a href="mailto:{{talk.Email}}?Subject=SuperNEMO%20presentation%20enquiry" target="_top">{% endif %} {{ talk.Author | replace: "'e", "é" }}{% if talk.Email %}</a>{% endif %} {% if talk.Conference %} at <a href="{{talk.ConferenceUrl}}" target="_blank">{{talk.Conference}}</a>{% if talk.City %}, {{talk.City}}{% endif %}{% endif %}, {{ talk.Date | date: "%-d %B %Y" }}
 {% if talk.Proceedings %} <a href="{{talk.Proceedings}}" target="_blank">Proceedings</a> {% endif %}
 </p>
 {% endfor %}
@@ -38,7 +38,7 @@ title: Publications and Media
 {% assign sorted_posters = site.data.posters | sort:"Date" | reverse %}
 
 {% for poster in sorted_posters %}
-<p>{% if poster.Pdf %}<a href="{{ poster.Pdf }}" target="_blank">{% endif %}<strong>{{ poster.Title }}</strong>{% if poster.Pdf %}</a>{% endif %}<br/> presented by {% if poster.Email1 %}<a href="mailto:{{poster.Email1}}?Subject=SuperNEMO%20poster%20enquiry" target="_top">{% endif %} {{ poster.Author }}{% if poster.Email1 %}</a>{% endif %} {% if poster.Conference %} at <a href="{{poster.ConferenceUrl}}" target="_blank">{{poster.Conference}}</a>{% endif %}, {{ poster.Date | date: "%-d %B %Y" }}
+<p>{% if poster.Pdf %}<a  class="itemtitle" href="{{ poster.Pdf }}" target="_blank">{% endif %}<strong>{{ poster.Title }}</strong>{% if poster.Pdf %}</a>{% endif %}<br/> presented by {% if poster.Email1 %}<a href="mailto:{{poster.Email1}}?Subject=SuperNEMO%20poster%20enquiry" target="_top">{% endif %} {{ poster.Author }}{% if poster.Email1 %}</a>{% endif %} {% if poster.Conference %} at <a href="{{poster.ConferenceUrl}}" target="_blank">{{poster.Conference}}</a>{% endif %}, {{ poster.Date | date: "%-d %B %Y" }}
 {% if poster.Proceedings %}<br/> <a href="{{poster.Proceedings}}" target="_blank">Proceedings</a> {% endif %}
 </p>
 {% endfor %}
@@ -56,10 +56,10 @@ title: Publications and Media
     {% for article in articles_by_date %}
     <div class="row">
       <div class='col-xs-2'>
-        <a href="{{ article.remoteurl }}" target="_blank"> <img src="{{ article.thumbnail}}" class="img-thumbnail" alt="{{ article.media }} logo"></a>
+        <a  href="{{ article.remoteurl }}" target="_blank"> <img src="{{ article.thumbnail}}" class="img-thumbnail" alt="{{ article.media }} logo"></a>
           </div>
       <div class='col-xs-10'>
-        <p><a href="{{ article.remoteurl }}" target="_blank"> <strong>{{ article.title }}</strong></a>, from {{ article.media }}, {{ article.date | date_to_long_string }}<br/>
+        <p><a  class="itemtitle" href="{{ article.remoteurl }}" target="_blank"> <strong>{{ article.title }}</strong></a>, from {{ article.media }}, {{ article.date | date_to_long_string }}<br/>
         <i>{{article.abstract}}</i>
         </p>
       </div>
@@ -76,7 +76,7 @@ title: Publications and Media
 <p>Journal papers from the SuperNEMO experiment.</p>
 {% assign pubs_by_date = site.publications | sort:"date" | reverse %}
 {% for pub in pubs_by_date %}
-<p>{% if pub.doi %}<a href="http://dx.doi.org/{{ pub.doi }}" target="_blank">{% endif %} <strong>{{ pub.title }}</strong>{% if pub.doi %}</a>{% endif %}<br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
+<p>{% if pub.doi %}<a  class="itemtitle" href="http://dx.doi.org/{{ pub.doi }}" target="_blank">{% endif %} <strong>{{ pub.title }}</strong>{% if pub.doi %}</a>{% endif %}<br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
 <a role="button" data-toggle="collapse" {% if pub.doi %}href="#{{pub.doi| slugify}}"{% else %}href="#arxiv"{% endif %} aria-expanded="false" aria-controls="{{pub.doi| slugify}}">Abstract</a></p>
 <div  class="collapse" {% if pub.doi %}id="{{pub.doi| slugify}}"{% else %}id="arxiv"{% endif %}>
 <div class="well" style="overflow:auto">
@@ -99,7 +99,7 @@ title: Publications and Media
 
 {% assign n3pubs_by_date = site.nemothreepubs  | sort:"date" | reverse %}
 {% for pub in n3pubs_by_date %}
-<p>{% if pub.doi %}<a href="http://dx.doi.org/{{ pub.doi }}" target="_blank">{% endif %} <strong>{{ pub.title }}</strong>{% if pub.doi %}</a>{% endif %}<br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
+<p>{% if pub.doi %}<a  class="itemtitle" href="http://dx.doi.org/{{ pub.doi }}" target="_blank">{% endif %} <strong>{{ pub.title }}</strong>{% if pub.doi %}</a>{% endif %}<br/> <i>{{ pub.journal }}</i> {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{pub.arxiv}}" target="_blank">(arXiv {{pub.arxiv}})</a>{% endif %}, {{ pub.date | date_to_long_string }}
 <a role="button" data-toggle="collapse" {% if pub.doi %}href="#{{pub.doi| slugify}}"{% else %}href="#arxiv"{% endif %} aria-expanded="false" aria-controls="{{pub.doi| slugify}}">Abstract</a></p>
 <div  class="collapse" {% if pub.doi %}id="{{pub.doi| slugify}}"{% else %}id="arxiv"{% endif %}>
 <div class="well" style="overflow:auto">
@@ -121,7 +121,7 @@ title: Publications and Media
 {% assign sorted_theses = site.data.theses | sort:"Year" | reverse %}
 
 {% for thesis in sorted_theses %}
-<p>{% if thesis.Link %}<a href="{{ thesis.Link }}" target="_blank">{% endif %}<strong>{{ thesis.Title }}</strong>{% if thesis.Link %}</a>{% endif %}<br/>  Dr {{ thesis.Author }} <br/> 
+<p>{% if thesis.Link %}<a  class="itemtitle" href="{{ thesis.Link }}" target="_blank">{% endif %}<strong>{{ thesis.Title }}</strong>{% if thesis.Link %}</a>{% endif %}<br/>  Dr {{ thesis.Author }} <br/> 
     {{ thesis.Institution}}, {{ thesis.Year}}{% if thesis.Supervisor %}, supervised by {{ thesis.Supervisor }}{% endif %}
 </p>
 {% endfor %}
