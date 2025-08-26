@@ -232,3 +232,58 @@ padding:10%;
 .btn-youtube {
   display: inline-flex;
 }
+
+.video-demo {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.player {
+  background: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  aspect-ratio: 16 / 9;
+}
+
+.player iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.thumbs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+.thumb {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+}
+
+.thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.thumb:is(:hover, :focus-visible) {
+  outline: 3px solid #005eb8; /* Accessible focus color */
+  outline-offset: 2px;
+}
+
+.thumb.is-active {
+  box-shadow: 0 0 0 3px #005eb8 inset;
+}

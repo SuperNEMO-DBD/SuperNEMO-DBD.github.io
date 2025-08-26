@@ -216,3 +216,37 @@
                     });
                     
   </script>
+
+<script>
+  const player = document.getElementById('player');
+  const playerWrap = document.getElementById('playerWrap');
+
+  function buildEmbedSrc(id, autoplay = false) {
+    // Use the privacy-enhanced domain
+    const base = `https://www.youtube-nocookie.com/embed/${id}`;
+    const params = new URLSearchParams({
+      autoplay: autoplay ? '1' : '0',
+      rel: '0',
+      modestbranding: '1',
+      playsinline: '1'
+    });
+    return `${base}?${params.toString()}`;
+  }
+
+  function selectThumb(btn) {
+    document.querySelectorAll('.thumb.is-active').forEach(b => b.classList.remove('is-active'));
+    btn.classList.add('is-active');
+  }
+
+  document.querySelectorAll('.thumb[data-video-id]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.videoId;
+      // Set/replace the one iframe’s src and show it
+      player.src = buildEmbedSrc(id, true);
+      playerWrap.hidden = false;
+      selectThumb(btn);
+      // Optional: move focus to player for screen-reader users
+      player.focus?.();
+    });
+  });
+</script>

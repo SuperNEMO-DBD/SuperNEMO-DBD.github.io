@@ -19,26 +19,47 @@ title: Experiment
             Don't forget to <a class="itemtitle" href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">like and subscribe</a>!
              
              </p>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/tqgiYncqB4w"
-  title="YouTube video"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen
-  loading="lazy">
-</iframe>
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube-nocookie.com/embed/n1_cp28B8IY"
-  title="SuperNEMO Source Foils"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen
-  loading="lazy">
-</iframe>
+              
+<div class="video-demo">
+  <!-- Big player -->
+  <div id="playerWrap" class="player" hidden>
+    <iframe
+      id="player"
+      title="YouTube video player"
+      loading="lazy"
+      allow="autoplay; encrypted-media; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </div>
+
+  <!-- Thumbnails -->
+  <ul class="thumbs" aria-label="Video list">
+    <li>
+      <button class="thumb" data-video-id="n1_cp28B8IY" aria-label="Play: Source Foils">
+        <img
+          src="https://i.ytimg.com/vi/n1_cp28B8IY/hqdefault.jpg"
+          alt="Source foils thumbnail"
+          loading="lazy"
+          width="320" height="180"
+        />
+      </button>
+    </li>
+    <li>
+      <button class="thumb" data-video-id="tqgiYncqB4w" aria-label="Play: Tracker">
+        <img
+          src="https://i.ytimg.com/vi/tqgiYncqB4w/hqdefault.jpg"
+          alt="Tracker thumbnail"
+          loading="lazy"
+          width="320" height="180"
+        />
+      </button>
+    </li>
+    <!-- Add more thumbnails as needed -->
+  </ul>
+</div>
+
+              
+              
               
           </div>
 
