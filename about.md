@@ -54,11 +54,8 @@ title: Experiment
     <!-- Add more thumbnails as needed -->
   </ul>
 </div>
-
-              
-              
-              
-          </div>
+       
+</div>
 
       <div id="thephysics" style="display:none">
       <header class="post-header">
@@ -108,6 +105,27 @@ title: Experiment
     <header class="post-header">
       <h1 class="post-title text-center"> The NEMO technique</h1>
     </header>
+    <div class="row">
+      
+      <div class="col-xs-12 ">
+      <p>Click on the diagram below to see the three elements that the NEMO tracker-calorimeter technique its unique ability to study $\beta\beta$ decays in more detail than other detector designs!</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 ">
+            <img src='assets/NEMOTechnique.png' class="center-block" style="width:90%" alt="NEMO technique" usemap="#techniquemap">
+        <map name="techniquemap">
+          <a data-toggle="modal" data-target="#srcModal" href="#srcModal" title="Source foil" class="maphover srcmap" style="left: 13%; top: 8%; width: 13%; height: 80%;"></a>
+                  
+          <a data-toggle="modal" data-target="#trackerModal" href="#trackerModal" title="Tracker" class="maphover trackmap" style="left: 27%; top: 8%; width: 29%; height: 80%;"></a>
+          
+          
+                  
+          <a data-toggle="modal" data-target="#caloModal" href="#caloModal" title="Calorimeter" class="maphover calomap" style="left: 57%; top: 8%; width: 27%; height: 80%;"></a>
+          
+          </map>
+      </div>      
+    </div>
 </div>
 
 <div id="detector"  style="display:none">
