@@ -86,6 +86,11 @@ title: Experiment
 </div>
 
 
+<div id="technique" style="display:none">
+    <header class="post-header">
+      <h1 class="post-title text-center"> The NEMO technique</h1>
+    </header>
+</div>
 
 <div id="detector"  style="display:none">
     <header class="post-header">
@@ -243,7 +248,16 @@ title: Experiment
         <div class="content">
           <div class="table">
             <div class="table-cell" >
-              The physics
+              $\beta\beta$ decay
+            </div>
+          </div>
+        </div>
+      </div>
+     <div class="square" style="background-color:var(--second-color);" id="btn_tech">
+        <div class="content">
+          <div class="table">
+            <div class="table-cell" >
+              The NEMO technique
             </div>
           </div>
         </div>
@@ -252,7 +266,17 @@ title: Experiment
         <div class="content">
           <div class="table">
             <div class="table-cell" >
-              SuperNEMO detector
+              SuperNEMO - technology demonstrator
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="square" style="background-color:var(--fifth-color);" id="btn_goals">
+        <div class="content">
+          <div class="table">
+            <div class="table-cell" >
+              SuperNEMO physics capabilities
             </div>
           </div>
         </div>
@@ -262,15 +286,6 @@ title: Experiment
           <div class="table">
             <div class="table-cell" >
               NEMO-3 detector
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="square" style="background-color:var(--fifth-color);" id="btn_goals">
-        <div class="content">
-          <div class="table">
-            <div class="table-cell" >
-              Physics goals
             </div>
           </div>
         </div>
