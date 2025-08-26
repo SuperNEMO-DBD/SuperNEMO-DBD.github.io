@@ -73,7 +73,19 @@ title: Experiment
     <img src='assets/Ettore_Majorana.jpeg' class="img-circle  center-block" style="width:17em" alt="Portrait of Ettore Majorana">
   </div>
 </div>
+
+<div class="row">
+  <div class="col-xs-12 ">
+    <h4> How does $0\nu\beta\beta$ work?</h4>
+    <p>The answer - we don't know! The classic way to tell whether a double-beta decay process was neutrinoless is to measure the total energy of the two electrons produced; if it's equal to $Q_{\beta\beta}$, that tells us that nothing but the electrons were created. In fact, that's how most $0\nu\beta\beta$ search experiments work - they are able to measure total energy with a very high precision, giving them a great sensitivity to separate the $0\nu\beta\beta$ and $2\nu\beta\beta$ processes.</p>
+    <p>While this technique is a great way to search for $0\nu\beta\beta$, the problem is that it doesn't tell us any extra information - it's perfect for finding out <i>that</i>  $0\nu\beta\beta$  has happened, but not <i>how</i> it happened. In fact, there are several different theories that predict $0\nu\beta\beta$  decay, and a measurement of total energy isn't enough to tell them apart. Instead, you need to look in more detail at the two individual electrons - how the decay energy is distributed between them, and at their relative angle of emission. That's where SuperNEMO comes in! With its full topological reconstruction, SuperNEMO has access to this information. In fact, the <a href="https://arxiv.org/pdf/1910.04688">2019 APPEC report</a> said that:</p>
+    <blockquote>The SuperNEMO tracker-calorimeter approach remains the best way to explore a signal above 50 meV with multiple isotopes combined with a full topological reconstruction of the final state events, and further R&D may be able to push this further into the inverted ordering region.</blockquote>
+  </div>
 </div>
+
+</div>
+
+
 
 <div id="detector"  style="display:none">
     <header class="post-header">
