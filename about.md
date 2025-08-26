@@ -108,20 +108,18 @@ title: Experiment
     <div class="row">
       
       <div class="col-xs-12 ">
-      <p>Click on the diagram below to see the three elements that the NEMO tracker-calorimeter technique its unique ability to study $\beta\beta$ decays in more detail than other detector designs!</p>
+      <p>Click on the diagram below to learn about the three elements that give the NEMO tracker-calorimeter technique its unique ability to study $\beta\beta$ decays in more detail than other detector designs!</p>
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12 ">
             <img src='assets/NEMOTechnique.png' class="center-block" style="width:90%" alt="NEMO technique" usemap="#techniquemap">
         <map name="techniquemap">
-          <a data-toggle="modal" data-target="#srcModal" href="#srcModal" title="Source foil" class="maphover srcmap" style="left: 13%; top: 8%; width: 13%; height: 80%;"></a>
+          <a data-toggle="modal" data-target="#srcTech" href="#srcTech" title="Source foil" class="maphover srcmap" style="left: 13%; top: 8%; width: 13%; height: 80%;"></a>
                   
-          <a data-toggle="modal" data-target="#trackerModal" href="#trackerModal" title="Tracker" class="maphover trackmap" style="left: 27%; top: 8%; width: 29%; height: 80%;"></a>
-          
-          
-                  
-          <a data-toggle="modal" data-target="#caloModal" href="#caloModal" title="Calorimeter" class="maphover calomap" style="left: 57%; top: 8%; width: 27%; height: 80%;"></a>
+          <a data-toggle="modal" data-target="#trackTech" href="#trackTech" title="Tracker" class="maphover trackmap" style="left: 27%; top: 8%; width: 29%; height: 80%;"></a>
+                
+          <a data-toggle="modal" data-target="#caloTech" href="#caloTech" title="Calorimeter" class="maphover calomap" style="left: 57%; top: 8%; width: 27%; height: 80%;"></a>
           
           </map>
       </div>      
@@ -416,3 +414,64 @@ title: Experiment
   </div>
 </div>
 
+
+<!-- Source foil Modal for technique box -->
+<div id="srcTech" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">$\beta\beta$ source foil</h4>
+      </div>
+      <div class="modal-body" style="overflow:auto">
+          <p>The $\beta\beta$ source consists of thin foils of a $\beta\beta$ candidate isotope. The decay source is completely decoupled from the tracker and calorimeter, meaning it can be made from any solid isotope. This could be invaluable in the case of a $0\nu\beta\beta$ discovery; if the decay is seen in one isotope, we will need to search for it in others, to test whether they follow theorists' predictions.
+          </p>
+          </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Tracker Modal for technique box -->
+<div id="trackTech" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Tracking chamber</h4>
+      </div>
+      <div class="modal-body" style="overflow:auto">
+          <p>The tracker is SuperNEMO's most powerful tool for identifying individual particles. An array of Geiger cells, combined with sophisticate reconstruction software, allow us to build a 3-dimensional picture of the paths of charged particles through the detector. By applying a magnetic field, we will also be able to determine whether they are positively or negatively charged. This enables powerful background rejection, by allowing us to select only decays with the 'golden' $\beta\beta$ signature of two electron-like tracks originating from a common point on the source foils. It also enables us to determine the angle between the electrons' trajectories, which can help us understand $\beta\beta$ decay mechanisms - for example whether they occurred via left- or right-handed weak currents.
+          </p>
+          </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Calo Modal for technique box -->
+<div id="caloTech" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Segmented calorimeter</h4>
+      </div>
+      <div class="modal-body" style="overflow:auto">
+          <p>The decay energy (typically in the few-MeV scale) is the characteristic signature that distinguishes the new physics of neutrinoless double-beta decay, $0\nu\beta\beta$ from the Standard-Model process  $2\nu\beta\beta$. With the NEMO technique, we can measure the individual energies of each electron. This can allow us to investigate nuclear effects on  $2\nu\beta\beta$ processes, such as the effect of $g_A$ quenching and, combined with topological information from the tracker, can help us search for exotic $\beta\beta$ decay modes. The calorimeter also lets us detect and measure the energy of gamma rays, which are not seen by the tracker. This helps us reject backgrounds, and investigate phenomena like $\beta\beta$ decays to excited nuclear states. The calorimeter's excellent timing resolution also provides a powerful background rejection tool, helping us distinguish between particles crossing the detector, and pairs of particles emitted from the source foil.
+          </p>
+          </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
