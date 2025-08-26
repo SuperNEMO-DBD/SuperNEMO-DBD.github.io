@@ -115,15 +115,40 @@ title: Experiment
       <div class="col-xs-12 ">
             <img src='assets/NEMOTechnique.png' class="center-block" style="width:90%" alt="NEMO technique" usemap="#techniquemap">
         <map name="techniquemap">
-          <a data-toggle="modal" data-target="#srcTech" href="#srcTech" title="Source foil" class="maphover srcmap" style="left: 13%; top: 8%; width: 13%; height: 80%;"></a>
+          <a data-toggle="modal"  title="Source foil" class="maphover srcmap" style="left: 13%; top: 8%; width: 13%; height: 80%;"></a>
                   
-          <a data-toggle="modal" data-target="#trackTech" href="#trackTech" title="Tracker" class="maphover trackmap" style="left: 27%; top: 8%; width: 29%; height: 80%;"></a>
+          <a data-toggle="modal"  title="Tracker" class="maphover trackmap" style="left: 27%; top: 8%; width: 29%; height: 80%;"></a>
                 
-          <a data-toggle="modal" data-target="#caloTech" href="#caloTech" title="Calorimeter" class="maphover calomap" style="left: 57%; top: 8%; width: 27%; height: 80%;"></a>
+          <a data-toggle="modal"  title="Calorimeter" class="maphover calomap" style="left: 57%; top: 8%; width: 27%; height: 80%;"></a>
           
           </map>
+                </div>
+    </div>
+    
+    
+     <div class="row" id="srcwords" style="display:none">
+      <div class="col-xs-12 ">
+                <h2>Source foil</h2>
+          <p>
+                    The $\beta\beta$ source consists of thin foils of a $\beta\beta$ candidate isotope. The decay source is completely decoupled from the tracker and calorimeter, meaning it can be made from any solid isotope. This could be invaluable in the case of a $0\nu\beta\beta$ discovery; if the decay is seen in one isotope, we will need to search for it in others, to test whether they follow theorists' predictions.
+          </p>
+      </div>      
+    </div>   
+    <div class="row" id="trackerwords" style="display:none">
+      <div class="col-xs-12 ">
+                <h2>Tracking detector</h2>
+          <p>The tracker is SuperNEMO's most powerful tool for identifying individual particles. An array of Geiger cells, combined with sophisticate reconstruction software, allow us to build a 3-dimensional picture of the paths of charged particles through the detector. By applying a magnetic field, we will also be able to determine whether they are positively or negatively charged. This enables powerful background rejection, by allowing us to select only decays with the 'golden' $\beta\beta$ signature of two electron-like tracks originating from a common point on the source foils. It also enables us to determine the angle between the electrons' trajectories, which can help us understand $\beta\beta$ decay mechanisms - for example whether they occurred via left- or right-handed weak currents.
+          </p>
       </div>      
     </div>
+    <div class="row" id="calowords" style="display:none">
+      <div class="col-xs-12 ">
+                <h2>Segmented calorimeter</h2>
+                <p>The decay energy (typically in the few-MeV scale) is the characteristic signature that distinguishes the new physics of neutrinoless double-beta decay, $0\nu\beta\beta$ from the Standard-Model process  $2\nu\beta\beta$. With the NEMO technique, we can measure the individual energies of each electron. This can allow us to investigate nuclear effects on  $2\nu\beta\beta$ processes, such as the effect of $g_A$ quenching and, combined with topological information from the tracker, can help us search for exotic $\beta\beta$ decay modes. The calorimeter also lets us detect and measure the energy of gamma rays, which are not seen by the tracker. This helps us reject backgrounds, and investigate phenomena like $\beta\beta$ decays to excited nuclear states. The calorimeter's excellent timing resolution also provides a powerful background rejection tool, helping us distinguish between particles crossing the detector, and pairs of particles emitted from the source foil.
+          </p>
+      </div>      
+    </div>
+    
 </div>
 
 <div id="detector"  style="display:none">

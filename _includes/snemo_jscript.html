@@ -3,18 +3,24 @@
   $(document).ready(function(){
                     $("a.calomap").hover(function(){
                                  $("a.calomap").css("opacity", "0.3");
+                                 $("#calowords").show();
                                  }, function(){
                                          $("a.calomap").css("opacity", "0");
+                                         $("#calowords").hide();
                                  });
                     $("a.trackmap").hover(function(){
                                          $("a.trackmap").css("opacity", "0.3");
+                                         $("#trackerwords").show();
                                          }, function(){
                                          $("a.trackmap").css("opacity", "0");
+                                         $("#trackerwords").hide();
                                           });
                     $("a.srcmap").hover(function(){
                                           $("a.srcmap").css("opacity", "0.3");
+                                          $("#srcwords").show();
                                           }, function(){
                                           $("a.srcmap").css("opacity", "0");
+                                          $("#srcwords").hide);
                                           });
                     });
   </script>
