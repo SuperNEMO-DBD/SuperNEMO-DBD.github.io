@@ -11,13 +11,10 @@ title: Experiment
         <header class="post-header">
           <h1 class="post-title text-center">The SuperNEMO experiment</h1>
           </header>
-              <p>Use the buttons on the right to find out more about the SuperNEMO detector, its physics goals, and the theory behind double-beta decay, the rare process we are investigating, which could provide clues to why our universe is the way it is.<br>
-              <br>
+              <p>The SuperNEMO Demonstrator patricle detector is currently running at the LSM in France.</p>
               
-              You can also check out our  <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel for some videos about what we do. 
-            <br>
-            Don't forget to <a class="itemtitle" href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">like and subscribe</a>!
-             
+              <p>Use the buttons on the right to find out more about $\beta\beta$ decay, the rare process we are investigating; NEMO's unique tracker-calorimeter design; how SuperNEMO is demonstrating new technologies that could unlock the mystery of $\beta\beta$ decay mechanisms; and the Demonstrator's physics goals.</p>
+              <p>Alternatively, why not watch the videos below, made by our current and former students, to get an introduction to SuperNEMO? Don't forget to like and subscribe to our <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel!
              </p>
               
 <div class="video-demo">
@@ -265,6 +262,15 @@ title: Experiment
 
 
     <div class="col-xs-3">
+        <div class="square" style="background-color:var(--seventh-color);" id="btn_expinfo">
+        <div class="content">
+          <div class="table">
+            <div class="table-cell" >
+              Experiment intro
+            </div>
+          </div>
+        </div>
+      </div>
       <div class="square" style="background-color:var(--first-color);" id="btn_physics">
         <div class="content">
           <div class="table">
