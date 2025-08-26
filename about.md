@@ -125,8 +125,7 @@ title: Experiment
                 </div>
     </div>
     
-    
-     <div class="row" id="srcwords" style="display:none">
+         <div class="row" id="srcwords" style="display:none">
       <div class="col-xs-12 ">
                 <h2>Source foil</h2>
           <p>
@@ -134,6 +133,7 @@ title: Experiment
           </p>
       </div>      
     </div>   
+    
     <div class="row" id="trackerwords" style="display:none">
       <div class="col-xs-12 ">
                 <h2>Tracking detector</h2>
