@@ -205,7 +205,7 @@ title: Experiment
     <div class="row"> 
           <div class="col-xs-4 ">
                                    <a class="img-wrap" href="#">
-                                 <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);">
+                                 <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#heliumModal" href="#heliumModal">
                 <div class=legend>Helium recycling</div>
                    </a>
           </div> <div class="col-xs-4 ">
@@ -489,6 +489,9 @@ title: Experiment
   </div>
 </div>
 
+
+
+
 <!-- Tracker Modal -->
 <div id="trackerModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
@@ -515,3 +518,27 @@ title: Experiment
     </div>
   </div>
 </div>
+
+<!-- Helium Recycling Modal -->
+<div id="heliumModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Helium recycling</h4>
+      </div>
+      <div class="modal-body" style="overflow:auto">
+          <p>SuperNEMO's tracker is filled with an ultra-pure, bespoke gas mixture - 95% helium, 4% ethanol and 1% argon. To keep SuperNEMO's backgrounds at the low levels required to study $\beta\beta$ decay, the detector must be constantly flushed with clean gas. With limited global helium supplies and rising proces, a vital prerequisite for a future large SuperNEMO-style detector will be the ability to clean and recirculate helium from the tracker. 
+          </p>
+          <p>The main source of contamination of the SuperNEMO gas is radon - a naturally-occurring radioactive gas that occurs in small quantities in air, and is produced from the decay of long-lived isotopes in the rocks surrounding the lab. The collaboration has developed a cryogenic trapping system that effectively removes radon from the input gases before they enter the tracker. This system, however cannot tolerate traces of ethanol in the gas, meaning that to reuse the exhaust from SuperNEMO, all ethanol must be removed from the gas mixture. This is done via a two-stage process: condensing most of the ethanol with a freezer; and then removing the last traces using active charcoal adsorber. The resulting clean gas is monitored using a mass spectrometer, ensuring that no ethanol can be allowed to re-enter the detector, before being stored for radon-removal, remixing with clean gas, and re-use in the detector. This bespoke technology allows for a significant reduction in running costs that will become especially critical when building large detectors. 
+          </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+
+
+
+
