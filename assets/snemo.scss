@@ -307,3 +307,22 @@ padding:10%;
   width: 100%;
   padding: 20px; /* Some padding */
 }
+
+.to-grey {
+  display: block;                   /* avoids inline-gap artifacts */
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);  /* Safari */
+  transition: filter 250ms ease, -webkit-filter 250ms ease;
+}
+
+/* Hover the parent so the effect triggers even if you hover padding/border */
+.img-wrap:hover .to-grey,
+.img-wrap:focus-within .to-grey {   /* keyboard accessibility */
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+}
+
+/* Optional: respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .to-grey { transition: none; }
+}

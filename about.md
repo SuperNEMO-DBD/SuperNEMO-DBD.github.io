@@ -177,37 +177,41 @@ title: Experiment
     <div class="col-xs-12 ">
       <p>The SuperNEMO Demonstrator Module is now taking physics data at the <a href="https://lpsc.in2p3.fr/?page_id=547">Laboratoire Souterrain de Modane</a>, in the Fréjus tunnel in the French Alps. It acts as a proof of concept of our detector design, which can be expanded in future to a larger, modular detector. In the event of $0\nu\beta\beta$ discovery, a large SuperNEMO-style detector will be key to understanding the $0\nu\beta\beta$ decay mechanism.
       </p>
-      <p> Click the buttons below to learn more about the different technologies being validated with the SuperNEMO Demonstrator.</p>
+      <p> Hover over the images below to learn more about the different technologies being validated with the SuperNEMO Demonstrator.</p>
       </div>  
       
     </div>
     <div class="row">
           <div class="col-xs-4 ">
-
-                <img id="img_src" src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--seventh-color);   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-                    filter: grayscale(100%);">
-
+               <a class="img-wrap" href="#">
+                <img class="to-grey"  src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" > 
+                </a>
       
           </div> <div class="col-xs-4">
-                          <img src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--fourth-color); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-                    filter: grayscale(100%);">
-
+                         <a class="img-wrap" href="#">
+                          <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" >
+                </a>
           </div> <div class="col-xs-4 ">
-                       <img src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);">
+             <a class="img-wrap" href="#">
+                       <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);">
+              </a>
           </div>
               </div>
     <div class="row"> <br/>
               </div>
     <div class="row"> 
           <div class="col-xs-4 ">
-                                 <img src="assets/experiment/demo/sourcefoils.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--third-color);">
-   
+                                   <a class="img-wrap" href="#">
+                                 <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);">
+                   </a>
           </div> <div class="col-xs-4 ">
-                                           <img src="assets/experiment/demo/sourcefoils.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--fifth-color);">
-
+                                             <a class="img-wrap" href="#">
+                                           <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--second-color);">
+                   </a>
           </div> <div class="col-xs-4 ">
-                                           <img src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--sixth-color);">
-      
+               <a class="img-wrap" href="#">
+                                           <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--second-color);">
+                         </a>
       </div>
   </div>
 </div>
