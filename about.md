@@ -473,11 +473,13 @@ title: Experiment
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Source foil</h4>
+        <h4 class="modal-title">Source foil production</h4>
       </div>
       <div class="modal-body" style="overflow:auto">
-        <img src="assets/sourcefoil.jpg" alt="Source foil" style=" float:left; width:15em; padding: 5px;">
-          <p>Our source frame sits in the middle of the detector, sandwiched between the two tracker sections. From the frame, we hang thin foils enriched in a $\beta\beta$ decaying isotope. By keeping these thin - just 0.3mm - we maximise the chance that decay electrons will escape the foil into our tracker. For our initial run, we are using selenium-82 as our source, ground to a powder, mixed with PVA, and formed into thin pads. However the design is such that it allows us to switch to other materials in future.
+        <img src="assets/experiment/sourcefoils.jpg" alt="Source foil" style=" float:left; width:15em; padding: 5px;">
+          <p>SuperNEMO's $\beta\beta$-decay <a href ="https://www.degruyterbrill.com/document/doi/10.1515/ract-2019-3129/html"  target="_blank">source</a> consists 34 0.3mm-thick foils enriched to 96-99% in $^{82}$Se, for a total of 6.11kg of isotope. $^{82}$Se was chosen for its high decay energy ($Q_{\beta\beta}$ = 3MeV), which is above the energy of the most common background processes. $^{82}$Se also has a long $2\nu\beta\beta$ halflife ($8.7\times10^{19}$ years), which helps minimise background in the $0\nu\beta\beta$ region of interest.
+          </p>
+          <p>The SuperNEMO Demonstrator is a proof of concept for novel foil geometries and powder production techniques, as well as new purification processes, which aim to produce ultra-radiopure foils with activities below 2 $\mu$Bq/kg for $^{208}$Tl and 10 $\mu$Bq/kg for $^{214}$Bi.
           </p>
           </div>
       <div class="modal-footer">
