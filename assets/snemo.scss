@@ -313,9 +313,12 @@ padding:10%;
 }
 
 .legend{
-  background: rgb(0, 0, 0);
+  background: var(--first-color);
   color: #f1f1f1; /* Grey text */
   width: 100%;
   height:60px;
   padding: 15px; /* Some padding */}
 
+h4.modal-title {
+color:var(--second-color);
+}

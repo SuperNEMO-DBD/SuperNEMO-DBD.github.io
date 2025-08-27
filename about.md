@@ -496,14 +496,17 @@ title: Experiment
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Wire tracker</h4>
+        <h4 class="modal-title">Tracker operation</h4>
       </div>
       <div class="modal-body" style="overflow:auto">
-        <img src="assets/tracker_insert.png" alt="Optical module" style=" float:left; width:15em; padding: 5px;">
-          <p>To track charged particles' progress across the detector, we use a wire-chamber tracker. On each side of the detector, we have 113 columns of nine drift cells, each consisting of a central anode wire at high voltage, surrounded by grounded field shaping wires, with a ring-shaped cathode at either end. The tracker is filled with helium, with a small amount of ethanol and argon. When a charged particle passes through the cell, the time for the resulting electron shower to drift to the anode tells us the particle's distance from the centre of the cell. Pulses on the two cathode end caps tell us how far along the wire the particle was. In this way, we can reconstruct particles' tracks through the tracker in three dimensions.</p>
-          
-          <img src="assets/eventdisplay.png" alt="Two electron tracks in our event display" style=" float:right; width:15em; padding: 5px;">
-            <p>The image shows two reconstructed electron tracks from a simulated $0\nu\beta\beta$ decay, taken from the SuperNEMO event display software. Each circle corresponds to one tracker cell. The blue blocks at the end of the tracks are calorimeter blocks, which we use to measure the particles' energy. The tracks are curved because we also simulate a 25G magnetic field. By applying a magnetic field, we are able to tell the charge of a particle from the way its track curves.</p>
+        <img src="assets/experiment/tracker.jpg" alt="The tracker" style=" float:left; width:15em; padding: 5px;">
+          <p>SuperNEMO's wire-chamber tracker enables our unique particle identification and full topological event reconstruction. SuperNEMO Demonstrator's two tracker chambers comprise almost 15,000 individual wires, each around 3 metres long, and used to form over 2,000 Geiger cells, each with its own indivudally-controllable high voltage system. The Demonstrator's tracker geometry is designed to be scalable, allowing the possibility of efficient scaling to larger future detectors. More than 98% of the tracker is fully operational.
+          </p><p>
+            The tracker is filled with a carefully-controlled mixture of around 95% helium (low density), 4% ethanol (to quench the electron avalanche in the drift cells) and argon (for its low ionisation potential). When a charged particle passes through a drift cell, the time for the resulting electron shower to drift to the anode tells us the particle's distance from the centre of the cell. Pulses on the two cathode end caps enable us to calculate the particles height. In this way, we can reconstruct particles' tracks through the tracker in three dimensions. 
+          </p>
+          <img src="assets/experiment/event3d.png" alt="Two electron tracks in a real data event" style=" float:right; width:30em; padding: 5px;">
+                    <p>
+            This is done through novel reconstruction algorithms which, when combined with timing information from the calorimeter, enable us to identify the "golden" signture of a $\beta\beta$ event, the distinctive signatures of background processes, and the characterstic topologies of beyond-the-Standard-Model decay mechanisms.</p>
             
             </div>
       <div class="modal-footer">
