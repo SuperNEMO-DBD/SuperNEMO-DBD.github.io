@@ -177,25 +177,25 @@ title: Experiment
     <div class="col-xs-12 ">
       <p>The SuperNEMO Demonstrator Module is now taking physics data at the <a href="https://lpsc.in2p3.fr/?page_id=547">Laboratoire Souterrain de Modane</a>, in the Fréjus tunnel in the French Alps. It acts as a proof of concept of our detector design, which can be expanded in future to a larger, modular detector. In the event of $0\nu\beta\beta$ discovery, a large SuperNEMO-style detector will be key to understanding the $0\nu\beta\beta$ decay mechanism.
       </p>
-      <p> Hover over the images below to learn more about the different technologies being validated with the SuperNEMO Demonstrator.</p>
+      <p> Click on the images below to learn more about the different technologies being validated with the SuperNEMO Demonstrator.</p>
       </div>  
       
     </div>
     <div class="row">
           <div class="col-xs-4 ">
-               <a class="img-wrap" href="#">
-                <img class="to-grey"  src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" > 
-                <div class=legend>$\beta\beta$ source production</div>
+               <a id="img-source" class="img-wrap" href="#">
+                <img class="to-grey" src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#srcModal" href="#srcModal" > 
+                <div id="div-source" class=legend >$\beta\beta$ source production</div>
                 </a>
       
           </div> <div class="col-xs-4">
                          <a class="img-wrap" href="#">
-                          <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" >
+                          <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#caloModal" href="#caloModal">
                 <div class=legend>Calorimeter performance</div>
                 </a>
           </div> <div class="col-xs-4 ">
              <a class="img-wrap" href="#">
-                       <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);">
+                       <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#trackerModal" href="#trackerModal">
                 <div class=legend>Tracker operation</div>
               </a>
           </div>
