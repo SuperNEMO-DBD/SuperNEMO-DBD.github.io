@@ -61,7 +61,7 @@ title: Experiment
 <!-- BB DECAY -->
       <div id="thephysics" style="display:none">
       <header class="post-header">
-      <h1 class="post-title text-center"> The physics of SuperNEMO</h1>
+      <h1 class="post-title text-center"> $\beta\beta$ decay: the physics of SuperNEMO</h1>
     </header>
 <div class="row">
   <div class="col-xs-12 ">
@@ -579,15 +579,18 @@ title: Experiment
           <h4 class="modal-title">External background reduction</h4>
         </div>
         <div class="modal-body" style="overflow:auto">
-            <p>When studying ultra-rare processes like $\beta\beta$ decay, the greatest challenge is reducing backgrounds - independent processes like radioactive decays in the lab or in detector components that could mimic your signal. SuperNEMO avoids these as much as possible by constructing the detector from specially-selected radiopure materials; by flushing the tracker with ultra-clean gas (see the helium-recycling section); and by taking advantage of its tracker-calorimeter technology to distinguish between the signatures of signal and background processes. Finally, the detector is surrounded by several systems designed to protect against external contamination. 
+            <p>When studying ultra-rare processes like $\beta\beta$ decay, the greatest challenge is reducing backgrounds - independent processes like radioactive decays in the lab or in detector components that could mimic your signal. SuperNEMO avoids these as much as possible by constructing the detector from specially-selected radiopure materials; by flushing the tracker with ultra-clean gas (see the helium-recycling section); and by taking advantage of its tracker-calorimeter technology to distinguish between the signatures of signal and background processes. Finally, the detector is surrounded by several systems designed to protect against external contamination. With these measures in place, SuperNEMO aims to reduce its background level to less than 1 event in 3 years in the $0\nu\beta\beta$ region of interest.
             </p>
+            <div>
             <img src="assets/experiment/shield-layers.png" alt="Shielding layers" style=" float:left; width:20em; padding: 5px;">
-            <ul>
-                <li> A <span style="color:var(--third-color)">magnetic coil</span> enables electron-positron separation.</li>
-                <li> The <span style="color:var(--fourth-color)">anti-radon tent</span>, filled with deradonised air, prevents radioactive gas leaking into the detector.</li>
-                <li> 18cm of <span style="color:var(--second-color)">ultra-pure iron</span> shields against gamma rays from the lab.</li>
-                <li> 24cm of <span style="color:var(--fifth-color)">polyethylene</span> shields against neutrons.</li>
-            </ul>
+
+                <span style="color:var(--third-color)">A magnetic coil enables electron-positron separation.</span><br/> 
+                <span style="color:var(--fourth-color)">The  anti-radon tent, filled with deradonised air, prevents radioactive gas leaking into the detector.</span><br/>
+                <span style="color:var(--second-color)"> 18cm of ultra-pure iron shields against gamma rays from the lab.</span><br/>
+                <span style="color:var(--fifth-color)">24cm of polyethylene shields against neutrons.</span> 
+                </div>
+
+
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
