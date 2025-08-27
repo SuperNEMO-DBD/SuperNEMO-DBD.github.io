@@ -6,7 +6,8 @@ title: Experiment
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-9 ">
-      
+    
+ <!-- INTRO -->     
       <div id="expinfo" >
         <header class="post-header">
           <h1 class="post-title text-center">The SuperNEMO experiment</h1>
@@ -57,6 +58,7 @@ title: Experiment
        
 </div>
 
+<!-- BB DECAY -->
       <div id="thephysics" style="display:none">
       <header class="post-header">
       <h1 class="post-title text-center"> The physics of SuperNEMO</h1>
@@ -100,7 +102,7 @@ title: Experiment
 
 </div>
 
-
+<!-- NEMO TECHNIQUE -->
 <div id="technique" style="display:none">
     <header class="post-header">
       <h1 class="post-title text-center"> The NEMO technique</h1>
@@ -169,6 +171,7 @@ title: Experiment
     
 </div>
 
+<!-- TECH DEMONSTRATOR -->
 <div id="detector"  style="display:none">
     <header class="post-header">
       <h1 class="post-title text-center"> SuperNEMO: Technology Demonstrator</h1>
@@ -222,8 +225,8 @@ title: Experiment
   </div>
 </div>
 
-
-<div id="OBSOETE_detector"  style="display:none">
+<!-- NOT USED ANY MORE -->
+<div id="OBSOLETE_detector"  style="display:none">
     <header class="post-header">
       <h1 class="post-title text-center"> The SuperNEMO detector</h1>
     </header>
@@ -253,7 +256,7 @@ title: Experiment
   </div>
 </div>
 
-
+<!-- NEMO-3 -->
 <div id="nemo3" style="display:none">
 <header class="post-header">
 <h1 class="post-title text-center"> NEMO-3 detector</h1>
@@ -302,7 +305,7 @@ title: Experiment
   </div>
 </div>
 
-
+<!-- PHYSICS GOALS -->
 <div id="physicsgoals" style="display:none">
     <header class="post-header">
       <h1 class="post-title text-center"> Physics goals</h1>
@@ -339,6 +342,7 @@ title: Experiment
   </div>
     </div>
 
+<!-- FUNDING -->
 <div id="funding" style="display:none">
   <header class="post-header">
     <h1 class="post-title text-center"> Funding support</h1>
@@ -373,7 +377,7 @@ title: Experiment
     
     
 
-
+<!-- Buttons down right hand bar -->
     <div class="col-xs-3">
         <div class="square" style="background-color:var(--seventh-color);" id="btn_expinfo">
         <div class="content">
@@ -383,7 +387,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div><!-- End of intro button -->
       <div class="square" style="background-color:var(--first-color);" id="btn_physics">
         <div class="content">
           <div class="table">
@@ -392,7 +396,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div> <!-- End of bb button -->
      <div class="square" style="background-color:var(--second-color);" id="btn_tech">
         <div class="content">
           <div class="table">
@@ -401,7 +405,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div> <!-- End of technique button -->
       <div class="square" style="background-color:var(--third-color);" id="btn_snemo">
         <div class="content">
           <div class="table">
@@ -410,7 +414,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div> <!-- End of tech demo button -->
 
       <div class="square" style="background-color:var(--fifth-color);" id="btn_goals">
         <div class="content">
@@ -420,7 +424,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div> <!-- End of Physics button -->
       <div class="square" style="background-color:var(--fourth-color);" id="btn_nemo3">
         <div class="content">
           <div class="table">
@@ -429,7 +433,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div><!-- End of NEMO3 button -->
       <div class="square" style="background-color:var(--sixth-color);" id="btn_funding">
         <div class="content">
           <div class="table">
@@ -438,7 +442,7 @@ title: Experiment
             </div>
           </div>
         </div>
-      </div>
+      </div><!-- End of Funding button -->
      </div>
   </div>
 </div>
@@ -461,10 +465,10 @@ title: Experiment
             </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+      </div> <!-- modal-footer -->
+    </div><!-- modal-content -->
+  </div><!-- modal-dialog -->
+</div><!-- modal -->
 
 <!-- Source foil Modal -->
 <div id="srcModal" class="modal fade" role="dialog">
@@ -484,10 +488,10 @@ title: Experiment
           </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+      </div> <!-- modal-footer -->
+    </div><!-- modal-content -->
+  </div><!-- modal-dialog -->
+</div><!-- modal -->
 
 
 
@@ -514,10 +518,10 @@ title: Experiment
             </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+      </div> <!-- modal-footer -->
+    </div><!-- modal-content -->
+  </div><!-- modal-dialog -->
+</div><!-- modal -->
 
 <!-- Helium Recycling Modal -->
 <div id="heliumModal" class="modal fade" role="dialog">
@@ -531,14 +535,14 @@ title: Experiment
       <div class="modal-body" style="overflow:auto">
           <p>SuperNEMO's tracker is filled with an ultra-pure, bespoke gas mixture - 95% helium, 4% ethanol and 1% argon. To keep SuperNEMO's backgrounds at the low levels required to study $\beta\beta$ decay, the detector must be constantly flushed with clean gas. With limited global helium supplies and rising proces, a vital prerequisite for a future large SuperNEMO-style detector will be the ability to clean and recirculate helium from the tracker. 
           </p>
-          <p>The main source of contamination of the SuperNEMO gas is radon - a naturally-occurring radioactive gas that occurs in small quantities in air, and is produced from the decay of long-lived isotopes in the rocks surrounding the lab. The collaboration has developed a cryogenic trapping system that effectively removes radon from the input gases before they enter the tracker. This system, however cannot tolerate traces of ethanol in the gas, meaning that to reuse the exhaust from SuperNEMO, all ethanol must be removed from the gas mixture. This is done via a two-stage process: condensing most of the ethanol with a freezer; and then removing the last traces using active charcoal adsorber. The resulting clean gas is monitored using a mass spectrometer, ensuring that no ethanol can be allowed to re-enter the detector, before being stored for radon-removal, remixing with clean gas, and re-use in the detector. This bespoke technology allows for a significant reduction in running costs that will become especially critical when building large detectors. 
-          </div>
+          <p>The main source of contamination of the SuperNEMO gas is radon - a naturally-occurring radioactive gas that occurs in small quantities in air, and is produced from the decay of long-lived isotopes in the rocks surrounding the lab. The collaboration has developed a cryogenic trapping system that effectively removes radon from the input gases before they enter the tracker. This system, however cannot tolerate traces of ethanol in the gas, meaning that to reuse the exhaust from SuperNEMO, all ethanol must be removed from the gas mixture. This is done via a two-stage process: condensing most of the ethanol with a freezer; and then removing the last traces using active charcoal adsorber. The resulting clean gas is monitored using a mass spectrometer, ensuring that no ethanol can be allowed to re-enter the detector, before being stored for radon-removal, remixing with clean gas, and re-use in the detector. This bespoke technology allows for a significant reduction in running costs that will become especially critical when building large detectors. </p>
+          </div> <!-- modal-body -->
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-
+      </div> <!-- modal-footer -->
+    </div><!-- modal-content -->
+  </div><!-- modal-dialog -->
+</div><!-- modal -->
 
 
 
