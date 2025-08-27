@@ -185,15 +185,18 @@ title: Experiment
           <div class="col-xs-4 ">
                <a class="img-wrap" href="#">
                 <img class="to-grey"  src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" > 
+                <div class=legend>$\beta\beta$ source production</div>
                 </a>
       
           </div> <div class="col-xs-4">
                          <a class="img-wrap" href="#">
                           <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" >
+                <div class=legend>Calorimeter performance</div>
                 </a>
           </div> <div class="col-xs-4 ">
              <a class="img-wrap" href="#">
                        <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);">
+                <div class=legend>Tracker operation</div>
               </a>
           </div>
               </div>
@@ -203,14 +206,17 @@ title: Experiment
           <div class="col-xs-4 ">
                                    <a class="img-wrap" href="#">
                                  <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);">
+                <div class=legend>Helium recycling</div>
                    </a>
           </div> <div class="col-xs-4 ">
                                              <a class="img-wrap" href="#">
                                            <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--second-color);">
+                <div class=legend>Automated calibration</div>
                    </a>
           </div> <div class="col-xs-4 ">
                <a class="img-wrap" href="#">
                                            <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--second-color);">
+                <div class=legend>Background reduction</div>
                          </a>
       </div>
   </div>

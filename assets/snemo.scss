@@ -326,3 +326,11 @@ padding:10%;
 @media (prefers-reduced-motion: reduce) {
   .to-grey { transition: none; }
 }
+
+.legend{
+  background: rgb(0, 0, 0);
+  color: #f1f1f1; /* Grey text */
+  width: 100%;
+  height:60px;
+  padding: 15px; /* Some padding */}
+
