@@ -190,15 +190,15 @@ title: Experiment
                 <img class="to-grey" src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#srcModal" href="#srcModal" > 
                 <div id="div-source" class=legend >$\beta\beta$ source production</div>
                 </a>
-      
-          </div> <div class="col-xs-4">
-                         <a class="img-wrap" href="#">
-                          <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#caloModal" href="#caloModal">
+          </div> 
+          <div class="col-xs-4">
+            <a class="img-wrap" href="#">
+                <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#caloModal" href="#caloModal">
                 <div class=legend>Calorimeter performance</div>
-                </a>
+            </a>
           </div> <div class="col-xs-4 ">
              <a class="img-wrap" href="#">
-                       <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#trackerModal" href="#trackerModal">
+                <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#trackerModal" href="#trackerModal">
                 <div class=legend>Tracker operation</div>
               </a>
           </div>
@@ -207,20 +207,22 @@ title: Experiment
               </div>
     <div class="row"> 
           <div class="col-xs-4 ">
-                                   <a class="img-wrap" href="#">
-                                 <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#heliumModal" href="#heliumModal">
+            <a class="img-wrap" href="#">
+                <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#heliumModal" href="#heliumModal">
                 <div class=legend>Helium recycling</div>
-                   </a>
-          </div> <div class="col-xs-4 ">
-                                             <a class="img-wrap" href="#">
-                                           <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--second-color);">
+            </a>
+          </div> 
+          <div class="col-xs-4 ">
+             <a class="img-wrap" href="#">
+                <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#calibModal" href="#calibModal">
                 <div class=legend>Automated calibration</div>
-                   </a>
-          </div> <div class="col-xs-4 ">
-               <a class="img-wrap" href="#">
-                                           <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--second-color);">
+            </a>
+          </div> 
+          <div class="col-xs-4 ">
+            <a class="img-wrap" href="#">
+                <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--second-color);"  data-toggle="modal" data-target="#bkgdModal" href="#bkgdModal">
                 <div class=legend>Background reduction</div>
-                         </a>
+            </a>
       </div>
   </div>
 </div>
@@ -251,7 +253,8 @@ title: Experiment
     <div class="col-xs-12">
       <p>The SuperNEMO Demonstrator Module is located at the Laboratoire Souterrain de Modane, in the Fréjus tunnel in the French Alps. It acts as a proof of concept of our detector design, which can be expanded in future to a larger, modular detector.
       </p>
-      <p> The Demonstrator Module has a tracker-calorimeter architecture, with a thin layer of $\beta\beta$-emitting isotope sandwiched between trackers and surrounded by calorimetry. This allows for a full three-dimensional reconstruction of charged particle tracks, as well as energy measurements. Click on the detector components in the diagram to learn more about each part of the detector.</p>
+      <p> The Demonstrator Module has a tracker-calorimeter architecture, with a thin layer of $\beta\beta$-emitting isotope sandwiched between trackers and surrounded by calorimetry. This allows for a full three-dimensional reconstruction of charged particle tracks, as well as energy measurements. Click on the detector components in the diagram to learn more about each part of the detector.
+      </p>
     </div>
   </div>
 </div>
@@ -544,5 +547,42 @@ title: Experiment
   </div><!-- modal-dialog -->
 </div><!-- modal -->
 
+<!-- Calibration -->
+<div id="calibModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Automated calibration</h4>
+      </div>
+      <div class="modal-body" style="overflow:auto">
+          <p>Calibration with Bi207 
+          </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div> <!-- modal-footer -->
+    </div><!-- modal-content -->
+  </div><!-- modal-dialog -->
+</div><!-- modal -->
 
-
+<!-- Background reduction -->
+<div id="bkgdModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Background reduction</h4>
+        </div>
+        <div class="modal-body" style="overflow:auto">
+            <p>Shielding 
+            </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div> <!-- modal-footer -->
+      </div><!-- modal-content -->
+    </div><!-- modal-dialog -->
+</div><!-- modal -->
