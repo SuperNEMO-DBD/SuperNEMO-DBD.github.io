@@ -298,6 +298,8 @@ padding:10%;
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);  /* Safari */
   transition: filter 250ms ease, -webkit-filter 250ms ease;
+  width: 100%;
+  border: 5px solid var(--second-color);
 }
 
 /* Hover the parent so the effect triggers even if you hover padding/border */

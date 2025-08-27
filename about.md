@@ -187,18 +187,18 @@ title: Experiment
     <div class="row">
           <div class="col-xs-4 ">
                <a id="img-source" class="img-wrap" href="#">
-                <img class="to-grey" src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production" style="width:100%; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#srcModal" href="#srcModal" > 
+                <img class="to-grey" src="assets/experiment/demo/sourcefoils.jpg" alt=" $\beta\beta$ Source foil production"  data-toggle="modal" data-target="#srcModal" href="#srcModal" > 
                 <div id="div-source" class=legend >$\beta\beta$ source production</div>
                 </a>
           </div> 
           <div class="col-xs-4">
             <a class="img-wrap" href="#">
-                <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#caloModal" href="#caloModal">
+                <img class="to-grey"  src="assets/experiment/demo/calo.jpg" alt="Calorimeter performance" data-toggle="modal" data-target="#caloModal" href="#caloModal">
                 <div class=legend>Calorimeter performance</div>
             </a>
           </div> <div class="col-xs-4 ">
              <a class="img-wrap" href="#">
-                <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#trackerModal" href="#trackerModal">
+                <img class="to-grey" src="assets/experiment/demo/tracker.jpg" alt="Tracker operation"  data-toggle="modal" data-target="#trackerModal" href="#trackerModal">
                 <div class=legend>Tracker operation</div>
               </a>
           </div>
@@ -208,19 +208,19 @@ title: Experiment
     <div class="row"> 
           <div class="col-xs-4 ">
             <a class="img-wrap" href="#">
-                <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#heliumModal" href="#heliumModal">
+                <img class="to-grey"  src="assets/experiment/demo/helium.jpg" alt="Helium recycling"  data-toggle="modal" data-target="#heliumModal" href="#heliumModal">
                 <div class=legend>Helium recycling</div>
             </a>
           </div> 
           <div class="col-xs-4 ">
              <a class="img-wrap" href="#">
-                <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" style="width:100% ; border: 5px solid var(--second-color);" data-toggle="modal" data-target="#calibModal" href="#calibModal">
+                <img class="to-grey" src="assets/experiment/demo/calib.jpg" alt="Automated calibration" data-toggle="modal" data-target="#calibModal" href="#calibModal">
                 <div class=legend>Automated calibration</div>
             </a>
           </div> 
           <div class="col-xs-4 ">
             <a class="img-wrap" href="#">
-                <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction" style="width:100% ; border: 5px solid var(--second-color);"  data-toggle="modal" data-target="#bkgdModal" href="#bkgdModal">
+                <img class="to-grey" src="assets/experiment/demo/bg.jpg" alt="Background reduction"  data-toggle="modal" data-target="#bkgdModal" href="#bkgdModal">
                 <div class=legend>Background reduction</div>
             </a>
       </div>
@@ -557,7 +557,9 @@ title: Experiment
         <h4 class="modal-title">Automated calibration</h4>
       </div>
       <div class="modal-body" style="overflow:auto">
-          <p>Calibration with Bi207 
+          <p>To ensure accurate energy measurements, SuperNEMO's calorimeter is calibrated using 42 $^{207}$Bi sources with an activity of around 150Bq, positioned in between the $\beta\beta$ source foils in the centre of the detector. $^{207}$Bi is an ideal calibration material, as it produces a well-understood spectrum of both electrons and photons in the energy range relevant to $\beta\beta$ measurements. The calibration sources are deployed once a week by remote shifters, using a new automatic deployment system that lowers the sources into the detector, where they remain for around 6 hours.
+          </p>
+          <p>In addition, a daily calibration is carried out using LED flashes, which allows us to detect any relative change in gain of our optical modules, ensuring that our energy measurements are always current.
           </p>
       </div>
       <div class="modal-footer">
@@ -574,11 +576,18 @@ title: Experiment
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Background reduction</h4>
+          <h4 class="modal-title">External background reduction</h4>
         </div>
         <div class="modal-body" style="overflow:auto">
-            <p>Shielding 
+            <p>When studying ultra-rare processes like $\beta\beta$ decay, the greatest challenge is reducing backgrounds - independent processes like radioactive decays in the lab or in detector components that could mimic your signal. SuperNEMO avoids these as much as possible by constructing the detector from specially-selected radiopure materials; by flushing the tracker with ultra-clean gas (see the helium-recycling section); and by taking advantage of its tracker-calorimeter technology to distinguish between the signatures of signal and background processes. Finally, the detector is surrounded by several systems designed to protect against external contamination. 
             </p>
+            <img src="assets/experiment/shield-layers.png" alt="Shielding layers" style=" float:left; width:20em; padding: 5px;">
+            <ul>
+                <li> A <span style="color:var(--third-color)">magnetic coil</span> enables electron-positron separation.</li>
+                <li> The <span style="color:var(--fourth-color)">anti-radon tent</span>, filled with deradonised air, prevents radioactive gas leaking into the detector.</li>
+                <li> 18cm of <span style="color:var(--second-color)">ultra-pure iron</span> shields against gamma rays from the lab.</li>
+                <li> 24cm of <span style="color:var(--fifth-color)">polyethylene</span> shields against neutrons.</li>
+            </ul>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
