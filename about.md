@@ -454,10 +454,10 @@ title: Experiment
       </div>
       <div class="modal-body" style="overflow:auto">
         <img src="assets/opticalmodule.png" alt="Optical module" style=" float:left; width:10em; padding: 5px;">
-          <p>The calorimeter walls at the outside of the detector measure the energy of particles that reach the edge of the detector. The two main calorimeter walls consist of 520 optical modules. These are blocks of polystyrene scintillator coupled to 8” photomultiplier tubes and wrapped in teflon and mylar, with individual iron shielding.</p>
+          <p>The calorimeter walls at the outside of the detector measure the energy of particles that reach the edge of the detector. The two main calorimeter walls consist of 520 optical modules. These are blocks of polystyrene scintillator coupled to 8” photomultiplier tubes and wrapped in teflon and mylar, with individual iron shielding. Optical modules positioned above, below and to the sides of the tracker, give a total of 712 modules, allowing SuperNEMO to measure particles' individual energies, whatever their direction of travel. Over 97% of the calorimeter is operational, giving excellent coverage.</p>
           
           <img src="assets/calowall.png" alt="Calorimeter wall" style=" float:right; width:15em; padding: 5px;">
-            <p>There are also optical modules positioned above, below and to the sides of the tracker, giving a total of 712 modules. This allows SuperNEMO to measure particles' energies, whatever direction they travel in.</p>
+            <p>SuperNEMO's excellent time resolution - just 615 ps for $\gamma$ rays, with a target of 250ps for 1MeV electrons - allows us to separate $\beta\beta$-like events from externally-generated backgrounds, like electrons crossing the detector. Energy calibration is ongoing, with sophisticated nonlinearity corrections implemented to accurately reproduce detector effects. Our aim is for a resolution of 8% FWHM at 1MeV.</p>
             </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
