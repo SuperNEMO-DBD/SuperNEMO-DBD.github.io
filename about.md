@@ -108,7 +108,7 @@ title: Experiment
     <div class="row">
       
       <div class="col-xs-12 ">
-      <p>Click on the diagram below to learn about the three elements that give the NEMO tracker-calorimeter technique its unique ability to study $\beta\beta$ decays in more detail than other detector designs!</p>
+      <p>Mouse over the diagram below to learn about the three elements that give the NEMO tracker-calorimeter technique its unique ability to study $\beta\beta$ decays in more detail than other detector designs!</p>
       </div>
     </div>
     <div class="row">
