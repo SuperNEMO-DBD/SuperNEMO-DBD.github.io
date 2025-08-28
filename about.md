@@ -311,6 +311,45 @@ title: Experiment
 <!-- PHYSICS GOALS -->
 <div id="physicsgoals" style="display:none">
     <header class="post-header">
+      <h1 class="post-title text-center"> SuperNEMO Demonstrator physics</h1>
+    </header>
+    <div class="row">
+        <div class="col-xs-12 ">
+            <p>SuperNEMO's tracker-calorimeter technology allows full topological event reconstruction, meaning that it can search for a wide range of exotic decays, as well as making precision studies of the $2\nu\beta\beta$ process. A SuperNEMO-style detector will be a vital tool in understanding the $0\nu\beta\beta$ mechanism in the event of a discovery, and a key role of the Demonstrator module is to test the technologies to enable that. However, the Demonstrator itself can also access plenty of exciting physics in just a few years of runtime. Click on the buttons below to learn more about what we can study with the current SuperNEMO detector.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 ">
+        <!-- Tab links -->
+            <div class="tab">
+              <button class="tablinks" onclick="physicsDetails(event, 'neutrinoless')">$0\nu\beta\beta$ decay mechanisms</button>
+              <button class="tablinks" onclick="physicsDetails(event, 'nuclear')">Nuclear physics through $\beta\beta$ decay</button>
+              <button class="tablinks" onclick="physicsDetails(event, 'exotic2nu')">Exotic modes of $2\nu\beta\beta$ </button>
+            </div>
+        </div>
+    </div>
+    <div>
+            <!-- Tab content -->
+            <div id="neutrinoless" class="tabcontent col-xs-12 ">
+              <h1>$0\nu\beta\beta$ decay mechanisms</h1>
+              <p>xxx</p>
+            </div>
+
+            <div id="nuclear" class="tabcontent col-xs-12 ">
+              <h1>Nuclear physics through $\beta\beta$ decay</h1>
+              <p>xxx</p>
+            </div>
+
+            <div id="exotic2nu" class="tabcontent col-xs-12 ">
+              <h1>Exotic modes of $2\nu\beta\beta$ </h1>
+              <p>xxx</p>
+            </div>
+    </div>
+</div>
+
+<!-- Outdated physics goals part -->
+<div id="OLDphysicsgoals" style="display:none">
+    <header class="post-header">
       <h1 class="post-title text-center"> Physics goals</h1>
     </header>
 
