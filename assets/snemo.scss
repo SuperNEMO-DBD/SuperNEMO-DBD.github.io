@@ -19,6 +19,7 @@
 --fifth-color:#005C8A;
 --sixth-color:#FFB948;
 --seventh-color:#605643;
+--body-color:#302d23;
 }
 
 .slider-size {
@@ -147,15 +148,24 @@ background-repeat:no-repeat;
 background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
 color:#fff;
 }
+
+body{
+    color:var(--body-color);
+}
+
+block-quote{
+    color:var(--seventh-color);
+}
+
 h1{
 color:var(--second-color);
 }
 h2{
-color:var(--first-color);
-font-size:26x;
+color:var(--second-color);
+font-size:18x;
 }
 .post-content h2{
-font-size:26px;
+font-size:18px;
 }
 a:link{
 color: var(--fifth-color);

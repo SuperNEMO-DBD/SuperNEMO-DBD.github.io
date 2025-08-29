@@ -12,7 +12,7 @@ title: Experiment
         <header class="post-header">
           <h1 class="post-title text-center">The SuperNEMO experiment</h1>
           </header>
-              <p>The SuperNEMO Demonstrator patricle detector is currently running at the LSM in France.</p>
+              <p>The SuperNEMO Demonstrator particle detector is currently running at the LSM in France.</p>
               
               <p>Use the buttons on the right to find out more about $\beta\beta$ decay, the rare process we are investigating; NEMO's unique tracker-calorimeter design; how SuperNEMO is demonstrating new technologies that could unlock the mystery of $\beta\beta$ decay mechanisms; and the Demonstrator's physics goals.</p>
               <p>Alternatively, why not watch the videos below, made by our current and former students, to get an introduction to SuperNEMO? Don't forget to like and subscribe to our <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel!
@@ -331,13 +331,17 @@ title: Experiment
     <div>
             <!-- Tab content -->
             <div id="neutrinoless" class="tabcontent col-xs-12 ">
-              <h1>$0\nu\beta\beta$ decay mechanisms</h1>
-              <p>An observation of $0\nu\beta\beta$ decay can only occur if a neutrino is a Majorana particle. However, there are several possible mechanisms - all requiring a Majorana neutrino - by which the decay could occur. These manifest in the topology of the decay, which SuperNEMO is uniquely placed to investigate.</p>
-            <h1>Left- or right-handed currents?</h1>
-            <p>The characteristic signature of a neutrinoless $\beta\beta$ decay is one in which the two electrons carry all of the decay energy, $Q_\beta\beta$. Most predictions assume that this takes place through a light-neutrino exchange, via a Standard-Model weak current (V-A process). However, it is possible that some or all decays could instead involve a right-handed weak current (V+A). To preserve conservation laws of physics, these different mechanisms affect the probablity distributions of the angle between the electrons, and how the decay energy is shared between them</p>
-            <img src="assets/experiment/VminusA.png">
-            </div>
-
+                <div id="nuclear" class="col-xs-12 ">
+                <p>An observation of $0\nu\beta\beta$ decay can only occur if a neutrino is a Majorana particle. However, there are several possible mechanisms - all requiring a Majorana neutrino - by which the decay could occur. These manifest in the topology of the decay, which SuperNEMO is uniquely placed to investigate.</p>
+                </div>
+                <div class="col-xs-8">
+                    <h2>Left- or right-handed currents?</h2>
+                    <p>The characteristic signature of a neutrinoless $\beta\beta$ decay is one in which the two electrons carry all of the decay energy, $Q_\beta\beta$. Most predictions assume that this takes place through a light-neutrino exchange, via a Standard-Model weak current (V-A process). However, it is possible that some or all decays could instead involve a right-handed weak current (V+A). To preserve conservation laws of physics, these different mechanisms affect the probablity distributions of the angle between the electrons, and how the decay energy is shared between them</p>
+                </div>
+                <div class="col-xs-4">
+                    <img src="assets/experiment/VminusA.png">
+                </div>
+            </div><!-- 0vbb -->
             <div id="nuclear" class="tabcontent col-xs-12 ">
               <h1>Nuclear physics through $\beta\beta$ decay</h1>
               <p>xxx</p>
