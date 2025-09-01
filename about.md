@@ -13,10 +13,33 @@ title: Experiment
           <h1 class="post-title text-center">The SuperNEMO experiment</h1>
           </header>
               <p>The SuperNEMO Demonstrator particle detector is currently running at the LSM in France.</p>
-              
+
+ 
               <p>Use the buttons on the right to find out more about $\beta\beta$ decay, the rare process we are investigating; NEMO's unique tracker-calorimeter design; how SuperNEMO is demonstrating new technologies that could unlock the mystery of $\beta\beta$ decay mechanisms; and the Demonstrator's physics goals.</p>
               <p>Alternatively, why not watch the videos below, made by our current and former students, to get an introduction to SuperNEMO? Don't forget to like and subscribe to our <a href="https://www.youtube.com/@SuperNEMOExperiment" target="_blank">YouTube</a> channel!
+
+                
              </p>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/tqgiYncqB4w"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube-nocookie.com/embed/n1_cp28B8IY"
+  title="SuperNEMO Source Foils"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy">
+</iframe>
               
 <div class="video-demo">
   <!-- Big player -->
