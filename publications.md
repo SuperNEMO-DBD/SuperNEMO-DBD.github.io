@@ -11,8 +11,16 @@ title: Publications and Media
 <header class="post-header">
 <h1 class="post-title text-center">Publications and Media</h1>
 </header>
-
-  Find out more about SuperNEMO and NEMO-3! Use the links on the right to browse an archive of talks and posters presented at conferences around the world, check out our journal articles, or see what the news media has to say about SuperNEMO.
+    <div class="row">
+      <div class="col-xs-12 ">
+  <p>Find out more about SuperNEMO and NEMO-3! Use the links on the right to browse an archive of talks and posters presented at conferences around the world, check out our journal articles, read our PhD students' theses, or see what the news media has to say about SuperNEMO.</p>
+                  </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 ">
+                 <img src='assets/pubsfrontpage.jpg'  alt="Dr Xalbat Aguerre presents SuperNEMO at TAUP25"/>
+                  </div>
+    </div>
 </div>
 
 <div id="talks" style="display:none">

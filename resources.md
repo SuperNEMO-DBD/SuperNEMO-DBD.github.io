@@ -12,8 +12,16 @@ title: For Collaborators
     <header class="post-header">
         <h1 class="post-title text-center">For collaborators</h1>
     </header>
-    
-    This page is mainly for collaboration members, and provides useful resources and instructions for people working on the experiment. Some of the tools and applications listed below may require a username and password.
+      <div class="row">
+    <div class="col-xs-12 ">
+    <p>This page is mainly for collaboration members, and provides useful resources and instructions for people working on the experiment. Some of the tools and applications listed below may require a username and password.</p>
+    </div></div>
+
+    <div class="row">
+    <div class="col-xs-12">
+    <img src="assets/collabAussois.jpg" alt="SuperNEMO collaborators in Aussois, France">
+    </div>
+    </div>
 </div>
 
 <div id="newsletter" style="display:none">

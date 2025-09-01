@@ -2,22 +2,42 @@
 <script type="text/javascript">
   $(document).ready(function(){
                     $("a.calomap").hover(function(){
-                                 $("a.calomap").css("opacity", "0.5");
+                                 $("a.calomap").css("opacity", "0.3");
+                                 $("#calowords").show();
                                  }, function(){
                                          $("a.calomap").css("opacity", "0");
+                                         $("#calowords").hide();
                                  });
                     $("a.trackmap").hover(function(){
-                                         $("a.trackmap").css("opacity", "0.5");
+                                         $("a.trackmap").css("opacity", "0.3");
+                                         $("#trackerwords").show();
                                          }, function(){
                                          $("a.trackmap").css("opacity", "0");
+                                         $("#trackerwords").hide();
                                           });
                     $("a.srcmap").hover(function(){
-                                          $("a.srcmap").css("opacity", "0.5");
+                                          $("a.srcmap").css("opacity", "0.3");
+                                          $("#srcwords").show();
                                           }, function(){
                                           $("a.srcmap").css("opacity", "0");
+                                          $("#srcwords").hide();
                                           });
                     });
   </script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+                  $("a.img-source").hover(function(){
+                               $("a.div-source").css("background", "#f00");
+                               }, function(){
+                                   $("a.div-source").css("background", "#000");
+                               });
+});
+</script>
+
+
+
+
 
 <script type="text/javascript">
   $(document).ready(function(){
@@ -89,6 +109,7 @@
                                           $("#physicsgoals").hide();
                                           $("#funding").hide();
                                           $("#expinfo").hide();
+                                          $("#technique").hide();
                                           });
                     $("#btn_snemo").click(function(){
                                           $("#thephysics").hide();
@@ -97,6 +118,7 @@
                                           $("#physicsgoals").hide();
                                           $("#funding").hide();
                                           $("#expinfo").hide();
+                                          $("#technique").hide();
                                           });
                     $("#btn_nemo3").click(function(){
                                           $("#thephysics").hide();
@@ -105,6 +127,7 @@
                                           $("#physicsgoals").hide();
                                           $("#funding").hide();
                                           $("#expinfo").hide();
+                                          $("#technique").hide();
                                           });
                     $("#btn_goals").click(function(){
                                           $("#thephysics").hide();
@@ -113,6 +136,7 @@
                                           $("#physicsgoals").show();
                                           $("#funding").hide();
                                           $("#expinfo").hide();
+                                          $("#technique").hide();
                                           });
                     $("#btn_funding").click(function(){
                                           $("#thephysics").hide();
@@ -121,6 +145,25 @@
                                           $("#physicsgoals").hide();
                                           $("#funding").show();
                                           $("#expinfo").hide();
+                                          $("#technique").hide();
+                                          });
+                    $("#btn_tech").click(function(){
+                                          $("#thephysics").hide();
+                                          $("#detector").hide();
+                                          $("#nemo3").hide();
+                                          $("#physicsgoals").hide();
+                                          $("#funding").hide();
+                                          $("#expinfo").hide();
+                                          $("#technique").show();
+                                          });
+                    $("#btn_expinfo").click(function(){
+                                          $("#thephysics").hide();
+                                          $("#detector").hide();
+                                          $("#nemo3").hide();
+                                          $("#physicsgoals").hide();
+                                          $("#funding").hide();
+                                          $("#expinfo").show();
+                                          $("#technique").hide();
                                           });
                     });
                     
@@ -202,3 +245,62 @@
                     });
                     
   </script>
+
+<script>
+  const player = document.getElementById('player');
+  const playerWrap = document.getElementById('playerWrap');
+
+  function buildEmbedSrc(id, autoplay = false) {
+    // Use the privacy-enhanced domain
+    const base = `https://www.youtube-nocookie.com/embed/${id}`;
+    const params = new URLSearchParams({
+      autoplay: autoplay ? '1' : '0',
+      rel: '0',
+      modestbranding: '1',
+      playsinline: '1'
+    });
+    return `${base}?${params.toString()}`;
+  }
+
+  function selectThumb(btn) {
+    document.querySelectorAll('.thumb.is-active').forEach(b => b.classList.remove('is-active'));
+    btn.classList.add('is-active');
+  }
+
+  document.querySelectorAll('.thumb[data-video-id]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.videoId;
+      // Set/replace the one iframe’s src and show it
+      player.src = buildEmbedSrc(id, true);
+      playerWrap.hidden = false;
+      selectThumb(btn);
+      // Optional: move focus to player for screen-reader users
+      player.focus?.();
+    });
+  });
+</script>
+
+<script  type="text/javascript">
+// Tabs for the physics page
+function physicsDetails(evt, cityName) {
+
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
