@@ -331,25 +331,60 @@ title: Experiment
     <div>
             <!-- Tab content -->
             <div id="neutrinoless" class="tabcontent col-xs-12 ">
-                <div id="nuclear" class="col-xs-12 ">
+                <div class="col-xs-12 ">
                 <p>An observation of $0\nu\beta\beta$ decay can only occur if a neutrino is a Majorana particle. However, there are several possible mechanisms - all requiring a Majorana neutrino - by which the decay could occur. These manifest in the topology of the decay, which SuperNEMO is uniquely placed to investigate.</p>
+                                    <h2>Left- or right-handed currents?</h2>
+                    <p>The characteristic signature of a neutrinoless $\beta\beta$ decay is one in which the two electrons carry all of the decay energy, $Q_\beta\beta$. Most predictions assume that this takes place through a light-neutrino exchange, via a Standard-Model weak current (V-A process). However, it is possible that some or all decays could instead involve a right-handed weak current (V+A). To preserve conservation laws of physics, these different mechanisms affect the probablity distributions of the angle between the electrons, and how the decay energy is shared between them.</p>
                 </div>
-                <div class="col-xs-8">
-                    <h2>Left- or right-handed currents?</h2>
-                    <p>The characteristic signature of a neutrinoless $\beta\beta$ decay is one in which the two electrons carry all of the decay energy, $Q_\beta\beta$. Most predictions assume that this takes place through a light-neutrino exchange, via a Standard-Model weak current (V-A process). However, it is possible that some or all decays could instead involve a right-handed weak current (V+A). To preserve conservation laws of physics, these different mechanisms affect the probablity distributions of the angle between the electrons, and how the decay energy is shared between them</p>
-                </div>
+
                 <div class="col-xs-4">
                     <img src="assets/experiment/VminusA.png">
                 </div>
+                <div class="col-xs-8">
+                    <img src="assets/experiment/VplusA.png">
+                </div>
+                <div class="col-xs-4">
+                    Light-neutrino exchange with a V-A current favours:
+                    <ul>
+                        <li>Back-to-back electrons</li>
+                        <li>Similar energies</li>
+                    </ul>
+                    <p>This is the most commonly-assumed model for $0\nu\beta\beta$ searches. If the SuperNEMO Demonstrator runs for around 4 years, we expect it to become the world's most sensitive detector to $0\nu\beta\beta$ of the $^{82}$Se isotope.</p>
+                </div>
+                <div class="col-xs-8">
+                    Decays with a left-right symmetric component favour:
+                    <ul>
+                        <li>A small angle between the electrons</li>
+                        <li>Energy asymmetry</li>
+                    </ul>
+                    <p><b>SuperNEMO's technology is uniquely able to measure the individual electron energies and angle between electron tracks.</b> This gives it the potential of determining whether there is a left-right symmetric component to the decay, if $0\nu\beta\beta is observed, and to look for this characteristic topology, setting world-leading limits if it is not found.</p>
+                </div>
+                <div class="col-xs-12 ">
+                    <h2>Majoron emission</h2>
+                    <p>Some models for  $0\nu\beta\beta$ predict the emission of one or more additional beyond-the-Standard-Model bosons called Majorons; undetectable particles which, like neutrinos, would take some of decay energy from the electrons. In models, $0\nu\beta\beta$ would not cause the electrons' energy to sum to the total decay energy - instead, it would manifest as a distortion to the 2-electron energy spectrum dominated by $2\nu\beta\beta$ decay. With its excellent background rejection over the $2\nu\beta\beta$ energy range, <b>SuperNEMO expects to achieve world-leading sensitivity to these processes in just a year or two of running.</b> </p>
+                </div>
             </div><!-- 0vbb -->
             <div id="nuclear" class="tabcontent col-xs-12 ">
-              <h1>Nuclear physics through $\beta\beta$ decay</h1>
-              <p>xxx</p>
+                <div class="col-xs-7 ">
+                    <h2>$\beta\beta$ decays to excited states</h2>
+                  <p>SuperNEMO's tracker-calorimeter technoology allows it to separately identify and measure the energies and timings of both electrons and photons. This capability is particularly useful for studying $\beta\beta$ decays to excited states of the daughter nucleus, which then return to the ground state via emission of one or more photons with characteristic energies. </p>
+                </div>
+                <div  class="col-xs-5 ">
+                    <img src="/assets/experiment/e_vs_gamma.png">
+                </div>
+                <div class="col-xs-12">
+                    <p>This enabled our predecessor, NEMO-3, to make world's-best measurements of $2\nu\beta\beta$ decays of <a href ="http://dx.doi.org/10.1140/epjc/s10052-019-6948-4"  target="_blank">$^{100}$Mo</a>, <a href ="http://dx.doi.org/10.1140/epjc/s10052-023-12227-x"  target="_blank">$^{150}$Nd</a> and <a href ="http://dx.doi.org/10.1016/j.nuclphysa.2020.121701"  target="_blank">$^{82}$Se</a> to excited states, and to set limits on $0\nu\beta\beta$ to excited states.</p>
+                    
+                        <h2>Nuclear decay mechanism and $g_A$ quenching</h2>
+                        <p> If $0\nu\beta\beta$ is discovered, it will be possible to derive a neutrino mass estimate from the measured decay rate. However, theories show that the decay rate depends strongly on the nuclear physics of the decay; the difficulty in understanding this introduces huge uncertainties into any derived quantities. In particular. the $0\nu\beta\beta$ rate depends strongly on the effective value of the axial-vector coupling constant, $g_A$, which is known to be quenched in heavy elements.
+                        Precise measurement of the $2\nu\beta\beta$ process with SuperNEMO can provide highly relevant and
+                        unique insights into the quenching of the axial coupling constant $g_A$ through a simultaneous fit of
+                        the energy sum of the two electrons, and the individual energy spectra of each electron.</p>  
+                </div>
             </div>
-
             <div id="exotic2nu" class="tabcontent col-xs-12 ">
-              <h1>Exotic modes of $2\nu\beta\beta$ </h1>
-              <p>xxx</p>
+              <h2>Exotic modes of $2\nu\beta\beta$ </h2>
+              <p>While Standard Model $2\nu\beta\beta$ has been observed by several experiments, precise studies of the decay spectra could reveal Beyond-the-Standard-Model variations on the process. Some of these, such as the presence of a right-handed sterile neutrino, would tend to manifest as distortions to the individual energy spectrum for  $2\nu\beta\beta$, and to distribution of angles between the electrons. SuperNEMO's full topological reconstruction gives the experiment unique access to this information. Additional, with our excellent brackground reduction across the $2\nu\beta\beta$ energy scale, we ill be able to look for other exotic processes sucha s the presentce of heavy sterile neutrinos, bosonic neutrinos, or Lorentz-violating decays.</p>
             </div>
     </div>
 </div>
