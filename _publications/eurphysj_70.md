@@ -1,5 +1,5 @@
 ---
-title: "The SuperNEMO project"
+title: "Probing new physics models of neutrinoless double beta decay with SuperNEMO"
 journal: "Eur. Phys. J. C (2010) 70: 927."
 date: 18-11-2010
 doi: 10.1140/epjc/s10052-010-1481-5
