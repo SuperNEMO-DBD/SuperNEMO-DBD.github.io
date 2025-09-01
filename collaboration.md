@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Collaboration
+title: Collaboration
 ---
 
 SuperNEMO is an international collaboration comprising physicists and engineers from across Europe and beyond.
