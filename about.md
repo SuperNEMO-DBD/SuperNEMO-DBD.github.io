@@ -36,23 +36,33 @@ title: Experiment
   <!-- Thumbnails -->
   <ul class="thumbs" aria-label="Video list">
     <li>
-      <button class="thumb" data-video-id="n1_cp28B8IY" aria-label="Play: Source Foils">
-        <img
-          src="https://i.ytimg.com/vi/n1_cp28B8IY/hqdefault.jpg"
-          alt="Source foils thumbnail"
-          loading="lazy"
-          width="320" height="180"
-        />
+    <button class="thumb" data-video-id="n1_cp28B8IY" aria-label="Play: Source Foils">
+        <div class="thumbcontainer">
+            <img
+                src="https://i.ytimg.com/vi/n1_cp28B8IY/hqdefault.jpg"
+                alt="Source foils thumbnail"
+                loading="lazy"
+                width="320" height="180"
+            />
+            <div class="thumbcontent">
+              <p>$\beta\beta$ source foils</p>
+            </div>
+        </div>
       </button>
     </li>
     <li>
       <button class="thumb" data-video-id="tqgiYncqB4w" aria-label="Play: Tracker">
-        <img
-          src="https://i.ytimg.com/vi/tqgiYncqB4w/hqdefault.jpg"
-          alt="Tracker thumbnail"
-          loading="lazy"
-          width="320" height="180"
-        />
+        <div class="thumbcontainer">
+            <img
+              src="https://i.ytimg.com/vi/tqgiYncqB4w/hqdefault.jpg"
+              alt="Tracker thumbnail"
+              loading="lazy"
+              width="320" height="180"
+            />
+            <div class="thumbcontent">
+              <p>SuperNEMO tracker</p>
+            </div>
+        </div>
       </button>
     </li>
     <!-- Add more thumbnails as needed -->
