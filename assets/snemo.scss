@@ -69,7 +69,6 @@ font-size:1.8vmin;
 .square {
 float:left;
 position: relative;
-font-size:vmin;
 width: 100%;
 border-radius: 7px;
 padding-bottom : 40%;
@@ -182,6 +181,8 @@ a:active{
 color: var(--first-color);
 }
 
+
+
 a.itemtitle {
 color: var(--second-color);
 }
@@ -214,14 +215,21 @@ color: var(--sixth-color)
 color:  var(--sixth-color)
 }
 .site-nav a:hover{
-color: var(--second-color);
+color: #FFFFFF;
+text-decoration: none;
 }
+
 
 .site-title, .site-title:visited{
 letter-spacing: -0.7px;
 color:#FFFFFF;
 font-size: 50px;
 font-weight: 400;
+}
+
+.site-title:hover{
+    text-decoration: none;
+    color:  var(--sixth-color)
 }
 
 h1.post-title {
@@ -382,3 +390,46 @@ color:var(--second-color);
   border-top: none;
 }
 
+/* Change nav link text colour only in the collapsed (hamburger) menu */
+@media screen and (max-width: 600px) { /* 991.98px lg breakpoint; use 767.98px for -md, 575.98px for -sm */
+  /* Links in the collapsed panel */
+
+      .site-nav a{
+        color: var(--first-color);
+      }
+    .site-nav a:visited{
+        color: var(--first-color);
+      }
+     .site-nav a:hover {
+        color: var(--second-color);
+      }
+      
+    .square {
+    font-size:12px;
+}
+    .site-title{
+    font-size: 30px;
+    }
+  }
+  
+.footer-col-wrapper p{
+    font-size: 12px;
+}
+.site-footer p{
+    font-size: 12px;
+}
+.thumbcontainer {
+  position: relative;
+  max-width: 800px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+.thumbcontainer .thumbcontent {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 10px; /* Some padding */
+}

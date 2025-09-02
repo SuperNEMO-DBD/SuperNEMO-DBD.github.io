@@ -36,11 +36,11 @@ layout: home
       </div>
       
       <br/>
-      <h1 class="post-title">Searching for Neutrinoless Double Beta Decay</h1>
+      <h1 class="post-title">Understanding Double-Beta Decay</h1>
       <p>The NEMO (Neutrino Ettore Majorana Observatory) collaboration is an international physics effort including the experiment SuperNEMO and its predecessor, NEMO-3. </p>
-<p>The <a href="about.html#detector">SuperNEMO demonstrator module</a> is currently being assembled at the <a href="http://www.lsm.in2p3.fr">LSM</a> underground lab, located in the Fréjus tunnel near Modane, France. NEMO-3, also at the LSM, ran from 2003-11. Its rich repository of data is still being analysed today.</p>
+<p>The <a href="about.html#detector">SuperNEMO demonstrator module</a> is currently taking data at the <a href="http://www.lsm.in2p3.fr">LSM</a> underground lab, located in the Fréjus tunnel near Modane, France. NEMO-3, also at the LSM, ran from 2003-11. Its rich repository of data has yielded world's-best results for several rare processes.</p>
 
-<p> Both SuperNEMO and NEMO-3 are designed to study extremely rare double-beta decay processes, and in particular are looking for evidence of <a href="about.html#thephysics">neutrinoless double beta decay</a>. This is a rare type of radioactive decay which has been predicted, but has never been observed. If this process was seen, it would prove that neutrinos were their own antiparticles, which could be a clue to the matter-antimatter asymmetry in the universe.</p>
+<p> Both SuperNEMO and NEMO-3 have been designed to study extremely rare double-beta decay processes, and in particular are looking for evidence of <a href="about.html#thephysics">neutrinoless double beta decay</a>. This is a type of radioactive decay which has been predicted, but has never been observed. If this process was seen, it would prove that neutrinos were their own antiparticles, which could be a clue to the matter-antimatter asymmetry in the universe, and help us understand the nature of the neutrino. SuperNEMO's tracker-calorimeter technique has the capability to probe the mechanism through which these decays take place, making it a unique and vital tool in the international double-beta-decay science programme.</p>
     </div>
     
     <div class="col-xs-3">
