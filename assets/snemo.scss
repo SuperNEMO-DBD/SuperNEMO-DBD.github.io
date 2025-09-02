@@ -182,6 +182,8 @@ a:active{
 color: var(--first-color);
 }
 
+
+
 a.itemtitle {
 color: var(--second-color);
 }
@@ -214,14 +216,21 @@ color: var(--sixth-color)
 color:  var(--sixth-color)
 }
 .site-nav a:hover{
-color: var(--second-color);
+color: #FFFFFF;
+text-decoration: none;
 }
+
 
 .site-title, .site-title:visited{
 letter-spacing: -0.7px;
 color:#FFFFFF;
 font-size: 50px;
 font-weight: 400;
+}
+
+.site-title:hover{
+    text-decoration: none;
+    color:  var(--sixth-color)
 }
 
 h1.post-title {
