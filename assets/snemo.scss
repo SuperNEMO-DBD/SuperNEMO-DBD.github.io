@@ -69,7 +69,6 @@ font-size:1.8vmin;
 .square {
 float:left;
 position: relative;
-font-size:vmin;
 width: 100%;
 border-radius: 7px;
 padding-bottom : 40%;
@@ -391,3 +390,24 @@ color:var(--second-color);
   border-top: none;
 }
 
+/* Change nav link text colour only in the collapsed (hamburger) menu */
+@media screen and (max-width: 600px) { /* 991.98px lg breakpoint; use 767.98px for -md, 575.98px for -sm */
+  /* Links in the collapsed panel */
+
+      .site-nav a{
+        color: var(--first-color);
+      }
+    .site-nav a:visited{
+        color: var(--first-color);
+      }
+     .site-nav a:hover {
+        color: var(--second-color);
+      }
+      
+    .square {
+    font-size:10px;
+}
+    .site-title{
+    font-size: 40px;
+    }
+  }
