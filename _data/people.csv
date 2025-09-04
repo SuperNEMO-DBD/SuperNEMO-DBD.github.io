@@ -6,17 +6,17 @@ PERROT,Frederic,fperrot@CENBG.IN2P3.FR,Perrot,Frederic,CENBG,Researcher,,Low Bac
 PIQUEMAL,Fabrice,piquemal@CENBG.IN2P3.FR,Piquemal,Fabrice,CENBG,Researcher/ Academic,,"Former spokesperson (2005-2017), LSM director",y,y
 Lahaie,Antoine,lahaie@cenbg.in2p3.fr,Lahaie,Antoine,CENBG,PhD student,,Radon,y,y
 Granjon,Mathis,granjon@cenbg.in2p3.fr,Granjon,Mathis,CENBG,PhD student,,Calibration,y,y
-BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,,,Radon,y,y
+BUSTO,Jose,busto@CPPM.IN2P3.FR,Busto,Jose,CPPM,Professor,,Radon,y,y
 Tedjditi,Hichem,tedjditi@cppm.in2p3.fr,Tedjditi,Hichem,CPPM,Former PhD student  ,assets/people/Hichem.jpg,"Radon, nuclear physics, detector physics",y,y
-VOROBEL,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
-HODAK,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,,assets/people/hodak.jpg,Sheilding,y,y
-Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Masters Student (with FNSPE CTU in Prague),,,y,y
-Macko,Miroslav,miroslav.macko@utef.cvut.cz,Macko,Miroslav,CVUT,Permanent position,,Deputy Physics Coordinator,y,y
-Mendl,Adam,,Mendl,Adam,CVUT,Bachelor student (with FMP CU),,,y,y
-Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),,,y,y
-Konarik,Filip,,Konarik,Filip,CVUT,Masters student,,Calibration,n,n
-Shitov,Yury,yury.shitov@cvut.cz,Shitov,Yury,CVUT,,,,y,y
-STEKL,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,,assets/people/stekl.png,IB chair,y,y
+Vorobel,Vit,vorobel@ipnp.troja.mff.cuni.cz,Vorobel,Vit,CUNI,Assistant professor,,Scintillator,y,y
+Hodak,Rastislav,rastislav.hodak@utef.cvut.cz,Hodak,Rastislav,CVUT,Researcher,assets/people/Rastislav.Hodak.jpg,"Calorimeter and Shielding",y,y
+Krizak,Tomas,tomas.krizak@utef.cvut.cz,Krizak,Tomas,CVUT,Researcher,assets/people/Tomas.Krizak.jpg,"Track reconstruction software",y,y
+Macko,Miroslav,miroslav.macko@utef.cvut.cz,Macko,Miroslav,CVUT,Researcher,assets/people/Miroslav.Macko.jpg,Deputy Physics Coordinator,y,y
+Mendl,Adam,adam.mendl@cvut.cz,Mendl,Adam,CVUT,Bachelor student (with FMP CU),,Neural networks for track clustering,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,CVUT,PhD student (CTU Prague / Comenius University),assets/people/Maros.Petro.jpg,"Sensitivities and exotic modes of DBD",y,y
+Konarik,Filip,,Konarik,Filip,CVUT,Graduate,,Calibration software,n,n
+Shitov,Yury,yury.shitov@cvut.cz,Shitov,Yury,CVUT,Researcher,,,y,y
+Stekl,Ivan,ivan.stekl@utef.cvut.cz,Stekl,Ivan,CVUT,IEAP Director,assets/people/stekl.png,IB chair,y,y
 Aguerre,Xalbat,xauguerre@ed.ac.uk,Aguerre,Xalbat,Edinburgh,Postdoc,,,y,y
 Li,Elvis,s1724346@sms.ed.ac.uk,Li,Elvis,Edinburgh,PhD student,,,y,y
 Patrick,Cheryl,cpatrick@ed.ac.uk,Patrick,Cheryl,Edinburgh,STFC Ernest Rutherford Fellow,assets/people/Cheryl_Patrick_2016_w.jpg,Co-Spokesperson,y,y
@@ -81,15 +81,15 @@ Barnett,Harry,h.barnett@ucl.ac.uk,Barnett,Harry,UCL,Engineer,,Shielding,y,y
 Godden,Connor,c.godden@ucl.ac.uk,Godden,Connor,UCL,Mechanical Engineer,,Shielding,y,y
 Quinn,William,william.quinn.14@ucl.ac.uk,Quinn,William,UCL,Former PhD student  ,assets/people/will.jpeg,,y,y
 WATERS,David,d.waters@UCL.AC.UK,Waters,David,UCL,Professor,assets/people/David_Waters_2013_w.jpg,Former Spokesperson and Tracker Coordinator,y,y
-BREIER,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,,,Software coordinator,y,y
-DVORNICKY,Rastislav,dvornicky@teller.dnp.fmph.uniba.sk,Dvornicky,Rastislav,Uniba,,,,y,y
-Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),,,y,y
-Kaizer,Jakub,jakub.kaizer@fmph.uniba.sk,Kaizer,Jakub,Uniba,,,Theorist,y,y
-POVINEC,Pavel,pavel.povinec@fmph.uniba.sk,Povinec,Pavel,Uniba,,,,y,y
-SIMKOVIC,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,,,Theorist,y,y
+Breier,Robert,breier@fmph.uniba.sk,Breier,Robert,Uniba,Researcher,,Software coordinator,y,y
+Dvornicky,Rastislav,dvornicky@teller.dnp.fmph.uniba.sk,Dvornicky,Rastislav,Uniba,Researcher,,Theorist,y,y
+Petro,Maros,maros.petro@utef.cvut.cz,Petro,Maros,Uniba,PhD student (CTU Prague / Comenius University),assets/people/Maros.Petro.jpg,"Sensitivities and exotic modes of DBD",y,y
+Kaizer,Jakub,jakub.kaizer@fmph.uniba.sk,Kaizer,Jakub,Uniba,Researcher,,,y,y
+Povinec,Pavel,pavel.povinec@fmph.uniba.sk,Povinec,Pavel,Uniba,Professor,,Background,y,y
+Simkovic,Fedor,fedor.simkovic@fmph.uniba.sk,Simkovic,Fedor,Uniba,Professor,,Theorist,y,y
 LANG,Karol,lang@PHYSICS.UTEXAS.EDU,Lang,Karol,UTAustin,Professor,,,y,y
 PROGA,Marek,proga@PHYSICS.UTEXAS.EDU,Proga,Marek,UTAustin,Engineer,,,y,y
 RAMACHERS,Yorck,y.a.ramachers@warwick.ac.uk,Ramachers,Yorck,Warwick,Faculty,assets/people/YorckRamachers.jpg,Physics coordinator (to 2018),y,y
 SUZUKI,Koutaku,ksuzuki@werc.or.jp,Suzuki,Kohtaku,WERC,Researcher,,Data acquisition,y,y
 Nemoshchenkov,Nazar,nemoshchenkovn@knu.ua,Nemoshchenkov,Nazar,KNU,Bachelors student,,,y,y
-Kovalenko,Ivan,ivan.kovalenko@knu.ua,Kovalenko,Ivan,KNU,Masters Student ,,,y,y
+Kovalenko,Ivan,ivan.kovalenko@knu.ua,Kovalenko,Ivan,KNU,Masters Student,,,y,y
