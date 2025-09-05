@@ -35,6 +35,21 @@ title: Experiment
 
   <!-- Thumbnails -->
   <ul class="thumbs" aria-label="Video list">
+      <li>
+        <button class="thumb" data-video-id="DaCn4sh0aIk" aria-label="Play: Double beta">
+          <div class="thumbcontainer">
+              <img
+                src="https://i.ytimg.com/vi/DaCn4sh0aIk/hqdefault.jpg"
+                alt="Double-beta thumbnail"
+                loading="lazy"
+                width="320" height="180"
+              />
+              <div class="thumbcontent">
+                <p>$\beta\beta$ decay</p>
+              </div>
+          </div>
+        </button>
+      </li>
     <li>
     <button class="thumb" data-video-id="n1_cp28B8IY" aria-label="Play: Source Foils">
         <div class="thumbcontainer">
