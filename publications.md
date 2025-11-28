@@ -64,10 +64,10 @@ title: Publications and Media
     {% for article in articles_by_date %}
     <div class="row">
       <div class='col-xs-2'>
-        <a  href="{{ article.remoteurl }}" target="_blank"> <img src="{{ article.thumbnail}}" class="img-thumbnail" alt="{{ article.media }} logo"></a>
+        {% if article.remoteurl %}<a  href="{{ article.remoteurl }}" target="_blank"> {% endif %}<img src="{{ article.thumbnail}}" class="img-thumbnail" alt="{{ article.media }} logo">{% if article.remoteurl %}</a>{% endif %}
           </div>
       <div class='col-xs-10'>
-        <p><a  class="itemtitle" href="{{ article.remoteurl }}" target="_blank"> <strong>{{ article.title }}</strong></a>, from {{ article.media }}, {{ article.date | date_to_long_string }}<br/>
+        <p>{% if article.remoteurl %}<a  class="itemtitle" href="{{ article.remoteurl }}" target="_blank">{% endif %} <strong>{{ article.title }}</strong>{% if article.remoteurl %}</a>{% endif %}, from {{ article.media }}, {{ article.date | date_to_long_string }}<br/>
         <i>{{article.abstract}}</i>
         </p>
       </div>

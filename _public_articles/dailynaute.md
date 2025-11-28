@@ -1,7 +1,6 @@
 ---
 media: "Radio France Internationale"
 date: 1-1-2009
-remoteurl: "http://www.dailynaute.com/docs/Fabrice_Piquemal_directeur_du_L_S_M_.mp3"
 title: Interview de Fabrice Piquemal, porte-parole de SuperNEMO et directeur du LSM (en francais)
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1280px-RFI_logo_2013.svg.png"
 abstract: |
