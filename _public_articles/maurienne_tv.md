@@ -1,7 +1,7 @@
 ---
 media: "Maurienne TV"
 date: 21-11-2017
-remoteurl: "https://www.maurienne.tv/index.php?post/2017/11/21/Maurienne-reportage-103-SuperNemo"
+remoteurl: "https://www.dailymotion.com/video/x6a6ysi"
 title: "Maurienne reportage #103 SuperNemo"
 thumbnail: "assets/pub_imgs/logo-maurienne-tv.jpg"
 abstract: |
