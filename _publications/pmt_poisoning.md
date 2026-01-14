@@ -1,6 +1,6 @@
 ---
 title: "The impact of helium exposure on the PMTs of the SuperNEMO experiment"
-journal: "JINST (2025) 20 P06018"
+journal: "JINST 20 (2025) P06018"
 date: 17-06-2025
 doi: 10.1088/1748-0221/20/06/P06018
 image_url: "assets/pub_imgs/pmt_poison.png"
