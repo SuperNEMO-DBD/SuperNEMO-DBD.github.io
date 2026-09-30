@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Congratulations to Dr. Maroš Petro!"
+date:   2026-08-26 09:00:00 +0000
+thumbnail: "assets/post_images/Maros_PhD.jpg"
+categories: phd supernemo
+---
+
+We are pleased to congratulate Maroš Petro on the successful defense of his Ph.D. thesis, "Beyond the Standard Model Physics with the SuperNEMO Demonstrator: Simulation-Based Sensitivity Estimations and Data Analysis". His work focused on searches for physics beyond the Standard Model using the SuperNEMO experiment, including detector simulations, sensitivity studies, and the analysis of the first experimental data.
+
+
+We congratulate Maroš on this important achievement and wish him success in his future career and personal endeavors.
+
+![Maroš Petro, a new doctor in SuperNEMO!]({{"assets/post_images/Maros_PhD.jpg"| relative_url }}){:style="display:block; margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px; width:700px;"}
