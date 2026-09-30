@@ -1,5 +1,6 @@
 ---
-startdate: 
+startdate: 2026-01-20
+
 remoteurl: 
 location: "Surrey, England" 
 thumbnail: "https://indico.global/event/15850/logo-731682706.png"
